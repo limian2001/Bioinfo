@@ -1,0 +1,2964 @@
+amphotericin;zalcitabine
+b-blocking drug;dobutamine
+levodopa;wellbutrin
+itraconazole;rifampin
+naproxen;probenecid
+5-ht1 agonists;selective serotonin reuptake inhibitors
+starlix;thiazides
+levo-dromoran;sedatives
+levobupivacaine;phenytoin
+ibandronate;vitamins
+acetaminophen;cns depressants
+proton pump inhibitors;sucralfate
+clozapine;erythromycin
+buprenorphine;levo-dromoran
+cyclosporine;lodine
+anagrelide;cilostazol
+antacids;norfloxacin
+lofexidine;sedatives
+dopaminergic agents;zyvox
+equetrotm;propoxyphene
+aripiprazole;fluoxetine
+cisapride;sprycel
+acetaminophen;busulfex
+amphetamines;tricyclic antidepressants
+colestipol hydrochloride;propranolol
+antianxiety agents;hydrocodone
+apomorphine;ondansetron
+equetrotm;zonisamide
+cyclosporine;nsaids
+anticoagulant;metronidazole
+carbamate insecticide;phospholine iodide
+antibiotics;nuromax
+anticoagulant;primidone
+equetrotm;ethosuximide
+anticoagulants;erythromycin
+agents with b-blocking properties;insulin
+anticoagulants;corticosteroids
+levulan kerastick;thiazide diuretics
+activase;heparin
+precedex;sedative
+adenocard;digoxin
+cns depressant drugs;imipramine hydrochloride
+ace-inhibitors;nsaids
+acidifying agents;colchicine
+cholinesterase inhibitors;dipyridamole
+l-arginine;nitrates
+cis-platinum;proleukin
+indinavir;tadalafil
+clindamycin;neuromuscular blocking agents
+colestipol hydrochloride;digoxin
+anticoagulant;bezalip
+edecrin;non- steroidal anti- inflammatory agents
+alcohol;antipsychotic agents
+interleukin-1 antagonist;tnf-blocking agent
+fenfluramine;reserpine
+fentanyl;nelfinavir
+alpha-adrenergic blocking agents;dopamine hcl
+duloxetine;propafenone
+cyclosporine;hmg-coa reductase inhibitors
+corticosteroids;cyclosporine
+brevibloc;succinylcholine
+amphetamines;methenamine
+atropine;clozapine
+anticoagulant;diazoxide
+benzodiazepines;ethyl alcohol
+beta-blockers;proleukin
+magnesium;zalcitabine
+colistin;nondepolarizing agents
+atazanavir;sprycel
+anticoagulant;clofibrate
+buspirone hcl;haloperidol
+cholestyramine;hydrochlorothiazide
+celexa;escitalopram
+cytosine arabinoside;flucytosine
+barbiturates;nabilone
+acetazolamide;quinidine
+bupropion;sertraline
+arava;warfarin
+combination hormonal contraceptives;nevirapine
+aminosalicylic acid;digoxin
+codeine;sedative-hypnotics
+gleevec;hmg-coa reductase inhibitors
+calcitriol;phenobarbital
+magnesium;quinolones
+erythromycin;sprycel
+amphetamines;reserpine
+fexofenadine hydrochloride;magnesium
+anticoagulants;clofibrate
+calcium channel blockers;nitrates
+anakinra;enbrel
+aspirin;vioxx
+anesthetics;levo-dromoran
+alosetron;quinolone antibiotics
+interferon-alfa;proleukin
+b-lactam antibiotics;cefditoren pivoxil
+aspirin;fenoprofen
+barbiturates;butorphanol
+cyclosporine;nonsteroial anti-inflammatory drugs
+barbiturates;fludrocortisone acetate
+cycloserine;ethionamide
+disopyramide;zebeta
+clonidine hydrochloride;sedatives
+antihistamines;levsin
+anticholinergic agents;enablex
+acetaminophen;narcotic analgesic
+casodex;coumarin anticoagulants
+bezalip;cholestryramine
+indocin;potassium-sparing diuretics
+indocin;triamterene
+benzodiazepines;ergotamine
+bepridil hydrochloride;cardiac glycosides
+astemizole;ketoconazole
+nisoldipine;quinidine
+bezalip retard;insulin
+bupropion;metoprolol
+adenosine;methylxanthines
+alendronate;multivalent cations
+alcohol;diphenhydramine hydrochloride
+5-ht1 agonists;fluoxetine
+cephalosporins;probenecid
+macrolide antibiotics;terfenadine
+anticholinergic medications;ipratropium bromide
+benzodiazepines;fluvoxamine
+tiagabine;valproate
+aminoglycoside antibiotics;cephalosporins
+chlordiazepoxide;tagamet
+quinolones;zinc
+digoxin;sulfasalazine
+enbrel;sulfasalazine
+taxol;teniposide
+folic acid;vitamin b12
+nondepolarizing agents;sodium colistemethate
+asparaginase;levothyroxine sodium
+glimepiride;magnesium/choline salicylate
+anakinra;tnfa-blocking agents
+nitrofurantoin;uricosuric drugs
+cimetidine;isradipine
+agents with b-blocking properties;hypoglycemics
+vioxx;warfarin
+fenfluramine;methyldopa
+frovatriptan;ssri
+nefazodone;sprycel
+vancomycin;vistide
+axert;ssri
+anticoagulant;monoamine oxidase inhibitors
+alprazolam;digoxin
+cimetidine;xanax
+fluvoxamine;n-desmethyldiazepam
+ortho-novum;valdecoxib
+edetate calcium disodium;steroids
+doxorubicin;proleukin
+barbiturates;ketamine
+felbamate;progestins
+fluoxetine;imipramine
+coly-mycin m;sodium cephalothin
+lorazepam;phenothiazines
+bosentan;lovastatin
+alfenta;opioids
+lopinavir;nevirapine
+inh;ketoconazole
+halothane;tracrium
+cyclosporine;quinolones
+lomefloxacin;videx
+aliskiren;furosemide
+diclofenac;tolbutamide
+angiotensin converting enzyme inhibitors;azathioprine
+cyclophosphamide;succinylcholine chloride
+digoxin;diltiazem hydrochloride
+felodipine;trileptal
+adrenergic blockers;amphetamines
+enoxacin;warfarin
+methylphenidate;tricyclic antidepressants
+fentanyl;troleandomycin
+aluminum hydroxide;fosinopril
+lomefloxacin;magnesium
+adrenergic agonists;methylxanthines
+adrenergic agonists;steroids
+albendazole sulfoxide;cimetidine
+carbamazepine;flecainide
+anticoagulants;ibuprofen
+diltiazem;triazolam
+serotonergic agents;zyvox
+disulfiram;isoniazid
+atropine;pralidoxime
+acitretin;progestin
+cisapride;quinidine
+lithium;tracrium
+dopamine;propranolol
+azithromycin;fluconazole
+carbamazepine;nondepolarizing neuromuscular blocking agents
+anesthetics;haldol
+coumarin;neomycin sulfate
+epinephrine;isoproterenol
+ciprofloxacin;glyburide
+zalcitabine;zdv
+bretylium tosylate;norepinephrine
+aprepitant;tolbutamide
+alcohol;phenytoin
+cns depressants;diphenhydramine hydrochloride
+meclofenamate sodium;warfarin
+ibuprofen;l-arginine
+anesthetics;precedex
+clozapine;quinidine
+isosorbide mononitrate;vasodilators
+levulan kerastick;tetracyclines
+diazepam;phenytoin
+salicylates;sulfonylurea
+azithromycin;midazolam
+fluvoxamine maleate;warfarin
+colestipol hydrochloride;furosemide
+ritonavir;viracept
+adrenergic;linezolid
+digoxin;nifedipine
+busulfan;itraconazole
+alprazolam;diltiazem
+alosetron;apomorphine
+indinavir;ritonavir
+diltiazem;midazolam
+antidepressants;lorazepam
+antihistamines;codeine
+aprepitant;ethinyl estradiol
+chlorothiazide;colestipol hydrochloride
+potassium;prinivil
+antihistamines;mefloquine
+dihydropyridine calcium channel blockers;itraconazole
+ritonavir;sprycel
+alcohol;hydrocodone
+5-fluorouracil;levothyroxine sodium
+cinoxacin;warfarin
+colestipol hydrochloride;digitalis preparations
+cancidas;tacrolimus
+benzodiazepines;duragesic
+nalidixic acid;nitrofurantoin
+belladonna alkaloids;cisapride
+benzodiazepines;romazicon
+androgens;insulin
+alphagan p;opiates
+carvedilol;quinidine
+anticonvulsant;efavirenz
+coumarin;ketoconazole
+enalapril;nonsteroidal anti-inflammatory drugs
+itraconazole;tarceva
+fenbufen;quinolone class antimicrobial
+axert;ergotamine
+atorvastatin;digoxin
+aminoglycoside antibiotics;furosemide
+ciprofloxacin;sulfonylurea
+aspirin;ibuprofen
+antiparkinsonian agents;chlorprothixene
+combination hormonal contraceptives;indinavir
+disulfiram;phenytoin
+interleukin-2;radiographic iodinated contrast media
+anticoagulants;dipyridamole
+ketoconazole;tarceva
+ritonavir;sustiva
+aluminum;ciprofloxacin
+antacids;anticholinergic agents
+antihistamines;tranquilizers
+diflunisal;furosemide
+diflunisal;indocin
+valdecoxib;warfarin
+barbiturates;cmi
+coumarin anticoagulants;tricor
+cns depressants;flexeril
+auranofin;depen
+enablex;nelfinavir
+ribavirin;zidovudine
+ritonavir;tarceva
+labetalol hcl;tricyclic antidepressants
+captopril;nitroglycerin
+dasatinib;omeprazole
+bumetanide;indomethacin
+cimetidine;tikosyn
+anticoagulants;aspirin
+epa;non-steroidal anti-inflammatory drugs
+ssris;sumatriptan succinate
+serotonin reuptake inhibitors;tikosyn
+cyclosporine;docetaxel
+aspirin;sulfinpyrazone
+aspirin;nsaids
+fentanyl;itraconazole
+cholestyramine;leflunomide
+anticholinergic compounds;cisapride
+aluminum;tetracyclines
+tamsulosin;vardenafil
+doxepin;tolazamide
+glimepiride;magan
+lidocaine;tagamet
+chloramphenicol;penicillins
+digoxin;enoxacin
+fluothane;tubocurarine
+contraceptive;valdecoxib
+mycophenolate mofetil;simulect
+clozapine;psychotropic drug
+levo-dromoran;tranquilizers
+anticoagulant;phenyramidol
+apraclonidine;mao inhibitors
+phenylalkylamine;zebeta
+alprazolam;erythromycin
+glyburide;quinolones
+digitalis;potassium-depleting diuretics
+doxycycline;equetrotm
+cimetidine;labetalol hcl
+benzodiazepines;phenothiazines
+beta-blockers;fenoldopam
+rifampin;viracept
+astemizole;erythromycin
+desipramine hydrochloride;hypnotics
+potassium-sparing diuretics;prinivil
+coly-mycin m;curariform muscle relaxants
+carbamazepine;felbamate
+azithromycin;nelfinavir
+deet;panretin
+esomeprazole;ketoconazole
+alcohol;benzodiazepine class
+dinoprost;oxytocin
+ferrous sulfate;levothyroxine sodium
+colestipol;thiazide diuretics
+fentanyl;ketoconazole
+cancidas;efavirenz
+anticonvulsant drugs;benzodiazepine class
+ketoprofen;methotrexate
+benzodiazepine class;phenothiazines classes of antipsychotic agents
+diflunisal;hydrochlorothiazide
+phenobarbital;phenytoin
+caspofungin;cyclosporine
+hormonal contraceptives;lorazepam
+adrenergic agonists;monoamine oxidase inhibitors
+ketoconazole;lansoprazole
+ketorolac;salicylate
+factive;ferrous sulfate
+phenothiazines;tricyclic antidepressants
+fluoxetine;selegiline hydrochloride
+estazolam;estazolam
+itraconazole;midazolam
+phenytoin;sulfapyridine
+corticosteroid;rifampin
+histamine h2-receptor antagonists;iressa
+cimetidine;flurbiprofen
+diuretics;trisenox
+lisinopril;nsaids
+bosentan;s-warfarin
+azole antifungal agents;tikosyn
+antihypertensive agents;enalapril
+alprazolam;desipramine
+didanosine;lomefloxacin
+equetrotm;praziquantel
+anesthetics;nuromax
+calcium;tetracyclines
+central nervous system depressants;duragesic
+maois;paroxetine
+opioid;revia
+antacids;videx
+dilaudid;tricyclic antidepressants
+cholestyramine;t3
+beta-adrenergic blocking agents;digitalis
+escitalopram;non-selective mao inhibitor
+clarithromycin;tarceva
+efavirenz;rifampin
+cholestyramine;t4
+tagamet;warfarin-type anticoagulants
+primidone;tiagabine
+alfentanyl;saquinavir
+barbiturates;estazolam
+ketoconazole;zaleplon
+ketoconazole;vardenafil
+apomorphine;dolasetron
+adrenergic agonists;theophylline
+enoxacin;fenbufen
+phenytoin;tiagabine
+acetaminophen;tranquilizers
+ace inhibitor;diuretic
+l-histidine;medroxyprogesterone acetate
+hypoglycemic agents;miconazole
+anakinra;etanercept
+erythromycin;terfenadine
+indinavir;nevirapine
+epinephrine;monoamine oxidase inhibitors
+erythromycin;tacrolimus
+ketoconazole;tacrolimus
+magnesium;vitamin d
+dicumarol;phenytoin
+phenytoin;salicylates
+mao inhibitors;sympathomimetics
+anesthetics;beta-adrenergic receptor blocking agents
+escitalopram;lithium
+theophylline;vioxx
+salicylates;starlix
+arava;rifampin
+non-selective beta-adrenergic-blocking agents;starlix
+beta-adrenergic blocking agents;calcium antagonists
+omeprazole;pletal
+butorphanol;tranquilizers
+indocin;thiazide diuretics
+caffeine;ketoconazole
+atorvastatin;ethinyl estradiol
+amantadine;central nervous system stimulants
+alosetron;itraconazole
+ethacrynic acid;warfarin
+anticoagulant;miconazole
+guanethidine;tricyclic antidepressants
+cephalexin;probenecid
+antiparkinsonian drug;tricyclic antidepressant
+cholestyramine;digitalis
+synthetic estrogens;vitamin c
+caffeine;narcotic analgesic
+colestipol hydrochloride;tetracycline
+alcohol;levo-dromoran
+aliskiren;atorvastatin
+cmi;haloperidol
+amphetamine;sodium acid phosphate
+cilostazol;omeprazole
+ergot derivatives;viracept
+anion-exchange resins;bezalip
+amphetamines;antihypertensives
+aprepitant;benzodiazepines
+fluvoxamine maleate;theophylline
+gabapentin;norethindrone
+dicumarol;heparin sodium
+lithium;prinivil
+dirithromycin;h 2 -receptor antagonists
+erythromycin;lovastatin
+anticoagulants;mefloquine
+elspar;methotrexate
+methotrexate;nsaids
+allopurinol;mercaptopurine
+salicylates;sulfonylureas
+bismuth subsalicylate;glimepiride
+amprenavir;nelfinavir
+levothyroxine sodium;tamoxifen
+steroids;wellbutrin
+clozapine;propafenone
+proton pump inhibitors;sprycel
+orlistat;vitamin k
+antihypertensive drugs;hydralazine
+benzodiazepines;chlorprothixene
+agents with b-blocking properties;reserpine
+polymyxins;tracrium
+antidepressants;benzodiazepines
+nisoldipine;propranolol
+aspirin;glimepiride
+paroxetine;selegiline hydrochloride
+equetrotm;midazolam
+bupropion;flecainide
+d.h.e. 45;sumatriptan
+digoxin;tetracycline
+anticoagulant;sulfinpyrazone
+coreg;diltiazem
+cimetidine;hmg-coa reductase inhibitor
+orencia;tnf antagonist
+alcohol;flexeril
+anticoagulants;argatroban
+chlorprothixene;tramadol
+non-steroidal anti-inflammatory agents;vistide
+alcohol;nabilone
+dextromethorphan hydrobromide;psychotropics
+beta-blockers;brovana
+steroidal anti-inflammatory agent;thiazide diuretics
+ergotamine;sprycel
+linezolid;serotonergic agents
+cimetidine;imipramine
+macrolides;warfarin
+carbamazepine;lithium
+amitriptyline;cinacalcet
+ergotamine;triacetyloleandomycin
+colestipol hydrochloride;digitoxin
+quinidine;tracrium
+amphotericin b;tubocurarine
+anticoagulant;oxolinic acid
+antihypertensive drugs;fenfluramine
+contraceptives;phenytoin
+antihypertensive medications;vasodilators
+equetrotm;niacinamide
+equetrotm;quetiapine
+quinolone;sucralfate
+clofazimine;dapsone
+ampicillin;lansoprazole
+calcium;ciprofloxacin
+anticoagulants;diflunisal
+methotrexate;nonsteroidal anti-inflammatory drugs
+cisplatin;pyridoxine
+adrenergic agonists;aminophylline
+anticoagulant;paraldehyde
+alfenta;barbiturates
+anticoagulants;hydrochloroquine
+antidiabetic drugs;sympathomimetics
+levothyroxine sodium;perphenazine
+ergocalciferol;thiazide diuretics
+antihypertensive drugs;chlorthalidone
+dapsone;folic acid antagonists
+coreg;digoxin
+acetaminophen;probenecid
+equetrotm;olanzapine
+exemestane;phenytoin
+axert;dihydroergotamine
+mecamylamine;sympathomimetics
+ssris;tcas
+lincomycin;nondepolarizing agents
+corticosteroid;vaccines
+clarithromycin;sustiva
+cimetidine;ellence
+erythromycin;zaleplon
+antiplatelet agents;flolan
+glimepiride;trilisate
+amphetamines;sodium bicarbonate
+ethinyl estradiol;rifampin
+contraceptives;tetracyclines
+nevirapine;warfarin
+cimetidine;factive
+amantadine;bupropion
+apokyn;phenothiazines
+ketoconazole;phenytoin
+cimetidine;flecainide
+coumarin;imidazole compounds
+anticoagulant;tetracyclines
+antacid;omnicef
+alcohol;clonidine hydrochloride
+nitazoxanide;warfarin
+carbamazepine;doxycycline
+bumetanide;probenecid
+itraconazole;sprycel
+diltiazem;tikosyn
+calcium channel blockers;ellence
+antiarrhythmic agents;zebeta
+equetrotm;tiagabine
+norepinephrine;phenothiazines
+bezalip retard;mao-inhibitors
+diclofenac;nsaids
+duloxetine;paroxetine
+dilaudid;tranquilizers
+anti-arrhythmic;mefloquine
+phenytoin;sodium valproate
+potassium-sparing diuretics;thiazide diuretics
+anesthetics;isuprel
+ketoconazole;terfenadine
+phenytoin;sular
+corticosteroids;ephedrine
+procainamide;tracrium
+clozapine;paroxetine
+digoxin;nicardipine hcl
+live typhoid vaccines;mefloquine
+terfenadine;viracept
+gemifloxacin;magnesium
+aripiprazole;paroxetine
+cmi;methylphenidate
+dolasetron;rifampin
+digoxin;lodine
+bupropion;type 1c antiarrhythmics
+combination hormonal contraceptives;nortriptyline
+amphetamine;furazolidone
+axert;ergot-type medications
+anticoagulant;cimetidine
+indinavir;sustiva
+macrolides;terfenadine
+antipyrine;betaseron
+anesthetics;antipsychotic agents
+alcohol;butalbital
+hmg-coa reductase inhibitor;ketoconazole
+anticoagulant medication;antiplatelet medication
+alphagan p;cns depressants
+promethazine;zaleplon
+progestin;rifampin
+amiodarone;flecainide
+sprycel;telithromycin
+sympathomimetic bronchodilators;theophylline
+progestin;soriatane
+doxylamine;epinephrine
+alfenta;anesthetics
+disopyramide;saquinavir
+bosentan;glyburide
+ketoconazole;sustiva
+imipramine;phenytoin
+methotrexate;piperacillin sodium
+cerivastatin;erythromycin
+cisapride;ritonavir
+dapsone;lamprene
+pimozide;saquinavir
+tagamet;theo-dur
+coumarin anticoagulants;phenytoin
+5-fluorouracil;leucovorin
+cimetidine;diltiazem
+diuretic agents;dopamine hcl
+butalbital;monoamine oxidase (mao) inhibitors
+auranofin;penicillamine
+erythromycin;fexofenadine
+agents with b-blocking properties;clonidine
+barbiturates;hydroxyzine
+aminoglycosides;foscavir
+anticoagulant;vitamin c
+alcohol;insulin
+isoflurane;nondepolarizing muscle relaxants
+clonazepam;phenobarbital
+digoxin;tambocor
+bile acid binding resins;phosphate
+anticoagulant;vitamin k
+diflunisal;warfarin
+reserpine;zebeta
+magnesium;quinolone antibiotics
+pah;sulfonamides
+clobazam;equetrotm
+digoxin;digoxin
+amphetamines;phenytoin
+combination hormonal contraceptives;lopinavir
+levamisole;warfarin sodium
+antidepressants;zyvox
+amphotericin b;hydrocortisone
+nevirapine;ritonavir
+lymecycline;zinc
+cns depressants;dilaudid
+diuretics;prinivil
+foradil;monoamine oxidase inhibitors
+alcohol;duragesic
+dyphylline;probenecid
+lodine;methotrexate
+anabolic steroids;anticoagulant
+fludrocortisone acetate;phenytoin
+colestipol;hydrochlorothiazide
+cholinesterase inhibitors;phospholine iodide
+amphetamine;propoxyphene
+digoxin;indocin
+itraconazole;sensipar
+nabilone;psychoactive drugs
+estrogen-containing compounds;levothyroxine sodium
+anticoagulant;quinolones
+calcium channel blockers;tenormin
+anticoagulant;quinidine
+aprepitant;contraceptives
+cimetidine;iressa
+lithium;nimbex
+indocin;losartan
+clorazepate dipotassium;ethyl alcohol
+anticholinesterase agents;corticosteroids
+cyclosporine;diltiazem
+calcium channel blocker;fentanyl
+decongestants;tricyclic antidepressants
+agents with b-blocking properties;monoamine oxidase inhibitors
+alcohol;clozapine
+aspirin;nonsteroidal anti-inflammatory agents
+felodipine;phenytoin
+barbiturates;ethchlorvynol
+colestipol hydrochloride;gemfibrozil
+itraconazole;videx
+iressa;ranitidine
+hydrocodone;mao inhibitors
+butyrophenones;epinephrine
+anagrelide;milrinone
+anticoagulants;antineoplastic agents
+antidiabetic drugs;corticosteroids
+norpace;quinidine
+furosemide;sucralfate
+aminoglutethimide;progestins
+corticosteroid;macrolide antibiotics
+benzodiazepine class;thioxanthene classes of antipsychotic agents
+anticholinergic agents;digoxin
+halothane;phenytoin
+mao inhibitors;opioid analgesics
+lithium;nuromax
+diuretics;enalapril
+amphotericin b;corticotropin
+beta2-agonists;tricyclic antidepressants
+efavirenz;indinavir
+antihypertensive agents;flolan
+sonata;thioridazine
+doxorubicin;paclitaxel
+anticoagulant;glucagon
+invirase;ritonavir
+alcohol;bromocriptine mesylate
+cimetidine;tricyclic antidepressants
+anesthetics;inapsine
+hydralazine;propranolol
+norfloxacin;zinc
+fentanyl;hypnotics
+carvedilol;rifampin
+anagrelide;olprinone
+aminoglycoside;edecrin
+furosemide;lodine
+fluconazole;glipizide
+beta adrenergic blocking agents;sulfonylureas
+aspirin;dipyrone
+diflunisal;methotrexate
+aminoglycoside;penicillin
+combination hormonal contraceptives;imipramine
+cancidas;carbamazepine
+hydantoin antiepileptic;phenytoin
+captopril;diuretic
+alcohol;codeine
+pravastatin;tricor
+dofetilide;triamterene
+contraceptives;efavirenz
+rifampin;vioxx
+isoniazid;itraconazole
+cytadren;dexamethasone
+anesthetics;butalbital
+anticoagulant;antihistamines
+antidiabetic drugs;salicylates
+lincomycin;nimbex
+live vaccines;raptiva
+fenfluramine;guanethidine
+bosentan;cyclosporine a
+cyclopropane;dopamine hcl
+bezalip retard;perhexiline hydrogen maleate
+aprepitant;midazolam
+alcohol;levamisole hydrochloride
+sympathomimetic amines;veratrum alkaloids
+dasatinib;proton pump inhibitors
+cyclopropane;dopamine
+bromocriptine mesylate;butyrophenones
+enablex;flecainide
+anticholinergics;robinul
+hydrochlorothiazide;ketoprofen
+aspirin;phenobarbital
+corticosteroid;phenobarbital
+adrenaline;fluothane
+corticosteroids;ethoxzolamide
+calcium channel blockers;dantrolene sodium
+clarithromycin;digoxin
+azithromycin;triazolam
+enablex;itraconazole
+halofantrine;mefloquine
+edetate calcium disodium;zinc insulin
+sertraline;sumatriptan
+quinolone antimicrobial;warfarin
+carbamazepine;progestins
+hydrochlorothiazide;non-steroidal anti-inflammatory agents
+bepridil hydrochloride;tricyclic anti-depressants
+anticoagulant;carbamazepine
+aprepitant;itraconazole
+ketamine;narcotics
+cns depressants;iopidine
+cns depressant drugs;doxylamine
+codeine;phenothiazines
+probenecid;zalcitabine
+astemizole;itraconazole
+central nervous system depressants;levo-dromoran
+corticosteroids;phenobarbital
+epinephrine;thyroxine
+amprenavir;combination hormonal contraceptives
+anesthetics;calcium channel blockers
+caffeine;cns depressants
+nefazadone;tikosyn
+h1 blockers;l-histidine
+anagrelide;sucralfate
+acetaminophen;synthetic estrogens
+acitretin;methotrexate
+amphotericin b;leukocyte transfusions
+acamprosate;antidepressants
+hydroflumethiazide;nonsteroidal anti-inflammatory agents
+diclofenac;diuretics
+ergot-type oxytocic drugs;vasopressor drugs
+famotidine;probenecid
+cisapride;fluvoxamine
+iron;quinolones
+aspirin;naproxen
+chlorprothixene;lithium
+dextromethorphan;valdecoxib
+etopophos;levamisole hydrochloride
+tricyclic antidepressant;trihexyphenidyl
+benzodiazepine;romazicon
+flolan;vasodilators
+auranofin;cuprimine
+axert;methysergide
+cns-depressant drug;guanfacine
+inapsine;opioids
+celebrex;warfarin
+angiotensin-converting enzyme inhibitors;probenecid
+acidifying agents;amphetamines
+foscarnet;vistide
+sulfapyridine;tylenol
+corticosteroids;starlix
+beta-blocker;clonidine
+multivitamins;quinolones
+chlorpromazine;ethopropazine
+bile acid binding resin;fenofibrate
+aminoglycosides;proleukin
+diazepam;valdecoxib
+non- steroidal antiinflammatory agent;thiazide diuretics
+glyburide;tracleer
+anticoagulant;tagamet
+nuromax;polymyxins
+fentanyl;sprycel
+clonazepam;equetrotm
+loop diuretics;non- steroidal antiinflammatory agent
+exemestane;phenobarbital
+flecainide;quinidine
+cephalosporin antibiotics;edecrin
+escitalopram;sumatriptan
+protease inhibitors;tikosyn
+furosemide;phenytoin
+fluoxetine;monoamine oxidase inhibitors
+anticoagulants;norfloxacin
+aminoglycosides;myobloc
+ciprofloxacin;cyclosporine
+antacids;lactulose
+b-lactam antibiotics;cefdinir
+amphetamines;lithium carbonate
+erythromycin;pletal
+nsaids;propranolol
+clarithromycin;equetrotm
+cimetidine;clozapine
+acitretin;retinoids
+beta-agonists;loop diuretics
+accutane;vitamin a
+alprazolam;contraceptives
+labetalol hcl;nitroglycerin
+azathioprine;simulect
+factrel;phenothiazines
+acarbose;metformin
+antihypertensive drugs;diethylpropion
+l-phenylalanine;selegiline
+alosetron;clarithromycin
+avonex;tysabri
+anticoagulants of the coumarin type;bezalip
+diamox;primidone
+asparaginase;proleukin
+antipsychotics;hydrocodone
+phenytoin;quinidine
+anticoagulant;disulfiram
+ciprofloxacin;zinc
+methoxyflurane;tetracycline
+phenobarbital;progestins
+equetrotm;mirtazapine
+cisapride;sotalol
+l-phenylalanine;neuroleptic drugs
+coumarin anticoagulant;hydantoin antiepileptic
+carbonic anhydrase inhibitors;dorzolamide
+quinidine;tricyclic antidepressants
+equetrotm;topiramate
+anticholinesterase agents;corticosteroid
+cholestyramine;thyroxine
+cimetidine;nifedipine
+caffeine;sedative-hypnotics
+fluoxetine;strattera
+amphotericin b;vistide
+atorvastatin;erythromycin
+combination hormonal contraceptives;ritonavir
+barbiturates;lorazepam
+aspirin;psychotropic drugs
+amiloride;angiotensin-converting enzyme inhibitor
+diphenhydramine hydrochloride;tranquilizers
+anticoagulant;prolonged narcotics
+aminoglycoside;antibiotics
+cns depressants;nabilone
+acenocoumarol;diflunisal
+ceftibuten;ranitidine
+lincomycin;neuromuscular blocking agents
+bupropion;risperidone
+grepafloxacin;theobromine
+diltiazem;fentanyl
+azithromycin;cetirizine
+erlotinib;rifampicin
+benzodiazepines;desipramine
+budesonide;ketoconazole
+cholestyramine;thiazide diuretics
+coly-mycin m;sodium citrate
+coly-mycin m;gallamine
+etanercept;kineret
+propranolol;tagamet
+beta-blocker;reserpine
+folic acid;phenytoin
+indinavir;tarceva
+exemestane;rifampicin
+acetaminophen;equetrotm
+clozapine;rifampin
+anesthetics;clonidine
+cimetidine;quinolones
+digitalis;vitamin d
+imitrex;ssris
+hormonal contraceptives;salicylic acid
+ketoconazole;sensipar
+aliskiren;irbesartan
+acetylsalicylic acid;furosemide
+dihydroergotamine;naratriptan
+iron supplements;omnicef
+beta-lactam antibiotics;chloramphenicol
+d-amphetamine;protriptyline
+aprepitant;nelfinavir
+alprazolam;nicardipine
+anticoagulants;neomycin sulfate
+propranolol;tambocor
+buspirone hydrochloride;mao inhibitors
+antidiabetic drugs;monoamine oxidase inhibitors
+brevibloc;morphine
+levothyroxine sodium;salicylates
+alosetron;telithromycin
+dihydroergotamine mesylate;peripheral vasoconstrictors
+beta-adrenergic blocking agents;mefloquine
+corticosteroids;phenytoin
+erythromycins;penicillins
+nalidixic acid;warfarin
+alprazolam;fluvoxamine
+ethinyl estradiol;phenytoin
+anafranil;digoxin
+chloramphenicol;sulfonylureas
+carbamazepine;estazolam
+antacids;vitamin d
+amantadine;wellbutrin
+cyclosporin;taxol
+codeine;psychotropics
+corticosteroids;salicylates
+desipramine;diazepam
+bosentan;ketoconazole
+kaolin;pseudoephedrine
+cromolyn sodium;isoproterenol
+citalopram;sumatriptan
+antidiabetic drugs;thiazides
+bupropion;desipramine
+diuretics;indocin
+anticonvulsants;progestins
+estazolam;rifampin
+amiodarone;tikosyn
+chlorpromazine;trihexyphenidyl
+indomethacin;l-glutamine
+corticosteroid;phenytoin
+bexarotene;gemfibrozil
+probenecid;toradol
+equetrotm;methsuximide
+beta-blocking;reserpine
+nimbex;nitrous oxide
+desipramine hydrochloride;sedative
+erythromycin;loratadine
+coumarin;fondaparinux
+antacids;fosinopril
+docetaxel;troleandomycin
+cisapride;dicyclomine
+beta adrenergic blockers;sympathomimetics
+barbiturates;doxycycline
+anticonvulsant;felodipine
+nonsteroidal anti-inflammatory drug;quinolone class antimicrobial
+rofecoxib;warfarin
+norfloxacin;warfarin
+alcohol;lexapro
+levo-dromoran;mao inhibitors
+barbiturates;benzodiazepine class
+amphotericin b;imidazoles
+beta-blockers;nsaids
+aminoglycoside;penicillins
+aeds;levetiracetam
+allopurinol sodium;cyclosporine
+magnesium;nimbex
+diuretic;lithium
+diflunisal;sulindac
+cancidas;rifampin
+fentanyl;phenothiazines
+erythromycin;gleevec
+adenocard;digitalis
+iopidine;opiates
+lithium;toradol
+aminoglycoside;cefotan
+ergotamine;naratriptan
+beta adrenergic antagonists;cevimeline
+ethinyl estradiol;theophylline
+quinine;tikosyn
+anticoagulant;rifampin
+calcium;ibandronate
+alprazolam;clarithromycin
+digitalis;thyroid preparations
+alcohol;aspirin
+diuretic;fosinopril sodium
+benzodiazepines;nicardipine
+diclofenac;salicylic acid
+anesthetic solutions;phenothiazines
+alphagan p;barbiturates
+apraclonidine;cardiac glycosides
+pah;procaine
+ergot;nicotine
+quinolone;videx
+eplerenone;erythromycin
+ciprofloxacin;magnesium
+frova;methysergide
+calcium antagonists;zebeta
+equetrotm;levothyroxine
+aluminum;quinolones
+h2 blockers;sprycel
+beta2-agonists;monoamine oxidase inhibitors
+erythromycin;lincomycin
+indomethacin;proleukin
+caffeine;ciprofloxacin
+cyclosporin;l-arginine
+cns stimulants;didrex
+phenytoin;progestins
+furosemide;norepinephrine
+acetaminophen;hormonal contraceptives
+antimycobacterial agents;viracept
+cimetidine;cisapride
+l-glutamine;methotrexate
+bosentan;simvastatin
+dihydroergotamine;selective serotonin reuptake inhibitors
+monoamine oxidase inhibitors;sympathomimetic drugs
+bexarotene;phenobarbital
+antithyroid agents;digitoxin
+levothyroxine sodium;mefenamic acid
+levo-dromoran;phenothiazines
+amitriptyline;antiparkinsonian drug
+diclofenac;insulin
+efavirenz;rifabutin
+azithromycin;sulfamethoxazole
+buspirone hcl;trazodone hydrochloride
+hypnotics;levo-dromoran
+dantrolene;vecuronium
+ganglionic blocking agents;nicotinic acid
+lorazepam;scopolamine
+dapsone;saquinavir
+prinivil;spironolactone
+cefditoren pivoxil;famotidine
+nimbex;tetracyclines
+mefloquine;phenytoin
+l-methionine;methotrexate
+beta-adrenergic blocking agents;sympathomimetics
+buspirone;digoxin
+monoamine oxidase inhibitors;sulfonylurea
+aluminum;lomefloxacin
+duragesic;skeletal muscle relaxants
+albuterol;strattera
+nimbex;polymyxins
+levulan kerastick;sulfonylureas
+aminoglutethimide;coumarin
+fluvoxamine;midazolam
+iressa;vinorelbine
+caffeine;cinoxacin
+chlordiazepoxide;hormonal contraceptives
+hypoglycemic medications;thiazide diuretic
+antihistamines;heparin
+enablex;ritonavir
+anakinra;tnf-blocking agent
+foradil;sympathomimetic agents
+probenecid;sulfonylurea
+acetylsalicylic acid;activase
+selegiline hydrochloride;venlafaxine
+alpha-adrenergic stimulants;beta-adrenergic antagonists
+folic acid;primidone
+cisapride;indinavir
+bezafibrate;immuno-suppressant
+glucocorticoids;levothyroxine sodium
+gleevec;pimozide
+allopurinol;videx
+cimetidine;sonata
+diuretics;ethoxzolamide
+enoxacin;theophylline
+inomax;nitroglycerin
+adenosine;carbamazepine
+anakinra;orencia
+amphotericin b;antineoplastic agents
+aminoglycosides;nimbex
+doxapram;muscle relaxant drugs
+hmg-coa reductase inhibitor class;verapamil
+antiarrhythmics;crixivan
+thiazide drugs;tubocurarine
+doxorubicin;zalcitabine
+phenytoin;succinimides
+amiodarone;hmg-coa reductase inhibitor class
+anticoagulant;dextrothyroxine
+monoamine oxidase inhibitors;starlix
+thioridazine;trisenox
+equetrotm;quinupristin
+beta-adrenergic blockers;digoxin
+anticoagulant;pentoxifylline
+indomethacin;midamor
+factive;videx
+rifampin;zaleplon
+arava;methotrexate
+myocardial depressants;zebeta
+barbiturates;benzodiazepines
+benzodiazepine class;narcotics
+magnesium;videx
+neomycin;penicillin v
+arbutamine;beta-adrenergic blocking agents
+levothyroxine sodium;meclofenamic acid
+reserpine;tricyclic antidepressant
+clozapine;fluoxetine
+aspirin;diclofenac
+bupropion;fluoxetine
+metoclopramide;monurol
+amphetamines;norepinephrine
+disulfiram;isocarboxazid
+diflunisal;naproxen
+contraceptives;lymecycline
+anticholinesterases;barbiturates
+cholestytamine;thiazide diuretics
+almotriptan;erythromycin
+antacids;cefditoren pivoxil
+cimetidine;equetrotm
+anticoagulant;indocin
+diclofenac;methotrexate
+acitretin;tetracyclines
+felbamate;valproate
+adrenocortical steroids;anticoagulant
+diltiazem;zebeta
+anesthetic;thyroid preparation
+equetrotm;tramadol
+caffeine;cimetidine
+colistin;nimbex
+curare-like compounds;myobloc
+contraceptives;equetrotm
+gleevec;itraconazole
+anticoagulant;influenza virus vaccine
+furosemide;ponstel
+equetrotm;zileuton
+azithromycin;carbamazepine
+calcium channel blockers;organic nitrates
+atenolol;dolasetron mesylate
+indomethacin;potassium-sparing diuretics
+digoxin;ketoconazole
+corticosteroids;diuretics
+colestipol;vitamin k
+budesonide;indinavir
+fluvoxamine;maoi
+quinolone;zinc
+cns depressant drugs;inapsine
+beta2-agonists.;xanthine derivatives
+digoxin;kaolin
+brevibloc;digoxin
+atorvastatin;colestipol
+glucocorticoids;proleukin
+equetrotm;ziprasidone
+anticholinergic drugs;metoclopramide
+didanosine;factive
+nitrofurantoin;probenecid
+bezalip;perhexiline hydrogen maleate
+chlorprothixene;ultram
+lithium;nsaids
+antibiotics;ergotamine
+azithromycin;trimethoprim
+cephalosporins;diuretics
+probenecid;theophylline
+heparin sodium;warfarin sodium
+indinavir;sprycel
+piperazine;pyrantel
+phenytoin;sulfonamides
+anti-coagulants;flurbiprofen
+adenocard;verapamil
+aspirin;ponstel
+coly-mycin m;succinylcholine
+ace inhibitors;vioxx
+adrenergic agonists;diuretics
+aminoglycosides;hivid
+anticonvulsants;ethinyl estradiol
+antacids;aspirin
+ethoxzolamide;procainamide
+crixivan;delavirdine
+aminoglycoside antibiotics;cephalosporin antibiotics
+amitriptyline;chlorpromazine
+midazolam;viracept
+digoxin;itraconazole
+fluvoxamine;maois
+sulfonamides;sulfonylurea
+nifedipine;tagamet
+anticoagulant;ethchlorvynol
+acetaminophen;isoniazid
+phenothiazine;piperazine
+tricyclic antidepressants;tricyclic antidepressants
+nalfon;phenobarbital
+aripiprazole;quinidine
+clozapine;encainide
+viracept;zidovudine
+dantrolene sodium;verapamil
+erythromycin;vardenafil
+aminoglycoside;piperacillin
+acarbose;charcoal
+chlorprothixene;opioids
+cimetidine;zaleplon
+benzodiazepines;mao inhibitors
+dihydroergotamine mesylate;macrolide class
+griseofulvin;levulan kerastick
+phenytoin;theophylline
+butorphanol;central nervous system depressants
+equetrotm;felbamate
+paroxetine;sumatriptan
+antacids;diflunisal
+diazepam;hormonal contraceptives
+magnesium;quinolone
+benzodiazepines;subutex
+quinidine;viracept
+isoflurane;nimbex
+macrolide antibiotics;tikosyn
+fludrocortisone acetate;rifampin
+coumarin-type anticoagulants;nalfon
+carbamazepine;tiagabine
+quinolones;warfarin
+diazepam;equetrotm
+atromid-s;tolbutamide
+methysergide;naratriptan
+acetaminophen;gleevec
+aspirin;celebrex
+nevirapine;rifampin
+digoxin;dofetilide
+butyrophenones;levodopa
+didanosine;norfloxacin
+levo-dromoran;nalbuphine
+iopidine;sedatives
+estrogens;levothyroxine sodium
+beta-adrenergic blocking drugs;captopril
+felbamate;gestodene
+hmg-coa reductase inhibitor;spironolactone
+aprepitant;rifampin
+methotrexate;naproxen
+phenylbutazone;phenytoin
+clarithromycin;pimozide
+fluvoxamine;sumatriptan
+caffeine;phenytoin
+dopamine hcl;halogenated hydrocarbon anesthetics
+alcohol;lofexidine
+astemizole;viracept
+antidiabetic drugs;nsaids
+bosentan;r-warfarin
+anticoagulant;ranitidine
+midazolam;nizoral
+anesthetics;caffeine
+antacids;quinolones
+glyburide;norfloxacin
+coumarin anticoagulants;peganone
+peganone;phenacemide
+furosemide;probenecid
+calcium channel blockers;digoxin
+clarithromycin;fentanyl
+brevibloc;epinephrine
+antineoplastic agents;proleukin
+cefdinir;maalox tc
+nondepolarizing agents;polymyxins
+levodopa;risperidone
+diclofenac;digoxin
+anticoagulant;mefenamic acid
+clonazepam;propantheline
+pentamidine;vistide
+fosinopril;simethicone
+erythromycin;phenytoin
+cerubidine;cyclophosphamide
+dopamine antagonists;metoclopramide
+clorazepate dipotassium;hexobarbital
+nalfon;steroid
+ssri;tca
+captopril;diuretics
+equetrotm;phenobarbital
+beta-blocking agents;catecholamine-depleting drugs
+nasal vasoconstrictor;stadol ns
+antidepressants;fluoxetine hydrochloride
+antizol;carbamazepine
+inapsine;tranquilizers
+monoamine oxidase inhibitors;sertraline
+bupropion;haloperidol
+contraceptives;tetracycline
+bupropion;propafenone
+atromid-s;phenytoin
+aspirin;nizatidine
+anticoagulants;indocin
+dopamine hcl;mao inhibitors
+fluvoxamine;monoamine oxidase inhibitors
+amitriptyline;trihexyphenidyl
+loop diuretics;nalfon
+acetazolamide;amphetamine
+levo-dromoran;skeletal muscle relaxants
+diamox;phenytoin
+aspirin;lodine
+saquinavir;tacrolimus
+quinidine;saquinavir
+barbiturates;tricyclic antidepressants
+antihistamines;central nervous system depressants
+antiarrhythmics;viracept
+barbiturates;flexeril
+epinephrine;phenothiazines
+diuretics;fosinopril sodium
+quinine;saquinavir
+carbamazepine;nimbex
+imipramine;sonata
+antihypertensive drugs;diazoxide
+fluvoxamine;tca
+methylphenidate;phenytoin
+acitretin;ethanol
+aspirin;steroids
+activated charcoal;leflunomide
+beta blockers;indomethacin
+aspirin;ibandronate
+digitalis;pseudoephedrine
+beta-blocking agent;reserpine
+calan sr;welchol
+antihistamines;butorphanol
+diltiazem;propranolol
+magnesium trisilicate;nitrofurantoin
+cyclosporine;diclofenac
+danazol;equetrotm
+nsaids;thiazides
+anticonvulsant;mefloquine
+hydroxyurea;uricosuric medication
+anticoagulants;non-steroidal anti-inflammatory drugs
+anafranil;anticholinergic
+ergot-type medications;frova
+dinoprost;oxytocics
+cholestyramine;phenobarbital
+antihistamines;dextromethorphan hydrobromide
+beta-adrenergic blocking agents;dopamine
+antiarrhythmics;cisapride
+phenytoin;progestin
+cerebyx;tricyclic antidepressants
+ssris;t.a.
+cholestyramine;warfarin
+corticosteroids;vitamin d analogues
+cns depressants;ethopropazine
+equetrotm;loratadine
+nifedipine;quinidine
+amphotericin b;digitalis
+aprepitant;s(-)warfarin
+methotrexate;sulfapyridine
+indinavir;viracept
+glimepiride;salicylate
+digoxin;propantheline
+anabolic hormones;levothyroxine sodium
+penicillins;sulfonamides
+inspra;ketoconazole
+starlix;tolbutamide
+bromocriptine mesylate;metoclopramide
+benazepril;beta-adrenergic blockers
+aminosalicylic acid;lanoxin
+capecitabine;phenprocoumon
+cyclopropane;epinephrine
+cerivastatin sodium;cholestyramine
+benzodiazepines;psychotropic medications
+alprazolam;ethanol
+enoxacin;methylxanthines
+angiomax;thrombolytics
+immunosuppressants;tricor
+nuromax;quinidine
+coumarins;sulfonylurea
+aluminum;ibandronate
+doxepin;selective serotonin reuptake inhibitors
+levothyroxine sodium;sucralfate
+digoxin;esomeprazole
+cholestyramine;fat soluble vitamins
+antihypertensive drugs;clozapine
+itraconazole;terfenadine
+alosetron;protease inhibitors
+quinolones;videx
+d.h.e. 45;peripheral vasoconstrictors
+angiotensin ii receptor antagonists;lithium
+antimuscarinics;levsin
+ace inhibitors;inspra
+antacids;pseudoephedrine
+casodex;coumarin anticoagulant
+propafenone;tricyclic antidepressants
+carvedilol;propafenone
+nuromax;tetracyclines
+acyclovir;probenecid
+barbiturates;imipramine
+amrinone;anagrelide
+ketoprofen;warfarin
+gemfibrozil;targretin
+aprepitant;methylprednisolone
+thiothixene;toradol
+angiotensin converting enzyme (ace) inhibitors;nsaids
+indocin;nsaids
+clozapine;type 1c antiarrhythmics
+ammonium chloride;amphetamine
+anesthetics;dilaudid
+duloxetine;tcas
+magnesium hydroxide;mefenamic acid
+aprepitant;triazolam
+amphetamines;ascorbic acid
+duragesic;hypnotics
+anafranil;warfarin
+benzodiazepines;fentanyl
+caffeine;grepafloxacin
+disopyramide;erythromycin
+anticoagulant;cholestyramine
+bupropion;phenelzine
+etretinate;methotrexate
+anesthetics;fentanyl
+budesonide;erythromycin
+lodine;thiazides
+anticoagulant;casodex
+levulan kerastick;photosensitizing agents
+equetrotm;itraconazole
+antithyroid agents;digoxin
+erythromycin;hexobarbital
+proleukin;tamoxifen
+methotrexate;nsaid
+butorphanol;erythromycin
+fluconazole;losartan
+bezalip;sulphonylureas
+azithromycin;efavirenz
+antihypertensive agents;aripiprazole
+disopyramide;tambocor
+tobramycin;vistide
+encainide;tricyclic antidepressants
+nonsteroidal anti-inflammatory drugs;potassium-sparing diuretics
+epinephrine;guanethidine
+alosetron;fluvoxamine
+norfloxacin;sucralfate
+penicillins;tetracycline class
+disulfiram;nitrites
+diltiazem;equetrotm
+antihistamines;hypnotics
+choline salicylate;glimepiride
+anticoagulant;phenylbutazone
+digoxin;thyroid
+h2 blockers;l-histidine
+clonidine;fluphenazine
+antidiabetic drugs;thyroid products
+anticoagulants;chlorpropamide
+saquinavir;sprycel
+etodolac;phenylbutazone
+enalapril;inspra
+hormonal contraceptives;oxazepam
+opioid;precedex
+colestipol hydrochloride;levothyroxine sodium
+gabapentin;hydrocodone
+diazepam;nabilone
+cimetidine;rofecoxib
+bezalip retard;sulphonylureas
+coly-mycin m;tubocurarine
+atorvastatin;bosentan
+paroxetine;strattera
+dihydroergotamine;ssris
+antacids;ibandronate
+dihydropyridine calcium channel blockers;gleevec
+cocaine;heroin
+heparin sodium;indomethacin
+ephedrine;sympathomimetic bronchodilators
+anticoagulant;nalidixic acid
+chlorthalidone;norepinephrine
+clozapine;nicotine
+lomefloxacin;sucralfate
+anticoagulants;fluvoxamine
+adrenergic agonists;tricyclic antidepressants
+clonazepam;phenytoin
+beta-adrenergic receptor antagonists;brovana
+indocin;probenecid
+duragesic;sedatives
+benzothiazepine;zebeta
+anticoagulant;methylphenidate
+equetrotm;verapamil
+azithromycin;zidovudine
+pimozide;sprycel
+bacitracin;nondepolarizing agents
+beta blockers;clonidine
+diltiazem;rifampin
+androgens;oxyphenbutazone
+terazosin;vardenafil
+androgens;levothyroxine sodium
+ketamine;levothyroxine sodium
+bexarotene;ketoconazole
+5-ht1 agonists;fluvoxamine
+amitriptyline hcl;ethchlorvynol
+amphotericin b;flucytosine
+antipsychotics;bupropion
+caffeine;chlordiazepoxide
+alprazolam;propoxyphene
+calcium channel blockers;saquinavir
+duragesic;maoi
+dofetilide;metformin
+carvedilol;cyclosporine
+ciprofloxacin;iron
+clonidine;narcotic analgesics
+dilaudid;phenothiazines
+eszopiclone;ethanol
+bupropion;imipramine
+midamor;non-steroidal anti-inflammatory agents
+antidepressants;bupropion
+glimepiride;salsalate
+accutane;tetracyclines
+cyclophosphamide;wellbutrin
+cisapride;erythromycin
+alcohol;antihistamines
+digoxin;rifampin
+enflurane;nimbex
+carbamazepine;diltiazem
+anticoagulant;chlordiazepoxide
+anakinra;remicade
+aprepitant;ritonavir
+diclofenac;prednisolone
+extraneal;insulin
+alprazolam;imipramine
+desipramine hydrochloride;psychotropic agents
+benzodiazepine class;tricyclic antidepressants
+allopurinol;cyclophosphamide
+nonsteroidal anti-inflammatory drugs;thiazide diuretics
+lexapro;lithium
+cancidas;nevirapine
+imitrex;selective serotonin reuptake inhibitors
+nafazodone;xanax
+nitrofurantoin;sulfinpyrazone
+hydrochlorothiazide;lithium
+fluoxetine;toradol
+benzodiazepines;buprenorphine
+allopurinol;dicumarol
+ibandronate;nsaids
+docetaxel;erythromycin
+amphetamines;meperidine
+dextromethorphan;monoamine oxidase inhibitors
+cyclosporine;gleevec
+alosetron;voriconazole
+bretylium tosylate;digitalis
+corticosteroids;ketoconazole
+cimetidine;dofetilide
+levodopa;phenothiazines
+atenolol;sular
+naproxen sodium;neurontin
+anticholinergic;atrovent
+alfenta;volatile inhalation anesthetics
+dilaudid;narcotic analgesic
+furosemide;succinylcholine
+norethindrone;rifampin
+aprepitant;s(-) warfarin
+antacid;fosinopril
+hmg-coa reductase inhibitor;warfarin
+aspirin;valdecoxib
+imipramine;thyroid products
+antianxiety agents;benzodiazepine class
+anesthetics;tricyclic antidepressants
+duragesic;opioids
+cyclosporine;norfloxacin
+benazepril;vioxx
+lansoprazole;theophylline
+halothane;isuprel
+butyrophenones;dopamine
+buspirone hcl;desyrel
+benzodiazepines;heroin
+dofetilide;hctz
+aripiprazole;carbamazepine
+corticosteroid;live vaccines
+alprazolam;fluoxetine
+cyclosporine;ketoconazole
+alfentanil;erythromycin
+equetrotm;nortriptyline
+gefitinib;itraconazole
+erythromycin;midazolam
+butalbital;tranquilizers
+ketoconazole;sprycel
+combination hormonal contraceptives;griseofulvin
+nabilone;narcotic analgesics
+coumarin drugs;imidazole drugs
+hypnotics;precedex
+diuretic agents;lithium
+duloxetine;nortriptyline
+equetrotm;glucocorticoids
+benzodiazepines;erythromycin
+verapamil;welchol
+nelfinavir;sprycel
+inspra;nsaids
+bismuth subsalicylate;enoxacin
+hydroxyzine;non-narcotic analgesics
+argatroban;thrombolytics
+anticoagulant;tolbutamide
+azithromycin;theophylline
+pegasys;theophylline
+anticoagulant;chloral hydrate
+carbamazepine;isoniazid
+anticoagulant;indomethacin
+anafranil;sympathomimetic drugs
+sirolimus;sprycel
+alphagan p;anesthetics
+hexalen;pyridoxine
+furosemide;levothyroxine sodium
+flolan;furosemide
+conivaptan;digoxin
+bextra;warfarin
+levsin;phenothiazines
+cyclic antidepressants;romazicon
+delavirdine;equetrotm
+aminosalicylic acid;probenecid
+benzodiazepines;nefazodone
+alprazolam;fluvoxamine maleate
+beta-adrenergic blocking agent;ocupress
+calcium channel blockers;nimotop
+nuromax;sodium colistimethate
+calcium;quinolone
+alcohol;iopidine
+amantadine;clidinium
+anticoagulant;salicylates
+desipramine;equetrotm
+norpace;phenytoin
+anakinra;humira
+anticoagulant;methyldopa
+cimetidine;phenytoin
+bacitracin;nuromax
+norfloxacin;tikosyn
+clidinium;tricyclic antidepressants
+antifungal agents;clonazepam
+ibuprofen;thiazides
+chloroquine;kaolin
+antacid;sprycel
+nefazodone;tarceva
+beta blocking agents;reserpine
+adrenergic drugs;brovana
+selective serotonin reuptake inhibitors;sumatriptan succinate
+ciprofloxacin;theophylline
+alcohol;dilaudid
+beta-blockers;tiazac
+ace inhibitors;nsaids
+astemizole;sprycel
+alprazolam;equetrotm
+anion-exchange resins;bezalip retard
+activase;vitamin k antagonists
+caspofungin;rifampin
+cefdinir;probenecid
+aspirin;phenylbutazone
+romazicon;zopiclone
+cholestyramine;tetracycline
+apomorphine;granisetron
+clarithromycin;gleevec
+clidinium;levodopa
+amphotericin b;skeletal muscle relaxants
+norepinephrine;thiazides
+barbiturates;griseofulvin
+anti-arrhythmics;bepridil hydrochloride
+corticosteroids;troleandomycin
+budesonide;intraconazole
+anesthetics;anticoagulant
+clonidine;sedating drugs
+fluoxetine;maois
+amphotericin b;ethoxzolamide
+ace-inhibitors;celebrex
+bezalip;mao-inhibitors
+multivitamins;norfloxacin
+ciprofloxacin;didanosine
+lexapro;psychotropic medications
+antacids;anticoagulant
+monoamine oxidase (mao) inhibitors;vasopressors
+erythromycin;triazolam
+antihistamines;cns depressants
+d-amphetamine;desipramine
+aspirin;nalfon
+duloxetine;fluvoxamine
+alcohol;lorazepam
+diclofenac;phenobarbital
+fexofenadine;ketoconazole
+cimetidine;histamine h2 antagonists
+enflurane;tracrium
+aminoglutethimide;warfarin
+oxipurinol;uricosuric agents
+furosemide;tubocurarine
+diuretic;lotensin
+digoxin;lansoprazole
+mao inhibitors;sinequan
+angiomax;warfarin
+flurbiprofen;furosemide
+cholestyramine;progestins
+ace inhibitors;nonsteroidal anti-inflammatory drugs
+dexamethasone;saquinavir
+clonidine;zebeta
+furosemide;ibuprofen
+methyldopa;sympathomimetics
+tagamet;tricyclic antidepressants
+antibiotics;anticoagulant
+dihydroergotamine;frova
+cholestyramine;levothyroxine sodium
+antabuse;isocarboxazid
+dopamine hcl;phenytoin
+amiodarone;saquinavir
+cefditoren pivoxil;probenecid
+a-methyldopa;diethylpropion
+alcohol;equetrotm
+anticholinergic;tricyclic antidepressants
+dexamethasone;phenytoin
+nitrates;vardenafil
+apokyn;butyrophenones
+codeine;tranquilizers
+corticosteroids;warfarin
+diclofenac;warfarin
+barbiturates;chlorpropamide
+ciprofloxacin;methotrexate
+lithium;nondepolarizing agents
+carbamazepine;erythromycin
+cmi;phenobarbital
+clonidine;insulin
+maois;venlafaxine
+lithium;vioxx
+digoxin;metoclopramide
+iressa;warfarin
+anesthetics;nondepolarizing agents
+sympathomimetics;veratrum alkaloids
+itraconazole;phenytoin
+fentanyl;ritonavir
+erythromycin;sensipar
+budesonide;ritonavir
+foscarnet;zalcitabine
+caffeine;tranquilizers
+atorvastatin;crixivan
+cns depressants;colchicine
+diuretics;enalaprilat
+alosetron;isoniazid
+cisplatin;equetrotm
+aprepitant;warfarin
+barbiturates;progestin
+5-fluorouracil;neomycin
+ethanol;tiagabine
+mefloquine;phenobarbital
+epinephrine;halogenated hydrocarbon general anesthetics
+digoxin;vaprisol
+equetrotm;fluvoxamine
+coumarin derivatives;hormonal contraceptives
+digitalis;epinephrine
+eszopiclone;olanzapine
+efavirenz;phenobarbital
+baclofen;morphine
+alcohol;caffeine
+isoflurane;tracrium
+indomethacin;losartan
+ibandronate;magnesium
+azithromycin;indinavir
+ketoconazole;nevirapine
+azoles;sulfonylureas
+duloxetine;imipramine
+beta-adrenergic blocking agents;phenothiazine-related compounds
+apokyn;thioxanthenes
+dirithromycin;terfenadine
+cmi;tricyclic antidepressants
+carbamazepine;suprax
+amiodarone;digoxin
+ketoconazole;rifampin
+diflunisal;phenprocoumon
+alendronate;ranitidine
+cimetidine;cmi
+aprepitant;diltiazem
+apomorphine;palonosetron
+gentamicin;methionine
+acetaminophen;alcohol
+non- steroidal antiinflammatory agent;potassium- sparing diuretics
+ssri;sumatriptan
+almotriptan;ritonavir
+magnesium;nondepolarizing agents
+diphenhydramine hydrochloride;hypnotics
+cholestyramine;digoxin
+camptosar;prochlorperazine
+combination hormonal contraceptives;selegiline
+amiodarone;digitalis
+clonidine;neuroleptic
+colchicine;vitamin b12
+bismuth subsalicylate;tetracycline
+coreg;verapamil
+levothyroxine sodium;phenytoin
+calcium acetate;digitalis glycosides
+atorvastatin;azithromycin
+non-depolarizing muscle relaxants;piperacillin
+tao;tarceva
+cisapride;nefazodone
+amphetamines;ethosuximide
+antiarrhythmics;trisenox
+acetazolamide;lithium
+chloramphenicol;sulfonylurea
+cyclosporine;non-steroidal anti-inflammatory drugs
+captopril;indocin
+copegus;didanosine
+caffeine;clozapine
+antihypertensive agents;captopril
+cisapride;viracept
+cancidas;dexamethasone
+lodine;warfarin
+alcohol;vitamin b12
+docetaxel;terfenadine
+l-arginine;sildenafil citrate
+codeine;narcotic analgesics
+ganciclovir;videx
+clidinium;ketoconazole
+acetazolamide;equetrotm
+enablex;ketoconazole
+alprazolam;isoniazid
+guanfacine;timolol
+antidiabetic agent;quinolones
+eplerenone;fluconazole
+methotrexate;vioxx
+piperacillin;vecuronium
+tarceva;telithromycin
+bile acid binding resin;tricor
+nortriptyline hydrochloride;sympathomimetic drugs
+antidiabetic agents;velcade
+cisplatin;taxol
+caffeine;combination hormonal contraceptives
+diazepam;esomeprazole
+equetrotm;nicotinamide
+quinolones;sucralfate
+aspirin;corticosteroids
+amphetamines;guanethidine
+central nervous system depressants;hydroxyzine
+dacarbazine;proleukin
+botulinum toxin;botulinum toxin
+equetrotm;erythromycin
+colchicine;sympathomimetic agents
+levodopa;papaverine
+ergot alkaloids;sprycel
+antidiabetics;sulfapyridine
+bexarotene;erythromycin
+clonidine hydrochloride;tricyclic antidepressants
+barbituates;chlorprothixene
+dipyridamole;heparin sodium
+penicillin;tetracyclines
+dopamine d2 receptor antagonists;levodopa
+benzodiazepines;ethanol
+antihistamines;sedatives
+anticoagulant;sulindac
+amphetamines;antihistamines
+non-steroidal anti-inflammatory agent;potassium-sparing diuretics
+nimbex;nondepolarizing agents
+alfenta;erythromycin
+levo-dromoran;tricyclic antidepressants
+ace inhibitors;lithium
+flexeril;mao inhibitors
+ergot derivatives;saquinavir
+ergotamine;erythromycin
+barbiturates;iopidine
+bexarotene;rifampin
+pah;probenecid
+heroin;valium
+ace inhibitors;beta-adrenergic blockers
+antacids;levsin
+anastrozole;tamoxifen
+penciclovir;probenecid
+etodolac;warfarin
+alosetron;procainamide
+anticoagulant;diflunisal
+amphetamines;corticosteroid
+hormonal contraceptives;trileptal
+lopinavir;sustiva
+allopurinol;cytotoxic agents
+estazolam;phenytoin
+tramadol;tricyclic antidepressants
+bromocriptine mesylate;phenothiazines
+corticosteroids;macrolide antibiotics
+probenecid;sulfonylureas
+isoflurane;muscle relaxants
+aspirin;oxyphenbutazone
+diphenoxylate hcl;mao inhibitors
+carbonic anhydrase inhibitors;salicylate
+digitalis;heparin sodium
+beta-adrenoceptor blocking agents;nonsteroidal anti-inflammatory drugs
+ibandronate;iron
+anticoagulants;dextran
+amphetamines;veratrum alkaloids
+clindamycin;erythromycin
+cyclosporine;hormonal contraceptives
+fluoxetine;sumatriptan
+anticoagulant;glutethimide
+sprycel;tacrolimus
+nsaids;warfarin
+mefloquine;quinine
+carbamazepine;mefloquine
+nsaids;starlix
+ace-inhibitors;bextra
+chlorothiazide;non-steroidal anti-inflammatory agents
+cephalosporins;furosemide
+magnesium;tetracyclines
+antipsychotic drug;trihexyphenidyl
+guanfacine;nadolol
+allegra;aluminum
+beta-agonists;beta-blockers
+beta-blocking agents;zebeta
+amprenavir;saquinavir
+busulfex;phenytoin
+bromocriptine mesylate;haloperidol
+alosetron;cimetidine
+alprazolam;macrolide antibiotics
+estrogen;factive
+chlordiazepoxide;phenytoin
+metronidazole;tagamet
+cholestyramine;penicillin g
+eszopiclone;ketoconazole
+anticoagulants;flurbiprofen
+amphotericin b;corticosteroids
+aprepitant;aprepitant
+butalbital;narcotic analgesic
+benzodiazepines;probenecid
+nitroglycerin;vasodilators
+aluminum hydoxide;levothyroxine sodium
+aprepitant;norethindrone
+antihypertensive agents;iloprost
+ibuprofen;methotrexate
+alcohol;benzodiazepines
+carbamazepine;felbatol
+alfenta;cimetidine
+clonidine;digitalis
+atorvastatin;norethindrone
+anticoagulant;thyroid drugs
+organophosphate insecticide;phospholine iodide
+enalapril;thiazide-type diuretics
+alfentanil;sprycel
+allopurinol;anticoagulant
+potassium chloride;robinul
+chloroquine;cyclosporin
+argatroban;warfarin
+equetrotm;primidone
+capecitabine;coumarin-derivative anticoagulants
+isosorbide dinitrate;vasodilators
+alfenta;tranquilizers
+nimbex;succinylcholine
+alendronate;calcium
+nimbex;quinidine
+hmg-coa reductase inhibitors;immunosuppressive drugs
+chlorpromazine;clorazepate dipotassium
+beta-blocking agents;reserpine
+equetrotm;nefazodone
+guanethidine;zebeta
+dopamine;phenothiazines
+caffeine;quinolones
+methotrexate;naproxen sodium
+ethinyl estradiol;felbamate
+triazolam;viracept
+dofetilide;thiazide diuretics
+griseofulvin;warfarin-type anticoagulant
+contraceptive;trileptal
+fluothane;non-depolarising muscle relaxant
+isoniazid;trecator
+antihistamines;mao inhibitors
+lorazepam;mao inhibitors
+ace inhibitor;lithium
+antibiotics;nondepolarizing agents
+calcium carbonate;factive
+anticoagulant;phenytoin
+insulin;lithium
+clomipramine hcl;equetrotm
+fluvoxamine;selegiline hydrochloride
+amphetamines;glutamic acid hcl
+cilostazol;erythromycin
+aluminum;quinolone
+calcium antagonist;labetalol
+beta-adrenoceptor blocking agents;indocin
+cyclosporine;tricor
+antidiabetic drugs;nonsteroidal anti-inflammatory agents
+epinephrine;halothane
+abilify;alcohol
+cmi;fluoxetine
+phospholine iodide;succinylcholine
+nondepolarizing neuromuscular blocking agents;phenytoin
+anticholinergics;hydrocodone
+carvedilol;fluoxetine
+human growth hormone;l-glutamine
+allegra;magnesium
+amitriptyline;combination hormonal contraceptives
+ergotamine;frova
+ketoconazole;methylprednisolone
+anesthetics;nimbex
+anticoagulant;meprobamate
+anesthetics;codeine
+tarceva;troleandomycin
+nelfinavir;tarceva
+coumarin anticoagulants;nifedipine
+levulan kerastick;sulfonamides
+isoniazid;phenytoin
+clofibrate;levothyroxine sodium
+nsaids;potassium-sparing antihypertensives
+bromocriptine mesylate;pimozide
+ciprofloxacin;ciprofloxacin
+mineral oil;vitamin k
+dopamine agonists;neuroleptics
+benzodiazepines;macrolide antibiotics
+erythromycin;theophylline
+aminosalicylic acid;anticoagulant
+inomax;sodium nitroprusside
+astemizole;fluvoxamine
+tagamet;theophylline
+stadol ns;sumatriptan
+gleevec;ketoconazole
+barbiturates;corticosteroids
+antihistaminics;benzodiazepines
+corticosteroid;salicylate
+methotrexate;proleukin
+carbamazepine;exemestane
+benzodiazepines;hormonal contraceptives
+phenytoin;toradol
+aminoglycoside;cephalosporins
+cyclosporine;quinolone class
+betagan;epinephrine
+carbamazepine;escitalopram
+alcohol;ergamisol
+factive;zinc
+benzodiazepines;monoamine oxidase inhibitors
+cyclosporine;fibrate drugs
+anticoagulant;dextran
+phenytoin;reserpine
+hivid;pentamidine
+combination hormonal contraceptives;tricyclic antidepressants
+hemabate;oxytocic agents
+cmi;phenytoin
+nonsteroidal anti-inflammatory;probenecid
+anti-coagulants;nonsteroidal anti-inflammatory drugs
+anticoagulants;toradol
+nonsteroidal anti inflammatory drug;quinolone
+foradil;tricyclic antidepressants
+haldol;lithium
+dapsone;pyrimethamine
+eulexin;warfarin
+mefloquine;valproic acid
+bupropion;carbamazepine
+acebutolol;catecholamine depletors
+albendazole sulfoxide;praziquantel
+monoamine oxidase inhibitors;norepinephrine
+augmentin xr;contraceptives
+alcohol;sinequan
+femara;tamoxifen
+anticonvulsants;benzodiazepines
+anticoagulant;trimethoprim
+folic acid;phenobarbital
+antiepileptic drugs;toradol
+budesonide;saquinavir
+norpace cr;phenytoin
+reserpine;sympathomimetic amines
+flurbiprofen;propranolol
+loop diuretics;steroidal anti-inflammatory agent
+brevibloc;verapamil
+morphine;neurontin
+apraclonidine;beta-blockers
+fexofenadine hydrochloride;ketoconazole
+antipsychotic agents;cns depressants
+aed;oxcarbazepine
+felbatol;phenytoin
+corticosteroids;live attenuated vaccines
+aspirin;nonsteroidal anti-inflammatory
+chlordiazepoxide;desipramine
+aminoglutethimide;corticosteroids
+cetirizine;theophylline
+corticosteroids;estrogens
+isradipine;rifampicin
+benzodiazepine class;nonbarbiturate hypnotics
+acetazolamide;folic acid antagonists
+aspirin;cortico-steroids
+nonsteroidal anti-inflammatory agents;sulfonylurea
+anesthetics;chirocaine
+crixivan;indinavir
+felbamate;phenytoin
+antidepressants;clozapine
+selective serotonin reuptake inhibitor;sumatriptan
+enflurane;nuromax
+carbamazepine;clozapine
+amitriptyline;duloxetine
+camptosar;laxative
+haldol;opiates
+isoniazid;ketoconazole
+ergotamine;propranolol
+cisplatin;hexalen
+antacids;zalcitabine
+antibiotics;nimbex
+clofibrate;probenecid
+fluorouracil;leucovorin
+factive;multivitamin preparations
+diuretic;enalaprilat
+selective serotonin reuptake inhibitors;zyvox
+sulfonamides;sulfonylureas
+alkalinizing agents;colchicine
+diflunisal;nsaids
+dobutamine;nitroprusside
+hypnotic;precedex
+cimetidine;gabapentin
+anticoagulants;chlordiazepoxide
+levothyroxine sodium;phenylbutazone
+antihistamines;barbiturates
+equetrotm;isoniazid
+caffeine;phenobarbital
+chlorthalidone;tubocurarine
+mefloquine;phenothiazines
+combination hormonal contraceptives;nelfinavir
+anticholinergic drugs;chlorprothixene
+carbamazepine;ethinyl estradiol
+glimepiride;magnesium salicylate
+anticoagulant;triclofos sodium
+quinidine;sprycel
+alprazolam;hormonal contraceptives
+amphetamine;thiazides
+acetaminophen;chlordiazepoxide
+aspirin;probenecid
+cyclosporine;nicardipine
+antihypertensive drugs;furosemide
+auranofin;solganal
+citalopram;pimozide
+aprepitant;clarithromycin
+ritonavir;vardenafil
+fluvoxamine;triazolam
+rifampicin;tarceva
+digoxin;diphenoxylate
+diuretics;flurbiprofen
+atorvastatin;tricor
+oxytocic drugs;vasopressor
+monoamine oxidase inhibitors;venlafaxine
+haloperidol;levsin
+bupropion;thioridazine
+rifabutin;viracept
+felodipine;phenobarbital
+amphetamines;haloperidol
+aspirin;nicotinic acid
+acarbose;intestinal adsorbents
+antacids;sprycel
+antibiotics;tracrium
+amiloride;dofetilide
+aminoglycosides;botox
+amphotericin b;foscavir
+foscavir;pentamidine
+cimetidine;zalcitabine
+clarithromycin;sprycel
+alcohol;fentanyl
+aspirin;phenytoin
+gleevec;rifampin
+carbamazepine;nuromax
+carvedilol;paroxetine
+guanfacine;phenobarbital
+precedex;sedatives
+5-ht1 agonists;ssris
+phenytoin;trileptal
+clarithromycin;nevirapine
+centrally acting drugs;equetrotm
+crixivan;rifabutin
+eplerenone;verapamil
+acetaminophen;l-methionine
+allopurinol;ampicillin
+beta-blockers;insulin
+maoi;serotonin reuptake inhibitor drug
+dezocine;levo-dromoran
+chloroprocaine;sulfonamide drug
+antihistamines;tricyclic antidepressants
+cyclosporin a;etoposide
+ovcon-35;viracept
+barbiturates;inapsine
+aspirins;propranolol
+omeprazole;valdecoxib
+anticholinergic drugs;nortriptyline hydrochloride
+allopurinol;amoxicillin
+carbamazepine;felodipine
+ethinyl estradiol;prednisolone
+anagrelide;fluvoxamine
+diltiazem;lovastatin
+nabumetone;warfarin
+equetrotm;oxcarbazepine
+monoamine oxidase inhibitors;paroxetine
+anticoagulant;sulfonamides
+dexfenfluramine;mao inhibitor
+corticosteroids;vitamin d
+ethanol;sonata
+equetrotm;lorazepam
+bepridil hydrochloride;digoxin
+anakinra;tnf-blocking agents
+colestipol hydrochloride;penicillin g
+fluconazole;valdecoxib
+almotriptan;verapamil
+anesthetic solutions;tricyclic antidepressants
+lexapro;metoprolol
+itraconazole;tacrolimus
+equetrotm;risperidone
+cisapride;ranitidine
+lisinopril;non-steroidal anti-inflammatory drugs
+beta-adrenoceptor blocking agents;non-steroidal antiinflammatory drugs
+haloperidol;rifampin
+digoxin;erythromycin
+erythromycin;fentanyl
+brovana;monoamine oxidase inhibitors
+ergot-type medications;naratriptan
+digoxin;verapamil
+probenecid;zidovudine
+duloxetine;flecainide
+adenosine;caffeine
+diflunisal;indomethacin
+enalapril;lithium
+amphetamine;maoi antidepressants
+dopamine;haloperidol
+anticoagulant;chlorpropamide
+barbiturates;probenecid
+clozapine;phenytoin
+hydralazine;mao inhibitors
+tiagabine;triazolam
+aluminum;gemifloxacin
+anticoagulants;iloprost
+cns depressants;hydrocodone
+dopamine;halogenated hydrocarbon anesthetics
+coumarin-type anticoagulants;ibuprofen
+antihistamines;warfarin
+disulfiram;mao inhibitor
+almotriptan;moclobemide
+chloroquine;cimetidine
+indocin;methotrexate
+amphotericin;hivid
+methotrexate;rofecoxib
+itraconazole;quinidine
+fibrate;lovastatin
+pipracil;probenecid
+acarbose;digoxin
+amitriptyline hcl;anticholinergic
+didanosine;indinavir
+cyclophosphamide;phenobarbital
+antipsychotic drug;tricyclic antidepressant
+alprazolam;cyclosporine
+n-diethyl-m-toluamide;panretin
+progestins;rifampin
+acetazolamide;cyclosporine
+fluoxetine hydrochloride;nortriptyline
+carbamazepine;progestin
+furosemide;toradol
+amiodarone;indinavir
+aprepitant;phenytoin
+levo-dromoran;pentazocine
+diuretics;flolan
+enoxacin;r-warfarin
+duloxetine;tca
+antidepressants of the mao inhibitor class;hexalen
+anesthetics;duragesic
+estazolam;ketoconazole
+flutamide;warfarin
+indinavir;sildenafil
+heroin;methadone
+anticoagulant;warfarin sodium
+didanosine;quinolones
+dextran;heparin sodium
+antihypertensives;proleukin
+levsin;monoamine oxidase (mao) inhibitors
+digoxin;nsaids
+mefloquine;tricyclic antidepressants
+alcohol;ethchlorvynol
+colestid;propranolol
+benzodiazepines;gleevec
+anticoagulant;bromelains
+glimepiride;pepto-bismol
+carbamazepine;corticosteroids
+barbiturates;clonidine
+cisapride;itraconazole
+isoflurane;nuromax
+ertapenem;probenecid
+angiotensin ii receptor antagonists;inspra
+cephalexin;metformin
+nimbex;sodium colistemethate
+anticoagulant;sulfamethoxazole
+anticoagulants;tolbutamide
+revia;thioridazine
+nifedipine;vardenafil
+dasatinib;famotidine
+bezalip;insulin
+beta-agonists;thiazide diuretics
+phenytoin;valproic acid
+aprepitant;nefazodone
+cancidas;cyclosporine
+disopyramide;verapamil
+aminoglycoside antibiotics;bumetanide
+selegiline hydrochloride;serotoninergic agents
+vasopressor;zyvox
+amitriptyline;antipsychotic drug
+bupropion;levodopa
+diazepam;fluvoxamine
+aluminum;zalcitabine
+ethinyl estradiol;topiramate
+amphotericin b;trisenox
+saquinavir;warfarin
+corticosteroid;ketoconazole
+diethylpropion;phenothiazines
+hormonal contraceptives;temazepam
+captopril;indomethacin
+aminosalicylic acid;vitamin b12
+sympathomimetic agents;zyvox
+catecholamines;cyclopropane
+doxorubicin hcl;equetrotm
+nalfon;salicylates
+carbamazepine;clonazepam
+cimetidine;doxazosin
+sprycel;terfenadine
+antiparkinson drugs;robinul
+cyclosporin;equetrotm
+factive;omeprazole
+pah;thiazolesulfone
+fibrates;lovastatin
+ergonovine;oxytocic drugs
+antihypertensive compounds;nimotop
+fosinopril sodium;thiazide diuretics
+aminoglycosides;tracrium
+almotriptan;itraconazole
+duloxetine;phenothiazines
+docetaxel;ketoconazole
+levsin;tricyclic antidepressants
+alcohol;ethopropazine
+sympathomimetic bronchodilators;xanthine bronchodilators
+diuretic;enalapril
+cisapride;troleandomycin
+didanosine;hivid
+lincomycin;nuromax
+fentanyl;skeletal muscle relaxants
+isoniazid;valproate
+anticoagulant;cinchophen
+iron;quinolone
+fentanyl;saquinavir
+phenytoin;rifampin
+estrogens;phenytoin
+iron;tetracyclines
+antacids;quinolone
+broad-spectrum antibiotics;contraceptives
+antidepressants;wellbutrin
+equetrotm;quinine
+digitalis;tiazac
+aluminum;factive
+tricyclic antidepressants;type 1c antiarrhythmics
+calcium;quinolone antibiotics
+equetrotm;methadone
+cisapride;procainamide
+captopril;nitrates
+cisapride;ketoconazole
+aspirin;indomethacin
+levo-dromoran;opioids
+duragesic;tranquilizers
+ergomar;triacetyloleandomycin
+hormonal contraceptives;tracleer
+thyroid products;tricyclic antidepressants
+acetaminophen;anesthetics
+robinul;tricyclic antidepressants
+ciprofloxacin;probenecid
+cisapride;fluconazole
+cimetidine;epirubicin
+anticoagulants;lovastatin
+dihydroergotamine;sprycel
+antidiabetic agents;corticosteroids
+furosemide;salicylates
+benzodiazepines;narcotics
+cinoxacin;nonsteroidal anti-inflammatory agents
+fentanyl;opioids
+indinavir;videx
+phenothiazines;robinul
+digoxin;quinidine
+benzodiazepine;clozapine
+anticoagulants;quinolones
+benzodiazepines;diltiazem
+5-ht1 agonists;sertraline
+escitalopram;mao inhibitor
+enoxacin;magnesium hydroxide
+ketoconazole;viracept
+psychoactive drugs;toradol
+alprazolam;anticonvulsants
+alprazolam;saquinavir
+quinolones;r-warfarin
+doxepin;quinidine
+phenytoin;valdecoxib
+indinavir;vardenafil
+acth;amphotericin b
+chloroquine;mefloquine
+cilostazol;diltiazem
+naratriptan;ssri
+delavirdine;videx
+anticoagulants;disulfiram
+clidinium;phenothiazines
+ketoconazole;loratadine
+epinephrine;glycosides
+mepron;rifampin
+leucovorin;methotrexate
+doxycycline;phenytoin
+guanfacine;tcas
+bosentan;ortho-novum
+equetrotm;ketoconazole
+alprazolam;ergotamine
+antihistamines;viracept
+h1-blocking agents;mefloquine
+phenobarbital;saquinavir
+l-glutamine;paclitaxel
+enablex;thioridazine
+alprazolam;amiodarone
+caffeine;enoxacin
+benzodiazepine class;monoamine oxidase inhibitors
+carbidopa;iron
+phenytoin;tagamet
+anticoagulants;thyroid
+anticoagulants of the coumarin type;bezalip retard
+beta-blockers;clonidine
+phenytoin;saquinavir
+adenosine;theophylline
+acetazolamide;sodium bicarbonate
+5-ht1b/1d agonists;axert
+diltiazem hydrochloride;propranolol
+methadone;nevirapine
+methotrexate;neomycin
+erlotinib;ketoconazole
+butalbital;cns depressants
+danazol;lovastatin
+anticoagulant;ibuprofen
+digoxin;macrolide antibiotics
+r-warfarin;valdecoxib
+rifampicin;zopiclone
+glyburide;valdecoxib
+quinidine;strattera
+cholestyramine;estrogens
+ketoprofen;lithium
+contraceptive;factive
+butalbital;chlordiazepoxide
+alprazolam;sertraline
+indocin;lithium
+furosemide;nsaids
+cinacalcet;ketoconazole
+alprazolam;psychotropic medications
+enablex;tricyclic antidepressants
+hydrocodone;tricyclic antidepressants
+duloxetine;thioridazine
+atropine sulfate;mao inhibitors
+flecainide;tricyclic antidepressants
+ketoconazole;levobupivacaine
+fluoxetine;phenytoin
+contraceptives;nevirapine
+iloprost;vasodilators
+abilify;centrally acting drugs
+erythromycin;fexofenadine hydrochloride
+corticosteroid;inactivated vaccines
+methyldopa;sulfapyridine
+bupropion;paroxetine
+furosemide;nonsteroidal anti-inflammatory drugs
+busulfan;phenytoin
+lithium;nonsteroidal anti-inflammatory agents
+proton pump inhibitors;warfarin
+allopurinol;azathioprine
+diuretics;nsaids
+isocarboxazid;psychotropic agents
+equetrotm;valproate
+anticoagulants;cefixime
+epa;ginkgo biloba
+ethosuximide;phenytoin
+clozapine;equetrotm
+fluoxetine;tricyclic antidepressants
+disopyramide phosphate;erythromycin
+ketoprofen;probenecid
+epinephrine;isoproterenol hydrochloride
+indocin;loop diuretics
+epinephrine;sympathomimetic drugs
+carbamazepine;tricyclic antidepressants
+inomax;nitric oxide donor compounds
+atorvastatin;fenofibrate
+alcohol;dextromethorphan hydrobromide
+antiepileptic drugs;felbatol
+anagrelide;aspirin
+digoxin;spironolactone
+beta2-agonists.;steroids
+mefloquine;quinidine
+anticoagulants;atromid-s
+amiodarone;viracept
+inspra;lithium
+anticoagulants;phenytoin
+desipramine hydrochloride;tranquilizers
+dofetilide;verapamil
+acetaminophen;sedative-hypnotics
+flurbiprofen;hypoglycemic agents
+nitrofurantoin;norfloxacin
+hydrocodone;narcotic analgesics
+amprenavir;methadone
+equetrotm;triazolam
+activase;dipyridamole
+brevibloc;norepinephrine
+crixivan;hmg-coa reductase inhibitors
+selegiline hydrochloride;sertraline
+fluoxetine;tca
+ketorolac tromethamine;warfarin
+caffeine;ketoprofen
+brevibloc;dopamine
+nsaid;psychotropic drugs
+equetrotm;phenytoin
+alosetron;hydralazine
+grepafloxacin;theophylline
+anticoagulants;cinoxacin
+para-aminosalicylic acid;vitamin b12
+beta-agonists;non-potassium sparing diuretics
+diuretic;prinivil
+amprenavir;indinavir
+diuretics;lithium
+antacid;lomefloxacin
+cisapride;clarithromycin
+ethinyl estradiol;phenobarbital
+iron;lansoprazole
+cyclosporine;nsaid
+anionic exchange resins;hydrochlorothiazide
+bezalip retard;cholestryramine
+nonsteroidal anti-inflammatory agents;sulfonylureas
+penthrane;tetracycline
+dasatinib;h2 blockers
+sympathomimetic amine;tricyclic antidepressants
+phenobarbital;tiagabine
+clarithromycin;enablex
+ibuprofen;lithium
+anticoagulant;haloperidol
+orphenadrine;wellbutrin
+antidepressants;duloxetine
+cytotoxic;proleukin
+atacand;lithium
+acamprosate;naltrexone
+buspirone;equetrotm
+digoxin;indomethacin
+atazanavir;tarceva
+loop diuretics;non-steroidal anti-inflammatory agent
+estazolam;itraconazole
+corticosteroids;erythromycin
+bacitracin;nimbex
+estrogens;thyroid
+amphetamines;sympathomimetic agents
+barbiturates;lofexidine
+acarbose;amylase
+neomycin;vitamin b-12
+nizoral;triazolam
+benzodiazepines;isoniazide
+alprazolam;antihistaminics
+altretamine;cimetidine
+carbamazepine;saquinavir
+l-phenylalanine;non-selective mao inhibitors
+dextromethorphan;maois
+clozapine;flecainide
+antiparkinsonian drug;antipsychotic drug
+anagrelide;enoximone
+interferon beta-1a;tysabri
+adenosine;dipyridamole
+acitretin;vitamin a
+orencia;tnf antagonists
+penicillins;tetracyclines
+amitriptyline;clonidine
+anticoagulant;diuretics
+cimetidine 400 mg;nisoldipine
+nuromax;phenytoin
+iron;levodopa
+ceftazidime;chloramphenicol
+diclofenac;hypoglycemic agents
+starlix;sympathomimetics
+disalcid;glimepiride
+benzodiazepines;cyclosporine
+ciprofloxacin;videx
+azole antifungal agents;hypoglycemic agents
+guanfacine;noncardioselective beta-blockers
+aluminum;exjade
+diphenhydramine hydrochloride;sedatives
+estrogens;levothyroxine
+equetrotm;protease inhibitors
+chlorothiazide;lithium
+arimidex;estrogen
+starlix;thyroid products
+alcohol;butorphanol
+carbachol;cyclopentolate
+prinivil;triamterene
+anticoagulants;hypoglycemic agents
+almotriptan;ketoconazole
+acarbose;pancreatin
+aminoglycosides;vistide
+equetrotm;haloperidol
+corticosteroids;nonsteroidal antiinflammatory agents
+benzodiazepine class;butyrophenone classes of antipsychotic agents
+heparin sodium;nicotine
+phenothiazines;phenytoin
+celebrex;fluconazole
+botox;curare-like compounds
+verapamil;zebeta
+cerubidine;doxorubicin
+metoclopramide;zalcitabine
+nondepolarizing agents;tetracyclines
+fexofenadine hydrochloride;maalox
+amphetamines;ethoxzolamide
+heparin sodium;ibuprofen
+mecamylamine;sympathomimetic amines
+ampicillin;probenecid
+agonist/antagonist analgesics;levo-dromoran
+dihydroergotamine;erythromycin
+bupropion;phenobarbital
+disulfiram;nitrite
+eplerenone;saquinavir
+cimetidine;dolasetron
+bitolterol;steroid
+azithromycin;rifabutin
+atorvastatin;maalox tc
+heparin sodium;hydroxychloroquine
+arthropan;glimepiride
+boric acid;idoxuridine
+aprepitant;dexamethasone
+anti-malarial drugs;carbamazepine
+bexarotene;phenytoin
+vitamin k;warfarin
+cholestyramine;corticosteroids
+clidinium;maois
+alcohol;clonidine
+losartan;rifampin
+allopurinol;uricosuric agents
+digoxin;neomycin
+antituberculous drugs;trecator
+erythromycin;valproate
+aminoglycosides;fluothane
+corticosteroids;rifampin
+anticoagulant;ethacrynic acid
+anticoagulant;naproxen
+methyldopa;sympathomimetic amines
+phenobarbital;trileptal
+fenoprofen;phenobarbital
+antipsychotics;wellbutrin
+antidiabetic drugs;non-selective beta-adrenergic-blocking agents
+beta-blockers;bupropion
+dicumarol;equetrotm
+anti-hypertensive drug;lofexidine
+cefdinir;iron
+aluminum hydroxide;ethambutol
+atomoxetine;paroxetine
+fentanyl;tranquilizers
+carbamazepine;chloroquine
+digitoxin;phenytoin
+aspirin;flurbiprofen
+cyclosporine;sprycel
+diazoxide;hydralazine
+monoamine oxidase inhibitors;serotonin reuptake inhibitor drug
+antineoplastic agents;camptosar
+aeds;felbatol
+aliskiren;ketoconazole
+hypoglycemic agents;itraconazole
+didanosine;nelfinavir
+saquinavir;triazolam
+beta-adrenergic blocking agents;calcium antagonist
+alcohol;anticoagulant
+amiodarone;protease inhibitor
+factive;sucralfate
+contraceptives;griseofulvin
+oxytocic drugs;prostin e2
+colistin;nuromax
+butorphanol;levo-dromoran
+bosentan;hypoglycemic agents
+azithromycin;warfarin
+amiodarone;benzodiazepines
+isoniazid;levodopa
+carbamazepine;toradol
+amphetamines;gastrointestinal acidifying agents
+felbamate;phenobarbital
+monoamine oxidase inhibitors;serotoninergic agents
+progestins;topiramate
+alpha-blockers;uroxatral
+diuretic agents;epinephrine
+equetrotm;fluoxetine
+azole antifungals;equetrotm
+antihistamines;cns depressant drugs
+aluminum;quinolone antibiotics
+aminoglycosides;zalcitabine
+equetrotm;rifampin
+ciprofloxacin;phenytoin
+alprazolam;toradol
+alphagan p;sedatives
+fenofibrate;pravastatin
+maois;serotoninergic agents
+anticoagulant;pyrazolones
+halothane;nuromax
+norepinephrine;tricyclic antidepressants
+aminoglycosides;nondepolarizing agents
+clozapine;fluvoxamine
+antacids;lomefloxacin
+anticoagulant;oxyphenbutazone
+alcohol;wellbutrin
+anesthetics;iopidine
+beta adrenergic blocking agents;sulfonylurea
+clindamycin;nimbex
+ketoconazole;vitamin d
+cholestyramine;thyroid hormones
+albendazole;dexamethasone
+calcium channel blockers;clonidine
+magnesium;tracrium
+antacids;ciprofloxacin
+equetrotm;felodipine
+bile acid binding resins;hydrocortisone
+desipramine;duloxetine
+contraceptives;thyroid
+ethoxzolamide;tricyclics
+felbatol;valproate
+amprenavir;ritonavir
+diazepam;heroin
+levothyroxine sodium;methadone
+bexarotene;itraconazole
+levobupivacaine;phenobarbital
+ciclesonide;ketoconazole
+antithyroid agents;sodium iodide i131
+foscarnet;hivid
+central nervous system depressants;fentanyl
+benzodiazepines;suboxone
+auranofin;myochrysine
+h2-antagonists;phenytoin
+alprazolam;nifedipine
+apomorphine;diphenidol
+amantadine;levsin
+bupropion;equetrotm
+rifampin;zebeta
+s-warfarin;valdecoxib
+acitretin;phenytoin
+acetaminophen;diflunisal
+antihypertensive drugs;bumetanide
+azithromycin;sildenafil
+beta-blocking agents;nifedipine
+ketoconazole;lapatinib
+halothane;labetalol hcl
+phenytoin;valproate
+factive;progesterone
+alosetron;ketoconazole
+iron;norfloxacin
+isoniazid;theophylline
+brovana;tricyclic antidepressants
+mineral oil;vitamin d preparations
+anafranil;mao inhibitors
+casodex;warfarin
+fentanyl;sedatives
+cyclosporine;saquinavir
+aripiprazole;ketoconazole
+equetrotm;theophylline
+etidronate;warfarin
+cholestyramine;propranolol
+bupropion;phenytoin
+aminoglycosides;nuromax
+fosinopril;magnesium hydroxide
+ssris;zyvox
+antithrombin iii;heparin
+anticoagulant;barbiturates
+codeine;nabilone
+accutane;progesterone
+anesthetic;precedex
+quinolones;theophylline
+quinolone;theophylline
+nuromax;procainamide
+antiplatelet agents;argatroban
+5-ht1 agonists;paroxetine
+celebrex;lithium
+bextra;lithium
+amphetamines;urinary acidifying
+diclofenac;lithium
+ribavirin;stavudine
+apokyn;metoclopramide
+brevibloc;warfarin
+beta blocker;fentanyl
+duloxetine;tricyclic antidepressants
+nimbex;phenytoin
+bosentan;statins
+anticoagulants;flolan
+levo-dromoran;pure agonist opioid analgesic
+dopamine;metoprolol
+chlorpromazine;tricyclic antidepressant
+coumarin anticoagulant;lovastatin
+acellular vaccines;raptiva
+aluminum hydroxide;enoxacin
+tikosyn;verapamil
+antihypertensives;apraclonidine
+aspirin;ketoprofen
+abciximab;activase
+nondepolarizing agents;procainamide
+lithium;valdecoxib
+prinivil;thiazide-type diuretics
+d.h.e. 45;macrolide class
+clozapine;sertraline
+calcitriol;phenytoin
+antiparkinsonian drug;chlorpromazine
+5-ht1 agonists;naratriptan
+opioid analgesics;revia
+hydroxyzine;narcotics
+bromocriptine;erythromycin
+benzodiazepines;cimetidine
+antizol;phenytoin
+ciprofloxacin;sucralfate
+itraconazole;sustiva
+cimetidine;nicardipine hcl
+beta-blocker;flurbiprofen
+buspirone;warfarin
+hormonal contraceptives;morphine
+anticoagulant;contraceptives
+coumarins;sulfonylureas
+beta-blockers;epinephrine
+nonsteroidal anti-inflammatory agents;starlix
+hmg-coa reductase inhibitors;tricor
+antizol;cimetidine
+aminoglycosides;maxipime
+alprazolam;aprepitant
+lorazepam;loxapine
+aluminum;fexofenadine hydrochloride
+alfenta;cns depressants
+fentanyl;hmg-coa reductase inhibitors
+cimetidine;citalopram
+digoxin;nsaid
+potassium sparing diuretics;steroidal anti-inflammatory agent
+tarceva;voriconazole
+dopamine antagonists;factrel
+fat-soluble vitamins;mineral oil
+amiodarone;phenytoin
+furosemide;indomethacin
+duragesic;phenothiazines
+ethchlorvynol;maois
+antacid;fexofenadine hydrochloride
+camptosar;diuretics
+benzodiazepines;nifedipine
+statins;tracleer
+allopurinol;chlorpropamide
+cyclopentolate;pilocarpine
+antizol;ethanol
+anticoagulants;cholestyramine
+amphetamine;urinary acidifying agents
+factive;iron
+heparin sodium;tetracyclines
+thiazides;vitamin d
+anticoagulant;chymotrypsin
+acetylsalicylic acid;heparin sodium
+aspirin;diflunisal
+dalfopristin;equetrotm
+nabilone;secobarbitone sodium
+coumarin;itraconazole
+digoxin;sympathomimetics
+coumarin-type anticoagulants;nonsteroidal anti-inflammatory agents
+anticoagulant;quinine
+aspirin;epa
+celecoxib;lithium
+nondepolarizing agents;quinidine
+central nervous system depressants;heroin
+colestipol hydrochloride;hydrochlorothiazide
+antibiotics;anticholinesterase
+calcium channel blockers;mefloquine
+factive;magnesium
+beta blockers;flecainide
+opioids;precedex
+atazanavir;crixivan
+clofibric acid;hormonal contraceptives
+theophylline;wellbutrin
+immunosuppressive drugs;raptiva
+norfloxacin;videx
+guanfacine;phenytoin
+digitalis;thiazide diuretics
+diuretics;lotensin
+citalopram;equetrotm
+antidepressants;tricyclic antidepressants
+amitriptyline;equetrotm
+levodopa;metoclopramide
+cns depressants;codeine
+fluvoxamine;terbinafine
+aprepitant;ketoconazole
+equetrotm;troleandomycin
+cholestyramine;phenylbutazone
+cefixime;warfarin
+anticoagulant;griseofulvin
+antihistamines;benzodiazepines
+bretylium tosylate;catecholamines
+non-steroidal anti-inflammatory agent;thiazide diuretics
+ampicillin;chloroquine
+digoxin;propafenone
+cimetidine;nimodipine
+desipramine;escitalopram
+duloxetine;type 1c antiarrhythmics
+cancidas;phenytoin
+equetrotm;warfarin
+acetazolamide;methenamine
+ascorbic acid;synthetic estrogens
+phenytoin;trazodone
+cholestyramine;vitamin k
+antacids;digoxin
+gefitinib;ketoconazole
+antihistamines;heparin sodium
+succinylcholine;tracrium
+beta-blockers;naproxen
+atorvastatin;contraceptive
+ergot alkaloid class;macrolide class
+nimbex;procainamide
+ethoxzolamide;quinidine
+coumarin;phenytoin
+esomeprazole;iron
+butalbital;sedative-hypnotics
+azithromycin;didanosine
+acetaminophen;sulfapyridine
+coumarins;diflunisal
+calcium;quinolones
+ketoconazole;valdecoxib
+aspirin;pyrazolone derivatives
+phenytoin;vitamin d
+gabapentin;maalox
+ketoconazole;tikosyn
+allopurinol;thiazide diuretics
+amiodarone;anticoagulant
+gentamicin;vistide
+aluminum;videx
+bretylium tosylate;dopamine
+levodopa;phenytoin
+bosentan;tacrolimus
+clindamycin;nuromax
+monoamine oxidase inhibitors;sympathomimetic amines
+anticoagulant;fenoprofen
+beta2-agonists.;diuretics
+clindamycin;nondepolarizing agents
+ergomar;vasoconstrictor drugs
+monoamine oxidase inhibitors;sulfonylureas
+diazepam;tagamet
+equetrotm;lamotrigine
+antizol;ketoconazole
+angiomax;heparin
+hydralazine;nsaids
+alcohol;haldol
+ethacrynic acid;furosemide
+heparin sodium;phenylbutazone
+carbimazole;iodine
+azole antifungal agents;isoniazid
+factive;probenecid
+saquinavir;tarceva
+quinolones;theobromine
+disulfiram;revia
+antacids;dirithromycin
+ketoconazole;pletal
+ketoconazole;videx
+tambocor;verapamil
+beta blocker;clonidine
+anagrelide;theophylline
+alpha-blocker;vardenafil
+crixivan;itraconazole
+live-attenuated vaccines;raptiva
+amphetamines;tricyclic
+iron;lymecycline
+celecoxib;fluconazole
+barbiturates;clonidine hydrochloride
+nilutamide;vitamin k antagonists
+cyclosporine;itraconazole
+antianxiety agents;antihistamines
+amphetamines;chlorpromazine
+cns depressant drugs;fenfluramine
+clozapine;phenothiazines
+norfloxacin;probenecid
+peganone;phenurone
+5ht3 antagonist class;apomorphine
+naproxen;propranolol
+bupropion;nortriptyline
+amiloride;prinivil
+fluvoxamine;xanax
+clonidine;tricyclic antidepressants
+lofexidine;tricyclic antidepressants
+coly-mycin m;decamethonium
+cyclosporine;erythromycin
+levobupivacaine;rifampin
+maois;sertraline
+alprazolam;paroxetine
+benzodiazepines;viracept
+barbiturates;levo-dromoran
+bromocriptine mesylate;ergot alkaloids
+citalopram;escitalopram
+bumetanide;lithium
+antipsychotic agents;opiates
+saquinavir;viracept
+lamivudine;zalcitabine
+phenytoin;tolbutamide
+desipramine;major tranquilizers
+antihistamines;monoamine oxidase (mao) inhibitors
+digoxin;flolan
+acitretin;glibenclamide
+doxapram;monoamine oxidase inhibiting drugs
+aprepitant;troleandomycin
+chlorprothixene;tricyclic antidepressants
+enoxacin;ranitidine
+methotrexate;probenecid
+bromocriptine mesylate;dopamine antagonists
+citalopram;ketoconazole
+carvedilol;digoxin
+anticoagulant;cisapride
+catecholamines;halogenated hydrocarbon anesthetics
+tikosyn;zafirlukast
+epinephrine;tricyclic antidepressants
+reserpine;sympathomimetics
+antacids;chloroquine
+norepinephrine;thyroxine
+carbamazepine;phenytoin
+phenytoin;tricyclic antidepressants
+cimetidine;tricyclic antidepressant
+norfloxacin;theophylline
+gleevec;simvastatin
+doxapram;sympathomimetic
+cannabinoids;tikosyn
+aspirin;meclofenamate sodium
+alcohol;alphagan p
+calcium blockers;digitalis preparations
+flecainide;phenytoin
+levothyroxine sodium;sodium polystyrene sulfonate
+alcohol;heroin
+carbamazepine;lapatinib
+doxepin;ssris
+levulan kerastick;phenothiazines
+amphetamines;phenobarbital
+d-amphetamine;tricyclics
+itraconazole;triazolam
+magnesium;nuromax
+dexfenfluramine;serotoninergic agents
+camptosar;dexamethasone
+auranofin;gold medication
+dilaudid;sedative-hypnotics
+amikacin;vistide
+epa;ginkgo
+cefprozil;probenecid
+ethyl alcohol;lorazepam
+diethylpropion;guanethidine
+antihistamines;levo-dromoran
+aprepitant;paroxetine
+atomoxetine;fluoxetine
+dihydroergotamine mesylate;sumatriptan
+flecainide;phenobarbital
+cns depressants;haldol
