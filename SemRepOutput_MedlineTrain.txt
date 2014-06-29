@@ -1,0 +1,1863 @@
+SE|00000000||tx|1|text|On the contrary, neurotensin and tuftsin were agonists in induction of analgesia.
+SE|00000000||tx|1|entity|C0027930|Neurotensin|aapp,horm,nsba|||neurotensin||||1000|18|28
+SE|00000000||tx|1|entity|C0041350|Tuftsin|aapp,imft|||tuftsin||||1000|34|40
+SE|00000000||tx|1|entity|C0243192|agonists|phsu|||agonists||||1000|47|54
+SE|00000000||tx|1|entity|C0205263|Induce (action)|ftcn|||induction||||1000|59|67
+SE|00000000||tx|1|entity|C3202977|Analgesia|topp|||analgesia||||1000|72|80
+
+SE|00000000||tx|2|text|Diazepam at doses of 0.25 mg/kg and 2.5 mg/kg injected with morphine was found to decrease the antinociceptive effect of morphine.
+SE|00000000||tx|2|entity|C0012010|Diazepam|orch,phsu|||Diazepam||||1000|1|8
+SE|00000000||tx|2|entity|C0178602|Dosage|qnco|||doses||||1000|13|17
+SE|00000000||tx|2|entity|C0439272|ug/g|qnco|||mg/kg||||861|27|31
+SE|00000000||tx|2|entity|C0450346|2/5|qnco|||2.5||||888|37|39
+SE|00000000||tx|2|entity|C0439272|ug/g|qnco|||mg/kg||||888|41|45
+SE|00000000||tx|2|entity|C0026549|Morphine|orch,phsu|||morphine||||1000|61|68
+SE|00000000||tx|2|entity|C1280500|Effect|qlco|||effect||||861|112|117
+SE|00000000||tx|2|entity|C0026549|Morphine|orch,phsu|||morphine||||1000|122|129
+SE|00000000||tx|2|relation|5|1|C0026549|Morphine|orch,phsu|orch|||morphine||||1000|61|68|NOM|INTERACTS_WITH||112|117|1|1|C0026549|Morphine|orch,phsu|orch|||morphine||||1000|122|129
+
+SE|00000000||tx|3|text|We conclude that ADL 8-2698 prevents morphine-induced increases in gastrointestinal transit time by means of selective peripheral opioid anitagonism without affecting central opioid analgesia.
+SE|00000000||tx|3|entity|C0963856|ADL 8-2698|orch,phsu|||ADL 8-2698||||1000|18|27
+SE|00000000||tx|3|entity|C0026549|Morphine|orch,phsu|||morphine-||||851|38|46
+SE|00000000||tx|3|entity|C0205263|Induce (action)|ftcn|||induced||||851|47|53
+SE|00000000||tx|3|entity|C0442805|Increase|ftcn|||increases||||851|55|63
+SE|00000000||tx|3|entity|C0232484|Gastrointestinal transit time|ortf|||gastrointestinal transit time||||1000|68|96
+SE|00000000||tx|3|entity|C0205100|Peripheral|spco|||peripheral||||583|120|129
+SE|00000000||tx|3|entity|C0242402|Opioids|hops,orch,phsu|||opioid||||583|131|136
+SE|00000000||tx|3|entity|C0392760|Affecting|ftcn|||affecting||||843|158|166
+SE|00000000||tx|3|entity|C1879652|Central Minus|lbpr|||central||||843|168|174
+SE|00000000||tx|3|entity|C0002772|Analgesics, Opioid|orch,phsu|||opioid analgesia||||843|176|191
+
+SE|00000000||tx|4|text|Clinical implications of warfarin interactions with five sedatives.
+SE|00000000||tx|4|entity|C0205210|Clinical|qlco|||Clinical||||694|1|8
+SE|00000000||tx|4|entity|C0043031|Warfarin|hops,orch,phsu|||warfarin||||872|26|33
+SE|00000000||tx|4|entity|C1704675|Interaction|ftcn|||interactions||||872|35|46
+SE|00000000||tx|4|entity|C0205451|Five|qnco|||five||||888|53|56
+SE|00000000||tx|4|entity|C0036557|Sedatives|phsu|||sedatives||||888|58|66
+SE|00000000||tx|4|relation|1|1|C0036557|Sedatives|phsu|phsu|||sedatives||||888|58|66|NOM|INTERACTS_WITH||35|46|1|0|C0043031|Warfarin|hops,orch,phsu|hops|||warfarin||||872|26|33
+
+SE|00000000||tx|5|text|Morphine prolonged gastrointestinal transit time from 69 to 103 minutes (P = .005);
+SE|00000000||tx|5|entity|C0026549|Morphine|orch,phsu|||Morphine||||1000|1|8
+SE|00000000||tx|5|entity|C0232484|Gastrointestinal transit time|ortf|||gastrointestinal transit time||||1000|20|48
+SE|00000000||tx|5|entity|C0700321|Small|qnco|||minutes||||861|65|71
+SE|00000000||tx|5|relation|1|1|C0026549|Morphine|orch,phsu|orch|||Morphine||||1000|1|8|VERB|AFFECTS||10|18|3|1|C0232484|Gastrointestinal transit time|ortf|ortf|||gastrointestinal transit time||||1000|20|48
+
+SE|00000000||tx|6|text|this was prevented by ADL 8-2698 (P = .004).
+SE|00000000||tx|6|entity|C0963856|ADL 8-2698|orch,phsu|||ADL 8-2698||||1000|23|32
+
+SE|00000000||tx|7|text|Amprenavir significantly decreases clearance of rifabutin and 25-O-desacetylrifabutin, and the combination is poorly tolerated.
+SE|00000000||tx|7|entity|C0754188|Amprenavir|orch,phsu|||Amprenavir||||861|1|10
+SE|00000000||tx|7|entity|C0449297|Clearance|qlco|||clearance||||1000|36|44
+SE|00000000||tx|7|entity|C0140575|Rifabutin|antb,orch|||rifabutin||||1000|49|57
+SE|00000000||tx|7|entity|C0663716|25-desacetylrifabutin|orch,phsu|||25-O-desacetylrifabutin||||913|63|85
+SE|00000000||tx|7|entity|C0205195|Combined|qlco|||combination||||1000|96|106
+SE|00000000||tx|7|entity|C0205169|Bad|qlco|||poorly||||1000|111|116
+SE|00000000||tx|7|relation|1|1|C0754188|Amprenavir|orch,phsu|orch|||Amprenavir||||861|1|10|VERB|INHIBITS||26|34|4|2|C0140575|Rifabutin|antb,orch|antb|||rifabutin||||1000|49|57
+
+SE|00000000||tx|8|text|Both ibogaine and 18-MC block morphine-induced and nicotine-induced dopamine release in the nucleus accumbens;
+SE|00000000||tx|8|entity|C0020737|Ibogaine|bacs,orch,phsu|||ibogaine||||1000|6|13
+SE|00000000||tx|8|entity|C0332206|Blocking|ftcn|||block||||827|25|29
+SE|00000000||tx|8|entity|C0026549|Morphine|orch,phsu|||morphine-||||888|31|39
+SE|00000000||tx|8|entity|C0205263|Induce (action)|ftcn|||induced||||888|40|46
+SE|00000000||tx|8|entity|C0028040|Nicotine|hops,orch,phsu|||nicotine||||833|52|59
+SE|00000000||tx|8|entity|C0205263|Induce (action)|ftcn|||induced||||833|61|67
+SE|00000000||tx|8|entity|C0013030|Dopamine|nsba,orch,phsu|||dopamine||||833|69|76
+SE|00000000||tx|8|entity|C0391871|Released (action)|ftcn|||release||||833|78|84
+SE|00000000||tx|8|entity|C0028633|Nucleus Accumbens|bpoc|||nucleus accumbens||||1000|93|109
+SE|00000000||tx|8|relation|2|2|C0020737|Ibogaine|bacs,orch,phsu|orch|||ibogaine||||1000|6|13|ADJ|AUGMENTS||40|46|2|2|C0028633|Nucleus Accumbens|bpoc|bpoc|||nucleus accumbens||||1000|93|109
+
+SE|00000000||tx|9|text|Chloral hydrate and methaqualone interact pharmacologically with orally administered anticoagulant agents, but the effect is not clinically significant.
+SE|00000000||tx|9|entity|C0008161|Chloral Hydrate|orch,phsu|||Chloral hydrate||||1000|1|15
+SE|00000000||tx|9|entity|C0025627|Methaqualone|orch,phsu|||methaqualone||||1000|21|32
+SE|00000000||tx|9|entity|C0442027|Oral|spco|||orally||||824|66|71
+SE|00000000||tx|9|entity|C0003280|Anticoagulants|phsu|||anticoagulant agents||||824|86|105
+SE|00000000||tx|9|entity|C1280500|Effect|qlco|||effect||||1000|116|121
+SE|00000000||tx|9|entity|C1273937|Not significant|fndg|||not clinically significant||||913|126|151
+SE|00000000||tx|9|relation|2|1|C0025627|Methaqualone|orch,phsu|orch|||methaqualone||||1000|21|32|VERB|INTERACTS_WITH||34|41|3|1|C0003280|Anticoagulants|phsu|phsu|||anticoagulant agents||||824|86|105
+SE|00000000||tx|9|relation|2|1|C0008161|Chloral Hydrate|orch,phsu|orch|||Chloral hydrate||||1000|1|15|VERB|INTERACTS_WITH||34|41|3|1|C0003280|Anticoagulants|phsu|phsu|||anticoagulant agents||||824|86|105
+
+SE|00000000||tx|10|text|With combined use, clinicians should be aware, when phenytoin is added, of the potential for reexacerbation of pulmonary symptomatology due to lowered serum theophylline concentrations.
+SE|00000000||tx|10|entity|C0205195|Combined|qlco|||combined||||888|6|13
+SE|00000000||tx|10|entity|C0042153|utilization qualifier|ftcn|||use||||888|15|17
+SE|00000000||tx|10|entity|C0871685|Clinician|prog|||clinicians||||1000|20|29
+SE|00000000||tx|10|entity|C0004448|Awareness|menp|||aware||||1000|41|45
+SE|00000000||tx|10|entity|C0031507|Phenytoin|orch,phsu|||phenytoin||||1000|53|61
+SE|00000000||tx|10|entity|C3245505|Potential|qlco|||potential||||1000|80|88
+SE|00000000||tx|10|entity|C2707265|Pulmonary:-:Point in time:^Patient:-|clna|||pulmonary||||694|112|120
+SE|00000000||tx|10|entity|C0441994|Lower - spatial qualifier|spco|||lowered||||852|144|150
+SE|00000000||tx|10|entity|C0039771|Theophylline|bacs,orch,phsu|||theophylline||||852|158|169
+SE|00000000||tx|10|entity|C0683149|serum drug concentration|qnco|||serum theophylline concentrations||||852|152|184
+
+SE|00000000||tx|11|text|The concomitant administration of macrolide antibiotics and other hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors have resulted in previous reports of rhabdomyolysis.
+SE|00000000||tx|11|entity|C0521115|Simultaneous|tmco|||concomitant||||888|5|15
+SE|00000000||tx|11|entity|C0003240|Macrolide Antibiotics|antb,orch|||macrolide antibiotics||||1000|35|55
+SE|00000000||tx|11|entity|C0360714|Hydroxymethylglutaryl-CoA Reductase Inhibitors|orch,phsu|||hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors||||966|67|129
+SE|00000000||tx|11|entity|C0205156|Previous|tmco|||previous||||888|148|155
+SE|00000000||tx|11|entity|C0035410|Rhabdomyolysis|patf|||rhabdomyolysis||||1000|168|181
+
+SE|00000000||tx|12|text|Although this effect was noted even when cholestyramine was given 4 hours prior to fluvastatin, this regimen did not result in diminished efficacy.
+SE|00000000||tx|12|entity|C1280500|Effect|qlco|||effect||||1000|15|20
+SE|00000000||tx|12|entity|C1292426|4 Hours|tmco|||4 hours||||1000|67|73
+SE|00000000||tx|12|entity|C0082608|fluvastatin|orch,phsu|||fluvastatin||||1000|84|94
+SE|00000000||tx|12|entity|C0040808|Treatment Protocols|topp|||regimen||||1000|102|108
+SE|00000000||tx|12|entity|C1518422|Negation|ftcn|||not||||1000|114|116
+SE|00000000||tx|12|entity|C0205216|Decreased|qnco|||diminished||||888|128|137
+SE|00000000||tx|12|entity|C1280519|Effectiveness|qlco|||efficacy||||888|139|146
+
+SE|00000000||tx|13|text|In addition to this pharmacological interaction, this report describes a novel chemical reaction between temazepam (a benzodiazepine) and ethanol under acidic conditions similar to those found in vivo, resulting in a 3-ethoxylated product.
+SE|00000000||tx|13|entity|C0031330|Pharmacology|bmod|||pharmacological||||888|21|35
+SE|00000000||tx|13|entity|C1704675|Interaction|ftcn|||interaction||||888|37|47
+SE|00000000||tx|13|entity|C0205314|New|tmco|||novel||||901|74|78
+SE|00000000||tx|13|entity|C0596319|chemical reaction|phpr|||chemical reaction||||901|80|96
+SE|00000000||tx|13|entity|C0039468|Temazepam|orch,phsu|||temazepam||||1000|106|114
+SE|00000000||tx|13|entity|C0005064|Benzodiazepines|orch,phsu|||benzodiazepine||||1000|119|132
+SE|00000000||tx|13|entity|C0001962|Ethanol|orch|||ethanol||||1000|139|145
+SE|00000000||tx|13|entity|C0001128|Acids|chem|||acidic||||872|153|158
+SE|00000000||tx|13|entity|C0348080|Condition|qlco|||conditions||||872|160|169
+SE|00000000||tx|13|entity|C2348205|Similarity|qlco|||similar||||1000|171|177
+SE|00000000||tx|13|entity|C0037088|Signs and Symptoms|sosy|||found||||966|188|192
+SE|00000000||tx|13|entity|C1514468|product|enty|||product||||827|232|238
+
+SE|00000000||tx|14|text|Barbiturates and glutethimide should not be administered to patients receiving coumarin drugs.
+SE|00000000||tx|14|entity|C0004745|Barbiturates|orch,phsu|||Barbiturates||||1000|1|12
+SE|00000000||tx|14|entity|C0017845|Glutethimide|orch,phsu|||glutethimide||||1000|18|29
+SE|00000000||tx|14|entity|C1518422|Negation|ftcn|||not||||1000|38|40
+SE|00000000||tx|14|entity|C0030705|Patients|podg|||patients||||1000|61|68
+SE|00000000||tx|14|entity|C0010206|coumarin|orch,phsu|||coumarin||||888|80|87
+SE|00000000||tx|14|entity|C0013227|Pharmaceutical Preparations|phsu|||drugs||||888|89|93
+SE|00000000||tx|14|relation|0|0|C0010206|coumarin|orch,phsu|orch|||coumarin||||888|80|87|MOD/HEAD|ISA||80|93|0|0|C0013227|Pharmaceutical Preparations|phsu|phsu|||drugs||||888|89|93
+SE|00000000||tx|14|relation|2|1|C0017845|Glutethimide|orch,phsu|orch|||glutethimide||||1000|18|29|VERB|ADMINISTERED_TO||45|56|2|1|C0030705|Patients|podg,humn|humn|||patients||||1000|61|68
+SE|00000000||tx|14|relation|2|1|C0004745|Barbiturates|orch,phsu|orch|||Barbiturates||||1000|1|12|VERB|ADMINISTERED_TO||45|56|2|1|C0030705|Patients|podg,humn|humn|||patients||||1000|61|68
+SE|00000000||tx|14|relation|1|1|C0013227|Pharmaceutical Preparations|phsu|phsu|||drugs||||888|89|93|VERB|ADMINISTERED_TO||70|78|3|1|C0030705|Patients|podg,humn|humn|||patients||||1000|61|68
+SE|00000000||tx|14|relation|0|0|C0010206|coumarin|orch,phsu|orch|||coumarin||||888|80|87|INFER|ADMINISTERED_TO(SPEC)||80|93|0|0|C0030705|Patients|podg,humn|humn|||patients||||1000|61|68
+
+SE|00000000||tx|15|text|Apparent oral clearance and volume of distribution of sirolimus decreased with 38% and 45%, respectively, when sirolimus was given with diltiazem.
+SE|00000000||tx|15|entity|C0750489|apparent|idcn|||Apparent||||851|1|8
+SE|00000000||tx|15|entity|C0442027|Oral|spco|||oral||||851|10|13
+SE|00000000||tx|15|entity|C0449297|Clearance|qlco|||clearance||||851|15|23
+SE|00000000||tx|15|entity|C0449468|Volume|qnco|||volume||||1000|29|34
+SE|00000000||tx|15|entity|C1704711|Distribution|ftcn|||distribution||||1000|39|50
+SE|00000000||tx|15|entity|C0072980|Sirolimus|antb,orch|||sirolimus||||1000|55|63
+SE|00000000||tx|15|entity|C0450361|38|inpr|||38%||||1000|80|82
+SE|00000000||tx|15|entity|C0072980|Sirolimus|antb,orch|||sirolimus||||1000|112|120
+SE|00000000||tx|15|entity|C0012373|Diltiazem|orch,phsu|||diltiazem||||1000|137|145
+SE|00000000||tx|15|relation|1|1|C0012373|Diltiazem|orch,phsu|orch|||diltiazem||||1000|137|145|VERB|COEXISTS_WITH||126|130|5|1|C0072980|Sirolimus|antb,orch|antb|||sirolimus||||1000|112|120
+
+SE|00000000|CONCLUSIONS|tx|16|text|CONCLUSIONS: Single-dose diltiazem coadministration leads to higher sirolimus exposure, presumably by inhibition of the first-pass metabolism of sirolimus.
+SE|00000000|CONCLUSIONS|tx|16|entity|C1707478|Conclusion|idcn|||CONCLUSIONS||||1000|1|11
+SE|00000000|CONCLUSIONS|tx|16|entity|C0205171|Singular|qnco|||Single-||||608|14|20
+SE|00000000|CONCLUSIONS|tx|16|entity|C1114758|Dose number:Number:Point in time:^Patient:Quantitative|clna|||dose||||608|21|24
+SE|00000000|CONCLUSIONS|tx|16|entity|C0012373|Diltiazem|orch,phsu|||diltiazem||||608|26|34
+SE|00000000|CONCLUSIONS|tx|16|entity|C0205250|High|qlco|||higher||||606|62|67
+SE|00000000|CONCLUSIONS|tx|16|entity|C0072980|Sirolimus|antb,orch|||sirolimus||||606|69|77
+SE|00000000|CONCLUSIONS|tx|16|entity|C1628982|Percent inhibition|qnco|||inhibition||||1000|103|112
+SE|00000000|CONCLUSIONS|tx|16|entity|C0444693|First pass|tmco|||first-pass||||901|121|130
+SE|00000000|CONCLUSIONS|tx|16|entity|C0025520|metabolic aspects|ftcn|||metabolism||||901|132|141
+SE|00000000|CONCLUSIONS|tx|16|entity|C0072980|Sirolimus|antb,orch|||sirolimus||||1000|146|154
+SE|00000000|CONCLUSIONS|tx|16|relation|3|1|C0072980|Sirolimus|antb,orch|antb|||sirolimus||||606|69|77|NOM|INHIBITS||103|112|2|2|C0072980|Sirolimus|antb,orch|antb|||sirolimus||||1000|146|154
+
+SE|00000000|CONCLUSIONS|tx|17|text|Amiodarone is known to raise serum digoxin levels.
+SE|00000000|CONCLUSIONS|tx|17|entity|C0002598|Amiodarone|orch,phsu|||Amiodarone||||1000|1|10
+SE|00000000|CONCLUSIONS|tx|17|entity|C1306421|Serum digoxin measurement|lbpr|||serum digoxin levels||||983|30|49
+
+SE|00000000|CONCLUSIONS|tx|18|text|Sodium thiosulfate is a neutralizing agent for cisplatin that protects against renal damage.
+SE|00000000|CONCLUSIONS|tx|18|entity|C0074774|sodium thiosulfate|inch,phsu|||Sodium thiosulfate||||1000|1|18
+SE|00000000|CONCLUSIONS|tx|18|entity|C0450442|Agent|chvf|||agent||||861|38|42
+SE|00000000|CONCLUSIONS|tx|18|entity|C0008838|Cisplatin|inch,phsu|||cisplatin||||1000|48|56
+SE|00000000|CONCLUSIONS|tx|18|entity|C0022646|Kidney|bpoc|||renal||||888|80|84
+SE|00000000|CONCLUSIONS|tx|18|entity|C1883709|Damage|ftcn|||damage||||888|86|91
+SE|00000000|CONCLUSIONS|tx|18|relation|0|0|C0074774|sodium thiosulfate|inch,phsu|inch|||Sodium thiosulfate||||1000|1|18|SPEC|ISA||1|42|0|0|C0450442|Agent|chvf|chvf|||agent||||861|38|42
+
+SE|00000000|CONCLUSIONS|tx|19|text|CONCLUSIONS: Macrolide antibiotics inhibit the metabolism of HMG-CoA reductase inhibitors that are metabolized by CYP3A4 (i.e., atorvastatin, cerivastatin, lovastatin, simvastatin).
+SE|00000000|CONCLUSIONS|tx|19|entity|C1707478|Conclusion|idcn|||CONCLUSIONS||||1000|1|11
+SE|00000000|CONCLUSIONS|tx|19|entity|C0003240|Macrolide Antibiotics|antb,orch|||Macrolide antibiotics||||1000|14|34
+SE|00000000|CONCLUSIONS|tx|19|entity|C0025519|Metabolism|orgf|||metabolism||||1000|48|57
+SE|00000000|CONCLUSIONS|tx|19|entity|C0360714|Hydroxymethylglutaryl-CoA Reductase Inhibitors|orch,phsu|||HMG-CoA reductase inhibitors||||966|62|89
+SE|00000000|CONCLUSIONS|tx|19|entity|||gngm|1576|CYP3A4|CYP3A4||||1000|115|120
+SE|00000000|CONCLUSIONS|tx|19|entity|C0286651|atorvastatin|orch,phsu|||atorvastatin||||1000|129|140
+SE|00000000|CONCLUSIONS|tx|19|entity|C0528023|cerivastatin|orch,phsu|||cerivastatin||||1000|143|154
+SE|00000000|CONCLUSIONS|tx|19|entity|C0024027|Lovastatin|orch,phsu|||lovastatin||||1000|157|166
+SE|00000000|CONCLUSIONS|tx|19|entity|C0074554|Simvastatin|orch,phsu|||simvastatin||||1000|169|179
+SE|00000000|CONCLUSIONS|tx|19|relation|2|1|C0003240|Macrolide Antibiotics|antb,orch|antb|||Macrolide antibiotics||||1000|14|34|VERB|INHIBITS||36|42|8|2|C0360714|Hydroxymethylglutaryl-CoA Reductase Inhibitors|orch,phsu|orch|||HMG-CoA reductase inhibitors||||966|62|89
+SE|00000000|CONCLUSIONS|tx|19|relation|6|1|||gngm,aapp|gngm|1576|CYP3A4|CYP3A4||||1000|115|120|VERB|INTERACTS_WITH||100|110|4|1|C0360714|Hydroxymethylglutaryl-CoA Reductase Inhibitors|orch,phsu|orch|||HMG-CoA reductase inhibitors||||966|62|89
+
+SE|00000000|CONCLUSIONS|tx|20|text|However, retinyl acetate stimulated, but did not significantly inhibit, proliferation in the presence of insulin.
+SE|00000000|CONCLUSIONS|tx|20|entity|C0073109|retinol acetate|orch,phsu,vita|||retinyl acetate||||1000|10|24
+SE|00000000|CONCLUSIONS|tx|20|entity|C1518422|Negation|ftcn|||not||||861|46|48
+SE|00000000|CONCLUSIONS|tx|20|entity|C1514485|Proliferation|ftcn|||proliferation||||1000|73|85
+SE|00000000|CONCLUSIONS|tx|20|entity|C0021641|Insulin|aapp,horm,phsu|||insulin||||1000|106|112
+SE|00000000|CONCLUSIONS|tx|20|relation|2|2|C0073109|retinol acetate|orch,phsu,vita|orch|||retinyl acetate||||1000|10|24|NOM|COEXISTS_WITH||94|101|1|1|C0021641|Insulin|aapp,gngm,horm,phsu|aapp|||insulin||||1000|106|112
+
+SE|00000000|CONCLUSIONS|tx|21|text|PGF2alpha produced significantly increased vasoconstriction after a single administration of oxytocin.
+SE|00000000|CONCLUSIONS|tx|21|entity|C0012471|Dinoprost|eico,horm,phsu|||PGF2alpha||||1000|1|9
+SE|00000000|CONCLUSIONS|tx|21|entity|C0442805|Increase|ftcn|||increased||||790|34|42
+SE|00000000|CONCLUSIONS|tx|21|entity|C0042396|Vascular constriction (function)|ortf|||vasoconstriction||||790|44|59
+SE|00000000|CONCLUSIONS|tx|21|entity|C0087136|Unmarried|fndg|||single||||888|69|74
+SE|00000000|CONCLUSIONS|tx|21|entity|C0030095|Oxytocin|aapp,horm,phsu|||oxytocin||||1000|94|101
+
+SE|00000000|CONCLUSIONS|tx|22|text|Rhabdomyolysis secondary to a drug interaction between simvastatin and clarithromycin.
+SE|00000000|CONCLUSIONS|tx|22|entity|C0035410|Rhabdomyolysis|patf|||Rhabdomyolysis||||1000|1|14
+SE|00000000|CONCLUSIONS|tx|22|entity|C0205436|second (number)|qnco|||secondary||||1000|16|24
+SE|00000000|CONCLUSIONS|tx|22|entity|C0687133|Drug Interactions|moft|||drug interaction||||1000|31|46
+SE|00000000|CONCLUSIONS|tx|22|entity|C0074554|Simvastatin|orch,phsu|||simvastatin||||1000|56|66
+SE|00000000|CONCLUSIONS|tx|22|entity|C0055856|Clarithromycin|antb,orch|||clarithromycin||||1000|72|85
+
+SE|00000000|CONCLUSIONS|tx|23|text|Our data suggest that TAM significantly potentiates the reduction in cell number induced by 1,25(OH)2D3 alone.
+SE|00000000|CONCLUSIONS|tx|23|entity|C1511726|Data|idcn|||data||||1000|5|8
+SE|00000000|CONCLUSIONS|tx|23|entity|C1834582|MYELOPROLIFERATIVE SYNDROME, TRANSIENT|neop|||TAM||||861|23|25
+SE|00000000|CONCLUSIONS|tx|23|entity|C0392756|Reduced|qlco|||reduction||||1000|57|65
+SE|00000000|CONCLUSIONS|tx|23|entity|C0007584|Cell Count|lbpr|||cell number||||1000|70|80
+SE|00000000|CONCLUSIONS|tx|23|entity|C0205171|Singular|qnco|||alone||||1000|105|109
+
+SE|00000000|CONCLUSIONS|tx|24|text|Exposure of the muscle to ouabain (10(-5) M) markedly increased the PTX-induced release.
+SE|00000000|CONCLUSIONS|tx|24|entity|C0026845|Muscle|tisu|||muscle||||1000|17|22
+SE|00000000|CONCLUSIONS|tx|24|entity|C0029904|Ouabain|carb,phsu,strd|||ouabain||||1000|27|33
+SE|00000000|CONCLUSIONS|tx|24|entity|C0522501|Massive|qlco|||markedly||||694|46|53
+SE|00000000|CONCLUSIONS|tx|24|entity|C0030899|Pentoxifylline|orch,phsu|||PTX||||851|69|71
+SE|00000000|CONCLUSIONS|tx|24|entity|C0205263|Induce (action)|ftcn|||induced||||851|73|79
+SE|00000000|CONCLUSIONS|tx|24|entity|C0391871|Released (action)|ftcn|||release||||851|81|87
+
+SE|00000000|CONCLUSIONS|tx|25|text|Injection of estradiol 5 min before a nonlethal dose of endotoxin changed the serum sex steroid hormone response of male rats to endotoxin.
+SE|00000000|CONCLUSIONS|tx|25|entity|C1533685|Injection procedure|topp|||Injection||||1000|1|9
+SE|00000000|CONCLUSIONS|tx|25|entity|C0014912|Estradiol|horm,phsu,strd|||estradiol||||802|14|22
+SE|00000000|CONCLUSIONS|tx|25|entity|C0702093|/minute|tmco|||min||||802|26|28
+SE|00000000|CONCLUSIONS|tx|25|entity|C0178602|Dosage|qnco|||dose||||861|49|52
+SE|00000000|CONCLUSIONS|tx|25|entity|C0014264|Endotoxins|carb,hops,lipd|||endotoxin||||1000|57|65
+SE|00000000|CONCLUSIONS|tx|25|entity|C0229671|Serum|bdsu|||serum||||676|79|83
+SE|00000000|CONCLUSIONS|tx|25|entity|C0036884|Gonadal Steroid Hormones|horm,phsu|||sex steroid hormone||||676|85|103
+SE|00000000|CONCLUSIONS|tx|25|entity|C1706429|Male, Self-Reported|orga|||male||||888|117|120
+SE|00000000|CONCLUSIONS|tx|25|entity|C0034693|Rattus norvegicus|mamm|||rats||||888|122|125
+SE|00000000|CONCLUSIONS|tx|25|entity|C0014264|Endotoxins|carb,hops,lipd|||endotoxin||||1000|130|138
+
+SE|00000000|CONCLUSIONS|tx|26|text|This report describes two cases in which theophylline clearance accelerated markedly with concomitant phenytoin administration.
+SE|00000000|CONCLUSIONS|tx|26|entity|C0205448|Two|qnco|||two||||888|23|25
+SE|00000000|CONCLUSIONS|tx|26|entity|C1533148|Case unit dose|qnco|||cases||||888|27|31
+SE|00000000|CONCLUSIONS|tx|26|entity|C0039771|Theophylline|bacs,orch,phsu|||theophylline||||888|42|53
+SE|00000000|CONCLUSIONS|tx|26|entity|C0449297|Clearance|qlco|||clearance||||888|55|63
+SE|00000000|CONCLUSIONS|tx|26|entity|C0522501|Massive|qlco|||markedly||||1000|77|84
+SE|00000000|CONCLUSIONS|tx|26|entity|C0521115|Simultaneous|tmco|||concomitant||||851|91|101
+SE|00000000|CONCLUSIONS|tx|26|entity|C0031507|Phenytoin|orch,phsu|||phenytoin||||851|103|111
+
+SE|00000000|CONCLUSIONS|tx|27|text|Combinations of clindamycin and gentamicin were indifferent for 16 and synergistic for 11 of the resistant strains.
+SE|00000000|CONCLUSIONS|tx|27|entity|C0453882|Combinations|mnob|||Combinations||||1000|1|12
+SE|00000000|CONCLUSIONS|tx|27|entity|C0008947|Clindamycin|antb,carb|||clindamycin||||1000|17|27
+SE|00000000|CONCLUSIONS|tx|27|entity|C0017436|Gentamicins|antb,carb|||gentamicin||||1000|33|42
+SE|00000000|CONCLUSIONS|tx|27|entity|C0332238|Indifferent|qlco|||indifferent||||1000|49|59
+SE|00000000|CONCLUSIONS|tx|27|entity|C2986495|Synergistic|qlco|||synergistic||||1000|72|82
+SE|00000000|CONCLUSIONS|tx|27|entity|C2827757|Antimicrobial Resistance Result|lbtr|||resistant||||888|98|106
+SE|00000000|CONCLUSIONS|tx|27|entity|C0080194|Muscle strain|inpo|||strains||||888|108|114
+
+SE|00000000|CONCLUSIONS|tx|28|text|Treatment with antidepressant drugs can directly interfere with blood glucose levels or may interact with hypoglycemic agents.
+SE|00000000|CONCLUSIONS|tx|28|entity|C0087111|Therapeutic procedure|topp|||Treatment||||1000|1|9
+SE|00000000|CONCLUSIONS|tx|28|entity|C0003289|Antidepressive Agents|phsu|||antidepressant drugs||||1000|16|35
+SE|00000000|CONCLUSIONS|tx|28|entity|C1947931|Direct (qualifier)|qlco|||directly||||1000|41|48
+SE|00000000|CONCLUSIONS|tx|28|entity|C0428554|Finding of blood glucose level|lbtr|||blood glucose levels||||1000|65|84
+SE|00000000|CONCLUSIONS|tx|28|entity|C0020616|Hypoglycemic Agents|phsu|||hypoglycemic agents||||1000|107|125
+SE|00000000|CONCLUSIONS|tx|28|relation|1|1|C0087111|Therapeutic procedure|topp|topp|||Treatment||||1000|1|9|PREP|USES||11|14|3|1|C0003289|Antidepressive Agents|phsu|phsu|||antidepressant drugs||||1000|16|35
+
+SE|00000000|CONCLUSIONS|tx|29|text|Administering InsP(3) together with RR (100-500 microM) inhibited InsP(3)-induced responses (both Ca(2+) and current responses) in a dose-dependent fashion.
+SE|00000000|CONCLUSIONS|tx|29|entity|C1621583|Administer|ftcn|||Administering||||627|1|13
+SE|00000000|CONCLUSIONS|tx|29|entity|C0205263|Induce (action)|ftcn|||induced||||750|75|81
+SE|00000000|CONCLUSIONS|tx|29|entity|C0871261|Response process|orga|||responses||||750|83|91
+SE|00000000|CONCLUSIONS|tx|29|entity|C0871261|Response process|orga|||responses||||861|118|126
+SE|00000000|CONCLUSIONS|tx|29|entity|C1512045|Dose-dependent|qnco|||dose-dependent||||734|134|147
+
+SE|00000000|CONCLUSIONS|tx|30|text|Thus, the results suggest that cypermethrin exposure of rats results in free radical-mediated tissue damage, as indicated by elevated cerebral and hepatic lipid peroxidation, which was prevented by allopurinol and Vitamin E.
+SE|00000000|CONCLUSIONS|tx|30|entity|C1274040|Result|ftcn|||results||||1000|11|17
+SE|00000000|CONCLUSIONS|tx|30|entity|C0056849|cypermethrin|hops,orch|||cypermethrin||||694|32|43
+SE|00000000|CONCLUSIONS|tx|30|entity|C0034693|Rattus norvegicus|mamm|||rats||||1000|57|60
+SE|00000000|CONCLUSIONS|tx|30|entity|C0016693|Free Radicals|bacs,chvs|||free radical||||857|73|84
+SE|00000000|CONCLUSIONS|tx|30|entity|C0127400|Mediator brand of benfluorex hydrochloride|orch,phsu|||mediated||||857|86|93
+SE|00000000|CONCLUSIONS|tx|30|entity|C0010957|Tissue damage|inpo|||tissue damage||||857|95|107
+SE|00000000|CONCLUSIONS|tx|30|entity|C3163633|Elevated|qlco|||elevated||||694|126|133
+SE|00000000|CONCLUSIONS|tx|30|entity|C0205054|Hepatic|blor|||hepatic||||901|148|154
+SE|00000000|CONCLUSIONS|tx|30|entity|C0023775|Lipid Peroxidation|moft|||lipid peroxidation||||901|156|173
+SE|00000000|CONCLUSIONS|tx|30|entity|C0002144|Allopurinol|orch,phsu|||allopurinol||||1000|199|209
+SE|00000000|CONCLUSIONS|tx|30|entity|C0042874|Vitamin E|lipd,phsu,vita|||Vitamin E||||1000|215|223
+SE|00000000|CONCLUSIONS|tx|30|relation|6|1|C0034693|Rattus norvegicus|mamm|mamm|||rats||||1000|57|60|PREP|LOCATION_OF||54|55|2|1|C0056849|cypermethrin|hops,orch|hops|||cypermethrin||||694|32|43
+SE|00000000|CONCLUSIONS|tx|30|relation|3|2|C0056849|cypermethrin|hops,orch|hops|||cypermethrin||||694|32|43|VERB|CAUSES||62|68|5|1|C0010957|Tissue damage|inpo|inpo|||tissue damage||||857|95|107
+
+SE|00000000|CONCLUSIONS|tx|31|text|The half-life of ketamine in plasma and brain was longer in the presence of halothane than when ketamine was given alone.
+SE|00000000|CONCLUSIONS|tx|31|entity|C0018517|Half-Life|tmco|||half-life||||1000|5|13
+SE|00000000|CONCLUSIONS|tx|31|entity|C0022614|Ketamine|orch,phsu|||ketamine||||1000|18|25
+SE|00000000|CONCLUSIONS|tx|31|entity|C0032105|Plasma|bdsu|||plasma||||1000|30|35
+SE|00000000|CONCLUSIONS|tx|31|entity|C0006104|Brain|bpoc|||brain||||1000|41|45
+SE|00000000|CONCLUSIONS|tx|31|entity|C0205166|Long|qlco|||longer||||966|51|56
+SE|00000000|CONCLUSIONS|tx|31|entity|C0018549|Halothane|orch,phsu|||halothane||||1000|77|85
+SE|00000000|CONCLUSIONS|tx|31|entity|C0022614|Ketamine|orch,phsu|||ketamine||||1000|97|104
+SE|00000000|CONCLUSIONS|tx|31|entity|C0205171|Singular|qnco|||alone||||1000|116|120
+SE|00000000|CONCLUSIONS|tx|31|relation|5|4|C0022614|Ketamine|orch,phsu|orch|||ketamine||||1000|18|25|NOM|COEXISTS_WITH||65|72|3|1|C0018549|Halothane|orch,phsu|orch|||halothane||||1000|77|85
+
+SE|00000000|CONCLUSIONS|tx|32|text|Intraventricular injection of naloxone at doses of 1.2 to 12 micrograms equally antagonized in a dose-dependent manner the tail-flick inhibition induced by intraventricular beta-endorphin and morphine.
+SE|00000000|CONCLUSIONS|tx|32|entity|C0021495|Injections, Intraventricular|topp|||Intraventricular injection||||1000|1|26
+SE|00000000|CONCLUSIONS|tx|32|entity|C0027358|Naloxone|orch,phsu|||naloxone||||1000|31|38
+SE|00000000|CONCLUSIONS|tx|32|entity|C0178602|Dosage|qnco|||doses||||1000|43|47
+SE|00000000|CONCLUSIONS|tx|32|entity|C0580272|1/2|inpr|||1.2||||1000|52|54
+SE|00000000|CONCLUSIONS|tx|32|entity|C0439211|microgram|qnco|||micrograms||||827|62|71
+SE|00000000|CONCLUSIONS|tx|32|entity|C1512045|Dose-dependent|qnco|||dose-dependent||||734|98|111
+SE|00000000|CONCLUSIONS|tx|32|entity|C0039259|Tail|bpoc|||tail-||||802|124|128
+SE|00000000|CONCLUSIONS|tx|32|entity|C1628982|Percent inhibition|qnco|||inhibition||||802|135|144
+SE|00000000|CONCLUSIONS|tx|32|entity|C1517569|Intraventricular|blor|||intraventricular||||901|157|172
+SE|00000000|CONCLUSIONS|tx|32|entity|C0005210|beta-Endorphin|aapp,nsba|||beta-endorphin||||901|174|187
+SE|00000000|CONCLUSIONS|tx|32|entity|C0026549|Morphine|orch,phsu|||morphine||||1000|193|200
+SE|00000000|CONCLUSIONS|tx|32|relation|2|1|C0005210|beta-Endorphin|aapp,gngm,nsba|aapp|||beta-endorphin||||901|174|187|VERB|STIMULATES||146|152|6|5|C0027358|Naloxone|orch,phsu|orch|||naloxone||||1000|31|38
+SE|00000000|CONCLUSIONS|tx|32|relation|2|1|C0026549|Morphine|orch,phsu|orch|||morphine||||1000|193|200|VERB|STIMULATES||146|152|6|5|C0027358|Naloxone|orch,phsu|orch|||naloxone||||1000|31|38
+SE|00000000|CONCLUSIONS|tx|32|relation|0|0|C0005210|beta-Endorphin|aapp,gngm,nsba|gngm|||beta-endorphin||||901|174|187|MOD/HEAD|PART_OF||157|187|0|0|C1517569|Intraventricular|blor|blor|||intraventricular||||901|157|172
+
+SE|00000000|CONCLUSIONS|tx|33|text|Fluvoxamine inhibits the CYP2C9 catalyzed biotransformation of tolbutamide.
+SE|00000000|CONCLUSIONS|tx|33|entity|C0085228|Fluvoxamine|orch,phsu|||Fluvoxamine||||1000|1|11
+SE|00000000|CONCLUSIONS|tx|33|entity|||gngm|1559|CYP2C9|CYP2C9||||1000|26|31
+SE|00000000|CONCLUSIONS|tx|33|entity|C0220798|biotransformational|ftcn|||biotransformation||||1000|43|59
+SE|00000000|CONCLUSIONS|tx|33|entity|C0040374|Tolbutamide|orch,phsu|||tolbutamide||||1000|64|74
+SE|00000000|CONCLUSIONS|tx|33|relation|1|1|C0085228|Fluvoxamine|orch,phsu|orch|||Fluvoxamine||||1000|1|11|VERB|INHIBITS||13|20|3|1|||gngm,aapp|gngm|1559|CYP2C9|CYP2C9||||1000|26|31
+
+SE|00000000|CONCLUSIONS|tx|34|text|Pretreatment of rats with allopurinol (100 mg/kg, ip) or Vitamin E (100 mg/kg per day, ig, for 3 days and a dose of 40 mg/kg on the 4th day) provided significant protection against the elevation of TBARS levels in cerebral and hepatic tissues, induced by single high dose of oral cypermethrin administration within 4 h.
+SE|00000000|CONCLUSIONS|tx|34|entity|C1550147|Pretreatment|sbst|||Pretreatment||||1000|1|12
+SE|00000000|CONCLUSIONS|tx|34|entity|C0034693|Rattus norvegicus|mamm|||rats||||1000|17|20
+SE|00000000|CONCLUSIONS|tx|34|entity|C0002144|Allopurinol|orch,phsu|||allopurinol||||1000|27|37
+SE|00000000|CONCLUSIONS|tx|34|entity|C0439272|ug/g|qnco|||mg/kg||||901|44|48
+SE|00000000|CONCLUSIONS|tx|34|entity|C0042874|Vitamin E|lipd,phsu,vita|||Vitamin E||||1000|58|66
+SE|00000000|CONCLUSIONS|tx|34|entity|C0439272|ug/g|qnco|||mg/kg||||901|73|77
+SE|00000000|CONCLUSIONS|tx|34|entity|C0439228|day|tmco|||day||||1000|83|85
+SE|00000000|CONCLUSIONS|tx|34|entity|C1442459|3 Days|tmco|||3 days||||1000|96|101
+SE|00000000|CONCLUSIONS|tx|34|entity|C0178602|Dosage|qnco|||dose||||1000|109|112
+SE|00000000|CONCLUSIONS|tx|34|entity|C0439272|ug/g|qnco|||mg/kg||||901|120|124
+SE|00000000|CONCLUSIONS|tx|34|entity|C0205438|Fourth|qnco|||4th||||888|133|135
+SE|00000000|CONCLUSIONS|tx|34|entity|C0439228|day|tmco|||day||||888|137|139
+SE|00000000|CONCLUSIONS|tx|34|entity|C0237881|Statistical Significance|qnco|||significant||||888|151|161
+SE|00000000|CONCLUSIONS|tx|34|entity|C1545588|Protection|fndg|||protection||||888|163|172
+SE|00000000|CONCLUSIONS|tx|34|entity|C0702240|Elevation|spco|||elevation||||1000|186|194
+SE|00000000|CONCLUSIONS|tx|34|entity|C0162781|Thiobarbituric Acid Reactive Substances|irda,orch|||TBARS||||861|199|203
+SE|00000000|CONCLUSIONS|tx|34|entity|C0736268|Liver parenchyma|bpoc|||hepatic tissues||||983|228|242
+SE|00000000|CONCLUSIONS|tx|34|entity|C0205171|Singular|qnco|||single||||901|256|261
+SE|00000000|CONCLUSIONS|tx|34|entity|C0444956|High dose|qnco|||high dose||||901|263|271
+SE|00000000|CONCLUSIONS|tx|34|entity|C0056849|cypermethrin|hops,orch|||cypermethrin||||901|281|292
+SE|00000000|CONCLUSIONS|tx|34|entity|C0001563|Administration, Oral|topp|||oral cypermethrin administration||||901|276|307
+SE|00000000|CONCLUSIONS|tx|34|relation|20|2|C0002144|Allopurinol|orch,phsu|phsu|||allopurinol||||1000|27|37|NOM|TREATS||1|12|20|1|C0034693|Rattus norvegicus|mamm|mamm|||rats||||1000|17|20
+
+SE|00000000|CONCLUSIONS|tx|35|text|Misonidazole protects mouse tumour and normal tissues from the toxicity of oral CCNU.
+SE|00000000|CONCLUSIONS|tx|35|entity|C0026218|Misonidazole|orch,phsu|||Misonidazole||||1000|1|12
+SE|00000000|CONCLUSIONS|tx|35|entity|C0025914|House mice|mamm|||mouse||||888|23|27
+SE|00000000|CONCLUSIONS|tx|35|entity|C0027651|Neoplasms|neop|||tumour||||888|29|34
+SE|00000000|CONCLUSIONS|tx|35|entity|C0040300|Body tissue|tisu|||normal tissues||||983|40|53
+SE|00000000|CONCLUSIONS|tx|35|entity|C0600688|Toxic effect|inpo|||toxicity||||1000|64|71
+SE|00000000|CONCLUSIONS|tx|35|entity|C0442027|Oral|spco|||oral||||888|76|79
+SE|00000000|CONCLUSIONS|tx|35|entity|C0687700|CCNU|orch,phsu|||CCNU||||888|81|84
+SE|00000000|CONCLUSIONS|tx|35|relation|0|0|C0027651|Neoplasms|neop|neop|||tumour||||888|29|34|MOD/HEAD|PROCESS_OF||23|34|0|0|C0025914|House mice|mamm|mamm|||mouse||||888|23|27
+
+SE|00000000|CONCLUSIONS|tx|36|text|When ouabain was applied to the muscle in the presence of phentolamine, both first and second contractile responses to PTX were abolished.
+SE|00000000|CONCLUSIONS|tx|36|entity|C0029904|Ouabain|carb,phsu,strd|||ouabain||||1000|6|12
+SE|00000000|CONCLUSIONS|tx|36|entity|C0026845|Muscle|tisu|||muscle||||1000|33|38
+SE|00000000|CONCLUSIONS|tx|36|entity|C0031448|Phentolamine|orch,phsu|||phentolamine||||1000|59|70
+SE|00000000|CONCLUSIONS|tx|36|entity|C1279901|Firstly|qlco|||first||||1000|78|82
+SE|00000000|CONCLUSIONS|tx|36|entity|C0457385|seconds|tmco|||second||||851|88|93
+SE|00000000|CONCLUSIONS|tx|36|entity|C0026820|Muscle Contraction|phsf|||contractile||||851|95|105
+SE|00000000|CONCLUSIONS|tx|36|entity|C0871261|Response process|orga|||responses||||851|107|115
+SE|00000000|CONCLUSIONS|tx|36|entity|C0030899|Pentoxifylline|orch,phsu|||PTX||||1000|120|122
+SE|00000000|CONCLUSIONS|tx|36|relation|2|2|C0029904|Ouabain|carb,phsu,strd|carb|||ouabain||||1000|6|12|NOM|COEXISTS_WITH||47|54|4|1|C0031448|Phentolamine|orch,phsu|orch|||phentolamine||||1000|59|70
+
+SE|00000000|CONCLUSIONS|tx|37|text|Dexamethasone and retinyl acetate similarly inhibit and stimulate EGF- or insulin-induced proliferation of prostatic epithelium.
+SE|00000000|CONCLUSIONS|tx|37|entity|C0011777|Dexamethasone|phsu,strd|||Dexamethasone||||1000|1|13
+SE|00000000|CONCLUSIONS|tx|37|entity|C0073109|retinol acetate|orch,phsu,vita|||retinyl acetate||||901|19|33
+SE|00000000|CONCLUSIONS|tx|37|entity|||gngm|1950|EGF|EGF||||1000|67|69
+SE|00000000|CONCLUSIONS|tx|37|entity|C0021641|Insulin|aapp,horm,phsu|||insulin||||851|75|81
+SE|00000000|CONCLUSIONS|tx|37|entity|C0205263|Induce (action)|ftcn|||induced||||851|83|89
+SE|00000000|CONCLUSIONS|tx|37|entity|C1514485|Proliferation|ftcn|||proliferation||||851|91|103
+SE|00000000|CONCLUSIONS|tx|37|entity|C1179826|Prostatic epithelium|tisu|||prostatic epithelium||||1000|108|127
+SE|00000000|CONCLUSIONS|tx|37|relation|2|1|C0073109|retinol acetate|orch,phsu,vita|orch|||retinyl acetate||||901|19|33|VERB|STIMULATES||57|65|3|1|||gngm,aapp|gngm|1950|EGF|EGF||||1000|67|69
+SE|00000000|CONCLUSIONS|tx|37|relation|2|1|C0011777|Dexamethasone|phsu,strd|phsu|||Dexamethasone||||1000|1|13|VERB|STIMULATES||57|65|3|1|||gngm,aapp|gngm|1950|EGF|EGF||||1000|67|69
+
+SE|00000000|CONCLUSIONS|tx|38|text|Using in situ hybridization, we observed that METH caused a rapid and transient dose-dependent increase in arc mRNA level in the striatum and cortex that was abolished by pretreatment with the specific dopamine D1 receptor antagonist SCH-23390 but not by an atypical neuroleptic clozapine.
+SE|00000000|CONCLUSIONS|tx|38|entity|C1300517|Nucleic acid hybridization procedure|lbpr|||hybridization||||861|15|27
+SE|00000000|CONCLUSIONS|tx|38|entity|C0025611|Methamphetamine|hops,orch|||METH||||1000|47|50
+SE|00000000|CONCLUSIONS|tx|38|entity|C0439831|Rapid|qlco|||rapid||||1000|61|65
+SE|00000000|CONCLUSIONS|tx|38|entity|C0205374|Transitory|tmco|||transient||||861|71|79
+SE|00000000|CONCLUSIONS|tx|38|entity|C1512045|Dose-dependent|qnco|||dose-dependent||||861|81|94
+SE|00000000|CONCLUSIONS|tx|38|entity|C0442805|Increase|ftcn|||increase||||861|96|103
+SE|00000000|CONCLUSIONS|tx|38|entity|C1859722|Arthrogryposis renal dysfunction cholestasis syndrome|dsyn|||arc||||840|108|110
+SE|00000000|CONCLUSIONS|tx|38|entity|C0035696|RNA, Messenger|bacs,nnon|||mRNA||||840|112|115
+SE|00000000|CONCLUSIONS|tx|38|entity|C2946261|Level|phsu|||level||||840|117|121
+SE|00000000|CONCLUSIONS|tx|38|entity|C0162512|Neostriatum|bpoc|||striatum||||1000|130|137
+SE|00000000|CONCLUSIONS|tx|38|entity|C2700441|Bark - plant part|plnt|||cortex||||1000|143|148
+SE|00000000|CONCLUSIONS|tx|38|entity|C1550147|Pretreatment|sbst|||pretreatment||||1000|172|183
+SE|00000000|CONCLUSIONS|tx|38|entity|C0242702|Dopamine Antagonists|nsba,phsu|||dopamine D1 receptor antagonist||||818|203|233
+SE|00000000|CONCLUSIONS|tx|38|entity|C0080138|SCH 23390|orch,phsu|||SCH-23390||||818|235|243
+SE|00000000|CONCLUSIONS|tx|38|entity|C1518422|Negation|ftcn|||not||||1000|249|251
+SE|00000000|CONCLUSIONS|tx|38|entity|C0741302|atypia morphology|fndg|||atypical||||851|259|266
+SE|00000000|CONCLUSIONS|tx|38|entity|C0040615|Antipsychotic Agents|phsu|||neuroleptic||||851|268|278
+SE|00000000|CONCLUSIONS|tx|38|entity|C0009079|Clozapine|orch,phsu|||clozapine||||851|280|288
+SE|00000000|CONCLUSIONS|tx|38|relation|0|0|C0009079|Clozapine|orch,phsu|orch|||clozapine||||851|280|288|MOD/HEAD|ISA||268|288|0|0|C0040615|Antipsychotic Agents|phsu|phsu|||neuroleptic||||851|268|278
+SE|00000000|CONCLUSIONS|tx|38|relation|4|4|C1300517|Nucleic acid hybridization procedure|lbpr|lbpr|||hybridization||||861|15|27|PREP|DIAGNOSES||105|106|5|1|C1859722|Arthrogryposis renal dysfunction cholestasis syndrome|dsyn|dsyn|||arc||||840|108|110
+SE|00000000|CONCLUSIONS|tx|38|relation|4|1|C0162512|Neostriatum|bpoc|bpoc|||striatum||||1000|130|137|PREP|LOCATION_OF||123|124|5|1|C1859722|Arthrogryposis renal dysfunction cholestasis syndrome|dsyn|dsyn|||arc||||840|108|110
+
+SE|00000000|CONCLUSIONS|tx|39|text|Aortic rings with intact endothelium from the high-dose (4 mg/kg/day) estradiol group were supersensitive to noradrenaline compared to the vehicle or low-dose (10 microg/kg/day) estradiol groups (pD2 values = 7.86+/-0.09, 7.30+/-0.11 and 7.35+/-0.04, respectively).
+SE|00000000|CONCLUSIONS|tx|39|entity|C0225957|Structure of anulus fibrosus of aorta|bpoc|||Aortic rings||||983|1|12
+SE|00000000|CONCLUSIONS|tx|39|entity|C0205266|Intact|qlco|||intact||||888|19|24
+SE|00000000|CONCLUSIONS|tx|39|entity|C0014257|Endothelium|tisu|||endothelium||||888|26|36
+SE|00000000|CONCLUSIONS|tx|39|entity|C0444956|High dose|qnco|||high-dose||||1000|47|55
+SE|00000000|CONCLUSIONS|tx|39|entity|C0439400|mg/day/kg|qnco|||mg/kg/day||||916|60|68
+SE|00000000|CONCLUSIONS|tx|39|entity|C0014912|Estradiol|horm,phsu,strd|||estradiol||||888|71|79
+SE|00000000|CONCLUSIONS|tx|39|entity|C0441833|Groups|idcn|||group||||888|81|85
+SE|00000000|CONCLUSIONS|tx|39|entity|C0028351|Norepinephrine|nsba,orch,phsu|||noradrenaline||||1000|110|122
+SE|00000000|CONCLUSIONS|tx|39|entity|C0445550|Low dose|qnco|||low-dose||||1000|151|158
+SE|00000000|CONCLUSIONS|tx|39|entity|C1627892|Microgram per Kilogram|qnco|||microg/kg||||880|164|172
+SE|00000000|CONCLUSIONS|tx|39|entity|C1547061|10 days|tmco|||10 microg/kg/day||||880|161|176
+SE|00000000|CONCLUSIONS|tx|39|entity|C0014912|Estradiol|horm,phsu,strd|||estradiol||||888|179|187
+SE|00000000|CONCLUSIONS|tx|39|entity|C0441833|Groups|idcn|||groups||||888|189|194
+SE|00000000|CONCLUSIONS|tx|39|entity|C1826536|PAF1 gene|gngm|54623|PAF1|pD2||||888|197|199
+SE|00000000|CONCLUSIONS|tx|39|entity|C0042295|Values|qlco|||values||||888|201|206
+SE|00000000|CONCLUSIONS|tx|39|relation|11|1|C0014257|Endothelium|tisu|tisu|||endothelium||||888|26|36|PREP|PART_OF||14|17|1|1|C0225957|Structure of anulus fibrosus of aorta|bpoc|bpoc|||Aortic rings||||983|1|12
+
+SE|00000000|CONCLUSIONS|tx|40|text|Physostigmine pretreatment augmented the depressant effect of alcohol on the early components P1 and N1, while attenuating alcohol's influence on components P2 and P3.
+SE|00000000|CONCLUSIONS|tx|40|entity|C0031849|Physostigmine|orch,phsu|||Physostigmine||||888|1|13
+SE|00000000|CONCLUSIONS|tx|40|entity|C1550147|Pretreatment|sbst|||pretreatment||||888|15|26
+SE|00000000|CONCLUSIONS|tx|40|entity|C1280500|Effect|qlco|||effect||||861|53|58
+SE|00000000|CONCLUSIONS|tx|40|entity|C0001975|Alcohols|orch,phsu|||alcohol||||1000|63|69
+SE|00000000|CONCLUSIONS|tx|40|entity|C1279919|Early|tmco|||early||||623|78|82
+SE|00000000|CONCLUSIONS|tx|40|entity|C0449432|Component object|mnob|||components||||623|84|93
+SE|00000000|CONCLUSIONS|tx|40|entity|C0001975|Alcohols|orch,phsu|||alcohol's||||853|124|132
+SE|00000000|CONCLUSIONS|tx|40|entity|C0021399|Influentials|idcn|||influence||||853|134|142
+SE|00000000|CONCLUSIONS|tx|40|entity|C0449432|Component object|mnob|||components||||888|147|156
+SE|00000000|CONCLUSIONS|tx|40|relation|5|3|C0001975|Alcohols|orch,phsu|orch|||alcohol||||1000|63|69|NOM|INTERACTS_WITH||134|142|5|0|C0001975|Alcohols|orch,phsu|orch|||alcohol's||||853|124|132
+
+SE|00000000|CONCLUSIONS|tx|41|text|Higher concentrations of dexamethasone (10(-8) - 10(-6) M) or retinyl acetate (3 X 10(-8) - 10(-7) M) enhance the mitogenic activity of EGF.
+SE|00000000|CONCLUSIONS|tx|41|entity|C0205250|High|qlco|||Higher||||872|1|6
+SE|00000000|CONCLUSIONS|tx|41|entity|C0086045|Mental concentration|menp|||concentrations||||872|8|21
+SE|00000000|CONCLUSIONS|tx|41|entity|C0011777|Dexamethasone|phsu,strd|||dexamethasone||||1000|26|38
+SE|00000000|CONCLUSIONS|tx|41|entity|C0073109|retinol acetate|orch,phsu,vita|||retinyl acetate||||1000|63|77
+SE|00000000|CONCLUSIONS|tx|41|entity|C1752930|mitogenic activity|celf|||mitogenic activity||||1000|115|132
+SE|00000000|CONCLUSIONS|tx|41|entity|||gngm|1950|EGF|EGF||||1000|137|139
+
+SE|00000000|CONCLUSIONS|tx|42|text|The MPTP-induced neuronal damage produced a tolerance to the disruptive effects of amphetamine and a supersensitivity to the disruptive effects of apomorphine in rats responding in a schedule controlled paradigm.
+SE|00000000|CONCLUSIONS|tx|42|entity|C0000097|1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|hops,orch|||MPTP||||833|5|8
+SE|00000000|CONCLUSIONS|tx|42|entity|C0205263|Induce (action)|ftcn|||induced||||833|10|16
+SE|00000000|CONCLUSIONS|tx|42|entity|C1883709|Damage|ftcn|||damage||||833|27|32
+SE|00000000|CONCLUSIONS|tx|42|entity|C1704410|Tolerance|qlco|||tolerance||||1000|45|53
+SE|00000000|CONCLUSIONS|tx|42|entity|C1280500|Effect|qlco|||effects||||861|73|79
+SE|00000000|CONCLUSIONS|tx|42|entity|C0002658|Amphetamine|nsba,orch,phsu|||amphetamine||||1000|84|94
+SE|00000000|CONCLUSIONS|tx|42|entity|C1280500|Effect|qlco|||effects||||861|137|143
+SE|00000000|CONCLUSIONS|tx|42|entity|C0003596|Apomorphine|orch,phsu|||apomorphine||||1000|148|158
+SE|00000000|CONCLUSIONS|tx|42|entity|C0034693|Rattus norvegicus|mamm|||rats||||1000|163|166
+SE|00000000|CONCLUSIONS|tx|42|entity|C0681797|paradigm|resa|||paradigm||||1000|204|211
+SE|00000000|CONCLUSIONS|tx|42|relation|7|4|C0003596|Apomorphine|orch,phsu|orch|||apomorphine||||1000|148|158|NOM|INTERACTS_WITH||73|79|7|1|C0002658|Amphetamine|nsba,orch,phsu|nsba|||amphetamine||||1000|84|94
+SE|00000000|CONCLUSIONS|tx|42|relation|7|1|C0003596|Apomorphine|orch,phsu|phsu|||apomorphine||||1000|148|158|PREP|TREATS||160|161|3|1|C0034693|Rattus norvegicus|mamm|mamm|||rats||||1000|163|166
+
+SE|00000000|CONCLUSIONS|tx|43|text|Intrathecal injection of naloxone at doses of 0.4 to 40 micrograms caused a dose-related blockade of the inhibition of the tail-flick response induced by intraventricular injection of beta-endorphin, and a high dose of naloxone (40 micrograms) completely blocked the tail-flick inhibition induced by intraventricular beta-endorphin (16 micrograms).
+SE|00000000|CONCLUSIONS|tx|43|entity|C1533685|Injection procedure|topp|||injection||||861|13|21
+SE|00000000|CONCLUSIONS|tx|43|entity|C0027358|Naloxone|orch,phsu|||naloxone||||1000|26|33
+SE|00000000|CONCLUSIONS|tx|43|entity|C0178602|Dosage|qnco|||doses||||1000|38|42
+SE|00000000|CONCLUSIONS|tx|43|entity|C0439211|microgram|qnco|||micrograms||||888|57|66
+SE|00000000|CONCLUSIONS|tx|43|entity|C0178602|Dosage|qnco|||dose-||||851|77|81
+SE|00000000|CONCLUSIONS|tx|43|entity|C0163712|Relate - vinyl resin|orch|||related||||851|82|88
+SE|00000000|CONCLUSIONS|tx|43|entity|C0332206|Blocking|ftcn|||blockade||||851|90|97
+SE|00000000|CONCLUSIONS|tx|43|entity|C1628982|Percent inhibition|qnco|||inhibition||||1000|106|115
+SE|00000000|CONCLUSIONS|tx|43|entity|C0039259|Tail|bpoc|||tail-||||660|124|128
+SE|00000000|CONCLUSIONS|tx|43|entity|C0021495|Injections, Intraventricular|topp|||intraventricular injection||||1000|155|180
+SE|00000000|CONCLUSIONS|tx|43|entity|C0005210|beta-Endorphin|aapp,nsba|||beta-endorphin||||1000|185|198
+SE|00000000|CONCLUSIONS|tx|43|entity|C0444956|High dose|qnco|||high dose||||1000|207|215
+SE|00000000|CONCLUSIONS|tx|43|entity|C0027358|Naloxone|orch,phsu|||naloxone||||1000|220|227
+SE|00000000|CONCLUSIONS|tx|43|entity|C0439211|microgram|qnco|||micrograms||||888|233|242
+SE|00000000|CONCLUSIONS|tx|43|entity|C0039259|Tail|bpoc|||tail-||||802|268|272
+SE|00000000|CONCLUSIONS|tx|43|entity|C1628982|Percent inhibition|qnco|||inhibition||||802|279|288
+SE|00000000|CONCLUSIONS|tx|43|entity|C1517569|Intraventricular|blor|||intraventricular||||901|301|316
+SE|00000000|CONCLUSIONS|tx|43|entity|C0005210|beta-Endorphin|aapp,nsba|||beta-endorphin||||901|318|331
+SE|00000000|CONCLUSIONS|tx|43|entity|C0439211|microgram|qnco|||micrograms||||861|337|346
+SE|00000000|CONCLUSIONS|tx|43|relation|8|1|C0021495|Injections, Intraventricular|topp|topp|||intraventricular injection||||1000|155|180|PREP|METHOD_OF||152|153|7|7|C1533685|Injection procedure|topp|topp|||injection||||861|13|21
+SE|00000000|CONCLUSIONS|tx|43|relation|2|1|C0005210|beta-Endorphin|aapp,gngm,nsba|aapp|||beta-endorphin||||901|318|331|VERB|STIMULATES||290|296|13|3|C0027358|Naloxone|orch,phsu|orch|||naloxone||||1000|220|227
+SE|00000000|CONCLUSIONS|tx|43|relation|0|0|C0005210|beta-Endorphin|aapp,gngm,nsba|gngm|||beta-endorphin||||901|318|331|MOD/HEAD|PART_OF||301|331|0|0|C1517569|Intraventricular|blor|blor|||intraventricular||||901|301|316
+
+SE|00000000|CONCLUSIONS|tx|44|text|Rifampin and warfarin: a drug interaction.
+SE|00000000|CONCLUSIONS|tx|44|entity|C0035608|Rifampin|antb,orch|||Rifampin||||1000|1|8
+SE|00000000|CONCLUSIONS|tx|44|entity|C0043031|Warfarin|hops,orch,phsu|||warfarin||||1000|14|21
+SE|00000000|CONCLUSIONS|tx|44|entity|C0687133|Drug Interactions|moft|||drug interaction||||1000|26|41
+
+SE|00000000|CONCLUSIONS|tx|45|text|Amprenavir plus rifabutin was poorly tolerated, and 5 of 11 subjects discontinued therapy.
+SE|00000000|CONCLUSIONS|tx|45|entity|C0754188|Amprenavir|orch,phsu|||Amprenavir||||1000|1|10
+SE|00000000|CONCLUSIONS|tx|45|entity|C0140575|Rifabutin|antb,orch|||rifabutin||||1000|17|25
+SE|00000000|CONCLUSIONS|tx|45|entity|C0205169|Bad|qlco|||poorly||||1000|31|36
+SE|00000000|CONCLUSIONS|tx|45|entity|C1550501|Subject -direct target|idcn|||subjects||||827|61|68
+SE|00000000|CONCLUSIONS|tx|45|entity|C0087111|Therapeutic procedure|topp|||therapy||||1000|83|89
+
+SE|00000000|CONCLUSIONS|tx|46|text|Twelve strains of Staphylococcus aureus (a frequent cause of infection in heroin, but not in pentazocine and tripelennamine, addicts) were completely inhibited by the drug combination.
+SE|00000000|CONCLUSIONS|tx|46|entity|C0205458|Twelve|qnco|||Twelve||||888|1|6
+SE|00000000|CONCLUSIONS|tx|46|entity|C0038172|Staphylococcus aureus|bact|||Staphylococcus aureus||||1000|19|39
+SE|00000000|CONCLUSIONS|tx|46|entity|C0332183|Frequent|tmco|||frequent||||888|44|51
+SE|00000000|CONCLUSIONS|tx|46|entity|C0015127|Etiology aspects|ftcn|||cause||||888|53|57
+SE|00000000|CONCLUSIONS|tx|46|entity|C0021311|Infection|dsyn|||infection||||1000|62|70
+SE|00000000|CONCLUSIONS|tx|46|entity|C0011892|Heroin|hops,orch,phsu|||heroin||||1000|75|80
+SE|00000000|CONCLUSIONS|tx|46|entity|C1518422|Negation|ftcn|||not||||1000|87|89
+SE|00000000|CONCLUSIONS|tx|46|entity|C0030873|Pentazocine|orch,phsu|||pentazocine||||1000|94|104
+SE|00000000|CONCLUSIONS|tx|46|entity|C0041090|Tripelennamine|orch,phsu|||tripelennamine||||1000|110|123
+SE|00000000|CONCLUSIONS|tx|46|entity|C0858354|addict|podg|||addicts||||1000|126|132
+SE|00000000|CONCLUSIONS|tx|46|entity|C0013162|Drug Combinations|phsu|||drug combination||||1000|168|183
+SE|00000000|CONCLUSIONS|tx|46|relation|5|1|C0011892|Heroin|hops,orch,phsu|hops|||heroin||||1000|75|80|PREP|COEXISTS_WITH|negation|91|92|4|1|C0030873|Pentazocine|orch,phsu|orch|||pentazocine||||1000|94|104
+SE|00000000|CONCLUSIONS|tx|46|relation|5|1|C0011892|Heroin|hops,orch,phsu|hops|||heroin||||1000|75|80|PREP|COEXISTS_WITH|negation|91|92|4|1|C0041090|Tripelennamine|orch,phsu|orch|||tripelennamine||||1000|110|123
+
+SE|00000000|CONCLUSIONS|tx|47|text|Buforin II may be active in inhibiting Cryptosporidium parvum growth in vitro upon combination with either azithromycin or minocycline.
+SE|00000000|CONCLUSIONS|tx|47|entity|C0386231|buforin II|aapp,phsu|||Buforin II||||1000|1|10
+SE|00000000|CONCLUSIONS|tx|47|entity|C0205177|Active|ftcn|||active||||1000|19|24
+SE|00000000|CONCLUSIONS|tx|47|entity|C0085319|Cryptosporidium parvum|euka|||Cryptosporidium parvum||||865|40|61
+SE|00000000|CONCLUSIONS|tx|47|entity|C0151686|Growth retardation|patf|||inhibiting Cryptosporidium parvum growth||||865|29|68
+SE|00000000|CONCLUSIONS|tx|47|entity|C0205195|Combined|qlco|||combination||||1000|84|94
+SE|00000000|CONCLUSIONS|tx|47|entity|C0052796|Azithromycin|antb,orch|||azithromycin||||861|108|119
+SE|00000000|CONCLUSIONS|tx|47|entity|C0026187|Minocycline|antb,orch|||minocycline||||1000|124|134
+SE|00000000|CONCLUSIONS|tx|47|relation|0|0|C0151686|Growth retardation|patf|patf|||inhibiting Cryptosporidium parvum growth||||865|29|68|MOD/HEAD|PROCESS_OF||40|68|0|0|C0085319|Cryptosporidium parvum|euka|euka|||Cryptosporidium parvum||||865|40|61
+SE|00000000|CONCLUSIONS|tx|47|relation|2|2|C0386231|buforin II|aapp,gngm,phsu|aapp|||Buforin II||||1000|1|10|PREP|ASSOCIATED_WITH||26|27|5|1|C0151686|Growth retardation|patf|patf|||inhibiting Cryptosporidium parvum growth||||865|29|68
+
+SE|00000000|CONCLUSIONS|tx|48|text|We conclude that the prophylactic and antidotal properties of 4-methylpyrazole seen in animals treated with 1,3-difluoro-2-propanol derive from its capacity to inhibit the NAD+-dependent oxidation responsible for converting 1,3-difluoro-2-propanol to 1,3-difluoroacetone in the committed step of the toxic pathway.
+SE|00000000|CONCLUSIONS|tx|48|entity|C0003295|Antidotes|phsu|||antidotal||||853|39|47
+SE|00000000|CONCLUSIONS|tx|48|entity|C0871161|Property (attribute)|qlco|||properties||||853|49|58
+SE|00000000|CONCLUSIONS|tx|48|entity|C0048504|fomepizole|orch,phsu|||4-methylpyrazole||||1000|63|78
+SE|00000000|CONCLUSIONS|tx|48|entity|C0003062|Animals|anim|||animals||||1000|88|94
+SE|00000000|CONCLUSIONS|tx|48|entity|C0670480|1,3-difluoro-2-propanol|orch|||difluoro-2-propanol||||923|113|131
+SE|00000000|CONCLUSIONS|tx|48|entity|C1516240|Capacity|qnco|||capacity||||861|149|156
+SE|00000000|CONCLUSIONS|tx|48|entity|C0027270|Nicotinamide adenine dinucleotide (NAD)|bacs,nnon,phsu|||NAD+-||||851|173|177
+SE|00000000|CONCLUSIONS|tx|48|entity|C1701901|Conditional|qlco|||dependent||||851|178|186
+SE|00000000|CONCLUSIONS|tx|48|entity|C0030011|Oxidation|moft|||oxidation||||851|188|196
+SE|00000000|CONCLUSIONS|tx|48|entity|C0670480|1,3-difluoro-2-propanol|orch|||difluoro-2-propanol||||923|229|247
+SE|00000000|CONCLUSIONS|tx|48|entity|C1171947|Commit Lozenge|orch,phsu|||committed||||888|279|287
+SE|00000000|CONCLUSIONS|tx|48|entity|C1705117|Increment|qnco|||step||||888|289|292
+SE|00000000|CONCLUSIONS|tx|48|entity|C1407029|Toxic|qlco|||toxic||||694|301|305
+SE|00000000|CONCLUSIONS|tx|48|relation|9|1|C0003062|Animals|anim|anim|||animals||||1000|88|94|PREP|LOCATION_OF||85|86|3|1|C0048504|fomepizole|orch,phsu|orch|||4-methylpyrazole||||1000|63|78
+SE|00000000|CONCLUSIONS|tx|48|relation|6|5|C0003295|Antidotes|phsu|phsu|||antidotal||||853|39|47|VERB|DISRUPTS||161|167|6|1|C0030011|Oxidation|moft|moft|||oxidation||||851|188|196
+
+SE|00000000|CONCLUSIONS|tx|49|text|ADL 8-2698, a trans-3,4-dimethyl-4-(3-hydroxyphenyl) piperidine, prevents gastrointestinal effects of intravenous morphine without affecting analgesia.
+SE|00000000|CONCLUSIONS|tx|49|entity|C0963856|ADL 8-2698|orch,phsu|||ADL 8-2698||||1000|1|10
+SE|00000000|CONCLUSIONS|tx|49|entity|C2826298|Transition Rule|idcn|||trans||||861|15|19
+SE|00000000|CONCLUSIONS|tx|49|entity|C0031959|piperidine|orch|||piperidine||||1000|54|63
+SE|00000000|CONCLUSIONS|tx|49|entity|C0521362|gastrointestinal|spco|||gastrointestinal||||888|75|90
+SE|00000000|CONCLUSIONS|tx|49|entity|C1280500|Effect|qlco|||effects||||888|92|98
+SE|00000000|CONCLUSIONS|tx|49|entity|C0348016|Intravenous|spco|||intravenous||||888|103|113
+SE|00000000|CONCLUSIONS|tx|49|entity|C0026549|Morphine|orch,phsu|||morphine||||888|115|122
+SE|00000000|CONCLUSIONS|tx|49|entity|C0392760|Affecting|ftcn|||affecting||||888|132|140
+SE|00000000|CONCLUSIONS|tx|49|entity|C0344307|Absence of pain sensation|sosy|||analgesia||||888|142|150
+SE|00000000|CONCLUSIONS|tx|49|relation|2|1|C0031959|piperidine|orch|orch|||piperidine||||1000|54|63|NOM|INTERACTS_WITH||92|98|2|1|C0026549|Morphine|orch,phsu|orch|||morphine||||888|115|122
+
+SE|00000000|CONCLUSIONS|tx|50|text|Dexamethasone at 10(-10) M or retinyl acetate at about 3 X 10(-9) M inhibits proliferation stimulated by EGF.
+SE|00000000|CONCLUSIONS|tx|50|entity|C0011777|Dexamethasone|phsu,strd|||Dexamethasone||||1000|1|13
+SE|00000000|CONCLUSIONS|tx|50|entity|C0073109|retinol acetate|orch,phsu,vita|||retinyl acetate||||1000|31|45
+SE|00000000|CONCLUSIONS|tx|50|entity|C1514485|Proliferation|ftcn|||proliferation||||1000|78|90
+SE|00000000|CONCLUSIONS|tx|50|entity|||gngm|1950|EGF|EGF||||1000|106|108
+SE|00000000|CONCLUSIONS|tx|50|relation|1|1|||gngm,aapp|gngm|1950|EGF|EGF||||1000|106|108|VERB|STIMULATES||92|101|5|3|C0073109|retinol acetate|orch,phsu,vita|orch|||retinyl acetate||||1000|31|45
+SE|00000000|CONCLUSIONS|tx|50|relation|1|1|||gngm,aapp|gngm|1950|EGF|EGF||||1000|106|108|VERB|STIMULATES||92|101|5|3|C0011777|Dexamethasone|phsu,strd|phsu|||Dexamethasone||||1000|1|13
+
+SE|00000000|CONCLUSIONS|tx|51|text|Cholestyramine, an anionic-binding resin, has a considerable effect in lowering the rate and extent of fluvastatin bioavailability.
+SE|00000000|CONCLUSIONS|tx|51|entity|C1523814|anion binding|moft|||anionic-binding||||877|20|34
+SE|00000000|CONCLUSIONS|tx|51|entity|C0035191|Resins, Plant|bodm|||resin||||877|36|40
+SE|00000000|CONCLUSIONS|tx|51|entity|C1280500|Effect|qlco|||effect||||861|62|67
+SE|00000000|CONCLUSIONS|tx|51|entity|C0441994|Lower - spatial qualifier|spco|||lowering||||1000|72|79
+SE|00000000|CONCLUSIONS|tx|51|entity|C1521828|Rate|qnco|||rate||||1000|85|88
+SE|00000000|CONCLUSIONS|tx|51|entity|C0439792|Extent|spco|||extent||||1000|94|99
+SE|00000000|CONCLUSIONS|tx|51|entity|C0082608|fluvastatin|orch,phsu|||fluvastatin||||888|104|114
+SE|00000000|CONCLUSIONS|tx|51|entity|C1706947|Bioavailability Study|resa|||bioavailability||||888|116|130
+
+SE|00000000|CONCLUSIONS|tx|52|text|Combinations of clindamycin and gentamicin were indifferent for 29 strains and synergistic for 33 strains.
+SE|00000000|CONCLUSIONS|tx|52|entity|C0453882|Combinations|mnob|||Combinations||||1000|1|12
+SE|00000000|CONCLUSIONS|tx|52|entity|C0008947|Clindamycin|antb,carb|||clindamycin||||1000|17|27
+SE|00000000|CONCLUSIONS|tx|52|entity|C0017436|Gentamicins|antb,carb|||gentamicin||||1000|33|42
+SE|00000000|CONCLUSIONS|tx|52|entity|C0332238|Indifferent|qlco|||indifferent||||1000|49|59
+SE|00000000|CONCLUSIONS|tx|52|entity|C2986495|Synergistic|qlco|||synergistic||||1000|80|90
+
+SE|00000000|RESULTS|tx|53|text|RESULTS: The geometric mean (90% confidence interval) whole blood sirolimus area under the plasma concentration time-curve increased 60% (35%-90%), from 736 to 1178 ng x h/mL, and maximum concentration increased 43% (14%-81%), from 67 to 96 ng/mL, with diltiazem coadministration, whereas the mean elimination half-life of sirolimus decreased slightly, from 79 to 67 hours.
+SE|00000000|RESULTS|tx|53|entity|C1274040|Result|ftcn|||RESULTS||||1000|1|7
+SE|00000000|RESULTS|tx|53|entity|C2986759|Geometric Mean|qnco|||geometric mean||||1000|14|27
+SE|00000000|RESULTS|tx|53|entity|C0439083|>90|qnco|||90%||||901|30|32
+SE|00000000|RESULTS|tx|53|entity|C0009667|Confidence Intervals|qnco|||confidence interval||||901|34|52
+SE|00000000|RESULTS|tx|53|entity|C1546552|Specimen Source Codes - Whole blood|inpr|||whole blood||||861|55|65
+SE|00000000|RESULTS|tx|53|entity|C0072980|Sirolimus|antb,orch|||sirolimus||||861|67|75
+SE|00000000|RESULTS|tx|53|entity|C0205146|Area|spco|||area||||861|77|80
+SE|00000000|RESULTS|tx|53|entity|C0683150|plasma drug concentration|qnco|||plasma concentration time||||861|92|116
+SE|00000000|RESULTS|tx|53|entity|C0205134|Curved|spco|||curve||||861|118|122
+SE|00000000|RESULTS|tx|53|entity|C0439083|>90|qnco|||90%||||861|143|145
+SE|00000000|RESULTS|tx|53|entity|C1533072|ng/mL/hr|qnco|||ng x h/mL||||888|166|174
+SE|00000000|RESULTS|tx|53|entity|C2347813|Cmax|qnco|||maximum concentration||||1000|181|201
+SE|00000000|RESULTS|tx|53|entity|C0439275|Microgram per Liter|qnco|||ng/mL||||901|242|246
+SE|00000000|RESULTS|tx|53|entity|C0012373|Diltiazem|orch,phsu|||diltiazem||||694|254|262
+SE|00000000|RESULTS|tx|53|entity|C2348397|Elimination Half Life|qnco|||elimination half-life||||923|299|319
+SE|00000000|RESULTS|tx|53|entity|C0072980|Sirolimus|antb,orch|||sirolimus||||1000|324|332
+SE|00000000|RESULTS|tx|53|entity|C0750482|Slightly|idcn|||slightly||||1000|344|351
+SE|00000000|RESULTS|tx|53|entity|C0439227|Hour|tmco|||hours||||861|368|372
+
+SE|00000000|RESULTS|tx|54|text|The anxiogenic effects of theophylline were reduced by pretreatment with CGS 21680, an A2-selective agonist, but not by N6-cyclopentyladenosine (CPA), an A1-selective agonist.
+SE|00000000|RESULTS|tx|54|entity|C1280500|Effect|qlco|||effects||||861|16|22
+SE|00000000|RESULTS|tx|54|entity|C0039771|Theophylline|bacs,orch,phsu|||theophylline||||1000|27|38
+SE|00000000|RESULTS|tx|54|entity|C1550147|Pretreatment|sbst|||pretreatment||||1000|56|67
+SE|00000000|RESULTS|tx|54|entity|C0055233|CGS 21680|orch,phsu|||CGS 21680||||1000|74|82
+SE|00000000|RESULTS|tx|54|entity|C2987634|Agonist|phsu|||agonist||||827|101|107
+SE|00000000|RESULTS|tx|54|entity|C1518422|Negation|ftcn|||not||||1000|114|116
+SE|00000000|RESULTS|tx|54|entity|C0067224|N(6)-cyclopentyladenosine|nnon|||N6-cyclopentyladenosine||||1000|121|143
+SE|00000000|RESULTS|tx|54|entity|C2987634|Agonist|phsu|||agonist||||827|168|174
+SE|00000000|RESULTS|tx|54|relation|5|3|C2987634|Agonist|phsu|phsu|||agonist||||827|101|107|NOM|INTERACTS_WITH||16|22|5|1|C0039771|Theophylline|bacs,orch,phsu|bacs|||theophylline||||1000|27|38
+
+SE|00000000|RESULTS|tx|55|text|Due to its nephrotoxicity, gentamicin may cause abnormal renal uptake to be seen on 99mTc-MDP bone scintigraphy.
+SE|00000000|RESULTS|tx|55|entity|C0599918|nephrotoxicity|inpo|||nephrotoxicity||||1000|12|25
+SE|00000000|RESULTS|tx|55|entity|C0017436|Gentamicins|antb,carb|||gentamicin||||1000|28|37
+SE|00000000|RESULTS|tx|55|entity|C2347472|Percent of Abnormal Cells|qnco|||abnormal||||775|49|56
+SE|00000000|RESULTS|tx|55|entity|C0022646|Kidney|bpoc|||renal||||775|58|62
+SE|00000000|RESULTS|tx|55|entity|C0347980|% uptake|qnco|||uptake||||775|64|69
+SE|00000000|RESULTS|tx|55|entity|C0039416|Technetium Tc 99m Medronate|irda,opco|||99mTc-MDP||||875|85|93
+SE|00000000|RESULTS|tx|55|entity|C1266909|Entire bony skeleton|bdsy|||bone||||875|95|98
+SE|00000000|RESULTS|tx|55|entity|C0034606|Radionuclide Imaging|diap|||scintigraphy||||875|100|111
+
+SE|00000000|RESULTS|tx|56|text|Rifampin significantly decreased the AUC(ss) of amprenavir by 82%, but amprenavir had no effect on rifampin pharmacokinetics.
+SE|00000000|RESULTS|tx|56|entity|C0035608|Rifampin|antb,orch|||Rifampin||||861|1|8
+SE|00000000|RESULTS|tx|56|entity|C0376690|Area Under Curve|qnco|||AUC||||1000|38|40
+SE|00000000|RESULTS|tx|56|entity|C0754188|Amprenavir|orch,phsu|||amprenavir||||1000|49|58
+SE|00000000|RESULTS|tx|56|entity|C0754188|Amprenavir|orch,phsu|||amprenavir||||1000|72|81
+SE|00000000|RESULTS|tx|56|entity|C1280500|Effect|qlco|||effect||||1000|90|95
+SE|00000000|RESULTS|tx|56|entity|C0035608|Rifampin|antb,orch|||rifampin||||888|100|107
+SE|00000000|RESULTS|tx|56|entity|C0031328|Pharmacokinetic aspects|ftcn|||pharmacokinetics||||888|109|124
+SE|00000000|RESULTS|tx|56|relation|5|1|C0754188|Amprenavir|orch,phsu|orch|||amprenavir||||1000|72|81|NOM|INTERACTS_WITH|negation|90|95|1|1|C0035608|Rifampin|antb,orch|antb|||rifampin||||888|100|107
+
+SE|00000000|RESULTS|tx|57|text|The uptake inhibitors cocaine and desipramine (3 mumol/liter) potentiated the positive inotropic effects of norepinephrine in nonfailing myocardium (p < 0.05) but not in functional class IV myocardium.
+SE|00000000|RESULTS|tx|57|entity|C0243144|Uptake|phsf|||uptake||||851|5|10
+SE|00000000|RESULTS|tx|57|entity|C0243077|inhibitors|chvf|||inhibitors||||851|12|21
+SE|00000000|RESULTS|tx|57|entity|C0009170|Cocaine|hops,orch,phsu|||cocaine||||851|23|29
+SE|00000000|RESULTS|tx|57|entity|C0011685|Desipramine|orch,phsu|||desipramine||||1000|35|45
+SE|00000000|RESULTS|tx|57|entity|C0475211|liter|qnco|||liter||||827|56|60
+SE|00000000|RESULTS|tx|57|entity|C0439178|percent positive cells|qnco|||positive||||802|79|86
+SE|00000000|RESULTS|tx|57|entity|C1280500|Effect|qlco|||effects||||802|98|104
+SE|00000000|RESULTS|tx|57|entity|C0028351|Norepinephrine|nsba,orch,phsu|||norepinephrine||||1000|109|122
+SE|00000000|RESULTS|tx|57|entity|C0027061|Myocardium|tisu|||myocardium||||861|138|147
+SE|00000000|RESULTS|tx|57|entity|C1518422|Negation|ftcn|||not||||1000|164|166
+SE|00000000|RESULTS|tx|57|entity|C0205245|Functional|ftcn|||functional||||833|171|180
+SE|00000000|RESULTS|tx|57|entity|C0456387|Class|inpr|||class||||833|182|186
+SE|00000000|RESULTS|tx|57|entity|C0348016|Intravenous|spco|||IV||||833|188|189
+SE|00000000|RESULTS|tx|57|entity|C0027061|Myocardium|tisu|||myocardium||||833|191|200
+SE|00000000|RESULTS|tx|57|relation|3|1|C0027061|Myocardium|tisu|tisu|||myocardium||||861|138|147|PREP|LOCATION_OF||124|125|5|1|C0028351|Norepinephrine|nsba,orch,phsu|orch|||norepinephrine||||1000|109|122
+SE|00000000|RESULTS|tx|57|relation|1|1|C0027061|Myocardium|tisu|tisu|||myocardium||||833|191|200|PREP|LOCATION_OF|negation|168|169|7|3|C0028351|Norepinephrine|nsba,orch,phsu|orch|||norepinephrine||||1000|109|122
+
+SE|00000000|RESULTS|tx|58|text|Therapeutic drug monitoring can avoid iatrogenic alterations caused by 99mTc-methylene diphosphonate (MDP)-gentamicin interaction.
+SE|00000000|RESULTS|tx|58|entity|C1720825|Therapeutic Drug Monitoring|topp|||Therapeutic drug monitoring||||1000|1|27
+SE|00000000|RESULTS|tx|58|entity|C0439669|Iatrogenic|qlco|||iatrogenic||||872|39|48
+SE|00000000|RESULTS|tx|58|entity|C1515926|Alteration|idcn|||alterations||||872|50|60
+SE|00000000|RESULTS|tx|58|entity|C0039416|Technetium Tc 99m Medronate|irda,opco|||99mTc-methylene diphosphonate||||875|72|100
+SE|00000000|RESULTS|tx|58|entity|C0017436|Gentamicins|antb,carb|||gentamicin||||875|108|117
+SE|00000000|RESULTS|tx|58|entity|C1704675|Interaction|ftcn|||interaction||||875|119|129
+
+SE|00000000|RESULTS|tx|59|text|Although neither dexamethasone nor retinyl acetate affected the proliferation of prostatic epithelium in RPMI1640 containing transferrin alone, they modify the mitogenic effect of EGF and insulin.
+SE|00000000|RESULTS|tx|59|entity|C0011777|Dexamethasone|phsu,strd|||dexamethasone||||1000|18|30
+SE|00000000|RESULTS|tx|59|entity|C0073109|retinol acetate|orch,phsu,vita|||retinyl acetate||||1000|36|50
+SE|00000000|RESULTS|tx|59|entity|C1514485|Proliferation|ftcn|||proliferation||||1000|65|77
+SE|00000000|RESULTS|tx|59|entity|C1179826|Prostatic epithelium|tisu|||prostatic epithelium||||1000|82|101
+SE|00000000|RESULTS|tx|59|entity|C2700400|Contain (action)|acty|||containing||||790|115|124
+SE|00000000|RESULTS|tx|59|entity|C0040679|Transferrin|aapp,bacs|||transferrin||||790|126|136
+SE|00000000|RESULTS|tx|59|entity|C0205171|Singular|qnco|||alone||||1000|138|142
+SE|00000000|RESULTS|tx|59|entity|C0026255|Mitosis|celf|||mitogenic||||853|161|169
+SE|00000000|RESULTS|tx|59|entity|C1280500|Effect|qlco|||effect||||853|171|176
+SE|00000000|RESULTS|tx|59|entity|||gngm|1950|EGF|EGF||||1000|181|183
+SE|00000000|RESULTS|tx|59|entity|C0021641|Insulin|aapp,horm,phsu|||insulin||||1000|189|195
+SE|00000000|RESULTS|tx|59|relation|4|3|C0073109|retinol acetate|orch,phsu,vita|orch|||retinyl acetate||||1000|36|50|PREP|COEXISTS_WITH||103|104|5|1|C0040679|Transferrin|aapp,gngm,bacs|aapp|||transferrin||||790|126|136
+SE|00000000|RESULTS|tx|59|relation|4|3|C0011777|Dexamethasone|phsu,strd|phsu|||dexamethasone||||1000|18|30|PREP|COEXISTS_WITH||103|104|5|1|C0040679|Transferrin|aapp,gngm,bacs|aapp|||transferrin||||790|126|136
+SE|00000000|RESULTS|tx|59|relation|2|1|||gngm,aapp|gngm|1950|EGF|EGF||||1000|181|183|NOM|AFFECTS||171|176|6|0|C0026255|Mitosis|celf|celf|||mitogenic||||853|161|169
+SE|00000000|RESULTS|tx|59|relation|2|1|C0021641|Insulin|aapp,gngm,horm,phsu|gngm|||insulin||||1000|189|195|NOM|AFFECTS||171|176|6|0|C0026255|Mitosis|celf|celf|||mitogenic||||853|161|169
+
+SE|00000000|RESULTS|tx|60|text|Consequently, the effect of iron on the retention of cobalt was lower than on absorption.
+SE|00000000|RESULTS|tx|60|entity|C1280500|Effect|qlco|||effect||||1000|19|24
+SE|00000000|RESULTS|tx|60|entity|C0302583|Iron|bacs,elii,phsu|||iron||||1000|29|32
+SE|00000000|RESULTS|tx|60|entity|C0009148|Cobalt|elii|||cobalt||||1000|54|59
+SE|00000000|RESULTS|tx|60|relation|5|3|C0009148|Cobalt|elii|elii|||cobalt||||1000|54|59|NOM|INTERACTS_WITH||19|24|5|1|C0302583|Iron|bacs,elii,phsu|bacs|||iron||||1000|29|32
+
+SE|00000000|RESULTS|tx|61|text|ADL-8-2698 is a novel peripherally restricted opioid antagonist that may selectively prevent opioid-induced gastrointestinal effects without reversing analgesia.
+SE|00000000|RESULTS|tx|61|entity|C0963856|ADL 8-2698|orch,phsu|||ADL-8-2698||||1000|1|10
+SE|00000000|RESULTS|tx|61|entity|C0205314|New|tmco|||novel||||794|17|21
+SE|00000000|RESULTS|tx|61|entity|C0443288|Restricted|ftcn|||restricted||||794|36|45
+SE|00000000|RESULTS|tx|61|entity|C0027410|Narcotic Antagonists|phsu|||opioid antagonist||||794|47|63
+SE|00000000|RESULTS|tx|61|entity|C0242402|Opioids|hops,orch,phsu|||opioid||||833|94|99
+SE|00000000|RESULTS|tx|61|entity|C0205263|Induce (action)|ftcn|||induced||||833|101|107
+SE|00000000|RESULTS|tx|61|entity|C0521362|gastrointestinal|spco|||gastrointestinal||||833|109|124
+SE|00000000|RESULTS|tx|61|entity|C1280500|Effect|qlco|||effects||||833|126|132
+SE|00000000|RESULTS|tx|61|entity|C1555029|Reverse|idcn|||reversing||||872|142|150
+SE|00000000|RESULTS|tx|61|entity|C0344307|Absence of pain sensation|sosy|||analgesia||||872|152|160
+
+SE|00000000|RESULTS|tx|62|text|Valproic acid diminished binding of phenobarbital by a net change of 9.9% (percentage increase in FDF, 21.2%) at 1732 micromol/L.
+SE|00000000|RESULTS|tx|62|entity|C0042291|Valproic Acid|orch,phsu|||Valproic acid||||1000|1|13
+SE|00000000|RESULTS|tx|62|entity|C0031412|Phenobarbital|orch,phsu|||phenobarbital||||1000|37|49
+SE|00000000|RESULTS|tx|62|entity|C1423506|SPINK5 gene|gngm|11005|SPINK5|net||||872|56|58
+SE|00000000|RESULTS|tx|62|entity|C0443172|Changed status|qnco|||change||||872|60|65
+SE|00000000|RESULTS|tx|62|entity|C0439165|Percent (qualifier value)|qnco|||percentage||||888|76|85
+SE|00000000|RESULTS|tx|62|entity|C0442805|Increase|ftcn|||increase||||888|87|94
+SE|00000000|RESULTS|tx|62|entity|C1880774|Financial Disclosure Form|mnob|||FDF||||1000|99|101
+SE|00000000|RESULTS|tx|62|entity|C0439194|Micromole|qnco|||micromol||||660|119|126
+
+SE|00000000|RESULTS|tx|63|text|When combined with ofloxacin, KRM-1648 exhibited strong synergistic activity while only additive effects were observed with the combination of rifampicin (or rifabutin) and ofloxacin.
+SE|00000000|RESULTS|tx|63|entity|C0028902|Ofloxacin|antb,orch|||ofloxacin||||1000|20|28
+SE|00000000|RESULTS|tx|63|entity|C0124728|KRM 1648|orch,phsu|||KRM-1648||||769|31|38
+SE|00000000|RESULTS|tx|63|entity|C0442821|Strong|qlco|||strong||||769|50|55
+SE|00000000|RESULTS|tx|63|entity|C2986495|Synergistic|qlco|||synergistic||||769|57|67
+SE|00000000|RESULTS|tx|63|entity|C0205177|Active|ftcn|||activity||||769|69|76
+SE|00000000|RESULTS|tx|63|entity|C0205171|Singular|qnco|||only||||851|84|87
+SE|00000000|RESULTS|tx|63|entity|C0442796|Additive|qlco|||additive||||851|89|96
+SE|00000000|RESULTS|tx|63|entity|C1280500|Effect|qlco|||effects||||851|98|104
+SE|00000000|RESULTS|tx|63|entity|C0205195|Combined|qlco|||combination||||1000|129|139
+SE|00000000|RESULTS|tx|63|entity|C0035608|Rifampin|antb,orch|||rifampicin||||1000|144|153
+SE|00000000|RESULTS|tx|63|entity|C0140575|Rifabutin|antb,orch|||rifabutin||||1000|159|167
+SE|00000000|RESULTS|tx|63|entity|C0028902|Ofloxacin|antb,orch|||ofloxacin||||1000|174|182
+SE|00000000|RESULTS|tx|63|relation|3|3|C0028902|Ofloxacin|antb,orch|antb|||ofloxacin||||1000|20|28|NOM|COEXISTS_WITH||129|139|3|1|C0035608|Rifampin|antb,orch|antb|||rifampicin||||1000|144|153
+SE|00000000|RESULTS|tx|63|relation|3|3|C0028902|Ofloxacin|antb,orch|antb|||ofloxacin||||1000|20|28|NOM|COEXISTS_WITH||129|139|3|1|C0140575|Rifabutin|antb,orch|antb|||rifabutin||||1000|159|167
+SE|00000000|RESULTS|tx|63|relation|3|3|C0028902|Ofloxacin|antb,orch|antb|||ofloxacin||||1000|174|182|NOM|COEXISTS_WITH||129|139|3|1|C0035608|Rifampin|antb,orch|antb|||rifampicin||||1000|144|153
+SE|00000000|RESULTS|tx|63|relation|3|3|C0028902|Ofloxacin|antb,orch|antb|||ofloxacin||||1000|174|182|NOM|COEXISTS_WITH||129|139|3|2|C0140575|Rifabutin|antb,orch|antb|||rifabutin||||1000|159|167
+
+SE|00000000|RESULTS|tx|64|text|We report the case of an adolescent with altered consciousness caused by carbamazepine overdose with a positive tricyclic antidepressant level to alert clinicians to the cross-reactivity of carbamazepine with a toxicology screen for tricyclic antidepressants.
+SE|00000000|RESULTS|tx|64|entity|C0234428|Disturbance of consciousness|sosy|||altered consciousness||||1000|42|62
+SE|00000000|RESULTS|tx|64|entity|C0006949|Carbamazepine|orch,phsu|||carbamazepine||||888|74|86
+SE|00000000|RESULTS|tx|64|entity|C0029944|overdose|inpo|||overdose||||888|88|95
+SE|00000000|RESULTS|tx|64|entity|C1446409|Positive|qlco|||positive||||798|104|111
+SE|00000000|RESULTS|tx|64|entity|C0003290|Tricyclic Antidepressive Agents|phsu|||tricyclic antidepressant||||798|113|136
+SE|00000000|RESULTS|tx|64|entity|C2946261|Level|phsu|||level||||798|138|142
+SE|00000000|RESULTS|tx|64|entity|C0871685|Clinician|prog|||clinicians||||1000|153|162
+SE|00000000|RESULTS|tx|64|entity|C2828360|Traverse|cnce|||cross-||||853|171|176
+SE|00000000|RESULTS|tx|64|entity|C0205332|Reactive|qlco|||reactivity||||853|177|186
+SE|00000000|RESULTS|tx|64|entity|C0006949|Carbamazepine|orch,phsu|||carbamazepine||||1000|191|203
+SE|00000000|RESULTS|tx|64|entity|C0430054|Toxicology screen, general (procedure)|lbpr|||toxicology screen||||1000|212|228
+SE|00000000|RESULTS|tx|64|entity|C0003290|Tricyclic Antidepressive Agents|phsu|||tricyclic antidepressants||||1000|234|258
+
+SE|00000000|RESULTS|tx|65|text|This might be explained by a blockade by probenecid of the elimination of cloxacillin by the liver.
+SE|00000000|RESULTS|tx|65|entity|C0332206|Blocking|ftcn|||blockade||||1000|30|37
+SE|00000000|RESULTS|tx|65|entity|C0033209|Probenecid|orch,phsu|||probenecid||||1000|42|51
+SE|00000000|RESULTS|tx|65|entity|C0009077|Cloxacillin|antb,orch|||cloxacillin||||1000|75|85
+SE|00000000|RESULTS|tx|65|entity|C0023884|Liver|bpoc|||liver||||1000|94|98
+SE|00000000|RESULTS|tx|65|relation|4|1|C0033209|Probenecid|orch,phsu|orch|||probenecid||||1000|42|51|NOM|INHIBITS||30|37|4|3|C0009077|Cloxacillin|antb,orch|antb|||cloxacillin||||1000|75|85
+
+SE|00000000|RESULTS|tx|66|text|However, the antagonism of the theophylline-induced anxiogenic effects by CGS21680 was only observed in the time spent in the light zone, and DPCPX-induced anxiogenic effects were neither reversed by CGS 21680 nor by CPA.
+SE|00000000|RESULTS|tx|66|entity|C0680242|antagonism|socb|||antagonism||||1000|14|23
+SE|00000000|RESULTS|tx|66|entity|C0039771|Theophylline|bacs,orch,phsu|||theophylline||||775|32|43
+SE|00000000|RESULTS|tx|66|entity|C0205263|Induce (action)|ftcn|||induced||||775|45|51
+SE|00000000|RESULTS|tx|66|entity|C1280500|Effect|qlco|||effects||||775|64|70
+SE|00000000|RESULTS|tx|66|entity|C0205171|Singular|qnco|||only||||1000|88|91
+SE|00000000|RESULTS|tx|66|entity|C0040223|Time|tmco|||time||||1000|109|112
+SE|00000000|RESULTS|tx|66|entity|C1710706|Zone|spco|||zone||||888|133|136
+SE|00000000|RESULTS|tx|66|entity|C0088321|1,3-dipropyl-8-cyclopentylxanthine|orch,phsu|||DPCPX||||775|143|147
+SE|00000000|RESULTS|tx|66|entity|C0205263|Induce (action)|ftcn|||induced||||775|149|155
+SE|00000000|RESULTS|tx|66|entity|C1280500|Effect|qlco|||effects||||775|168|174
+SE|00000000|RESULTS|tx|66|entity|C0055233|CGS 21680|orch,phsu|||CGS 21680||||1000|201|209
+
+SE|00000000|RESULTS|tx|67|text|N-methyllevallorphan (5 mg/kg, s.c.) completely antagonized the inhibitory effect of loperamide and partly antagonized the effect of morphine.
+SE|00000000|RESULTS|tx|67|entity|C0131328|N-methyllevallorphan|orch,phsu|||N-methyllevallorphan||||1000|1|20
+SE|00000000|RESULTS|tx|67|entity|C0439272|ug/g|qnco|||mg/kg||||901|25|29
+SE|00000000|RESULTS|tx|67|entity|C0565930|per second|qnco|||s.c||||861|32|34
+SE|00000000|RESULTS|tx|67|entity|C0021469|Metabolic Inhibition|moft|||inhibitory||||888|65|74
+SE|00000000|RESULTS|tx|67|entity|C1280500|Effect|qlco|||effect||||888|76|81
+SE|00000000|RESULTS|tx|67|entity|C0023992|Loperamide|orch,phsu|||loperamide||||1000|86|95
+SE|00000000|RESULTS|tx|67|entity|C1280500|Effect|qlco|||effect||||1000|124|129
+SE|00000000|RESULTS|tx|67|entity|C0026549|Morphine|orch,phsu|||morphine||||1000|134|141
+SE|00000000|RESULTS|tx|67|relation|3|1|C0023992|Loperamide|orch,phsu|phsu|||loperamide||||1000|86|95|NOM|AFFECTS||76|81|3|0|C0021469|Metabolic Inhibition|moft|moft|||inhibitory||||888|65|74
+
+SE|00000000|RESULTS|tx|68|text|Methamphetamine, like MPTP, produced depletions of striatal dopamine but these actions were potentiated by pargyline pretreatment.
+SE|00000000|RESULTS|tx|68|entity|C0025611|Methamphetamine|hops,orch|||Methamphetamine||||1000|1|15
+SE|00000000|RESULTS|tx|68|entity|C0000097|1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|hops,orch|||MPTP||||1000|23|26
+SE|00000000|RESULTS|tx|68|entity|C0333668|Depletion|ftcn|||depletions||||861|38|47
+SE|00000000|RESULTS|tx|68|entity|C1269581|Entire corpus striatum|bpoc|||striatal||||853|52|59
+SE|00000000|RESULTS|tx|68|entity|C0013030|Dopamine|nsba,orch,phsu|||dopamine||||853|61|68
+SE|00000000|RESULTS|tx|68|entity|C0441472|Clinical action|ftcn|||actions||||1000|80|86
+SE|00000000|RESULTS|tx|68|entity|C0030557|Pargyline|orch,phsu|||pargyline||||888|108|116
+SE|00000000|RESULTS|tx|68|entity|C1550147|Pretreatment|sbst|||pretreatment||||888|118|129
+SE|00000000|RESULTS|tx|68|relation|0|0|C0013030|Dopamine|nsba,orch,phsu|nsba|||dopamine||||853|61|68|MOD/HEAD|PART_OF||52|68|0|0|C1269581|Entire corpus striatum|bpoc|bpoc|||striatal||||853|52|59
+
+SE|00000000|RESULTS|tx|69|text|These results suggest that the hepatoxicity of ethanol in alcoholic beverages is enhanced by interaction with its congeners and acetaldehyde;
+SE|00000000|RESULTS|tx|69|entity|C1274040|Result|ftcn|||results||||1000|7|13
+SE|00000000|RESULTS|tx|69|entity|C0001962|Ethanol|orch|||ethanol||||1000|48|54
+SE|00000000|RESULTS|tx|69|entity|C0001967|Alcoholic Beverages|food|||alcoholic beverages||||1000|59|77
+SE|00000000|RESULTS|tx|69|entity|C1704675|Interaction|ftcn|||interaction||||1000|94|104
+SE|00000000|RESULTS|tx|69|entity|C0678518|congener|chvs|||congeners||||1000|115|123
+SE|00000000|RESULTS|tx|69|entity|C0000966|Acetaldehyde|orch|||acetaldehyde||||1000|129|140
+
+SE|00000000|RESULTS|tx|70|text|Etofibrate elicited 62% enhancement of post-heparin lipolytic activity and 100% increase of 3H-triglyceride fractional clearance rate compared with placebo treatment.
+SE|00000000|RESULTS|tx|70|entity|C0059869|etofibrate|orch,phsu|||Etofibrate||||1000|1|10
+SE|00000000|RESULTS|tx|70|entity|C2349975|Enhance (action)|acty|||enhancement||||861|25|35
+SE|00000000|RESULTS|tx|70|entity|C0687676|Post|tmco|||post-||||815|40|44
+SE|00000000|RESULTS|tx|70|entity|C0019134|Heparin|bacs,carb,phsu|||heparin||||815|45|51
+SE|00000000|RESULTS|tx|70|entity|C0023796|Lipolysis|orgf|||lipolytic||||815|53|61
+SE|00000000|RESULTS|tx|70|entity|C0205177|Active|ftcn|||activity||||815|63|70
+SE|00000000|RESULTS|tx|70|entity|C0442805|Increase|ftcn|||increase||||861|81|88
+SE|00000000|RESULTS|tx|70|entity|C0041004|Triglycerides|bacs,lipd|||triglyceride||||757|96|107
+SE|00000000|RESULTS|tx|70|entity|C0449297|Clearance|qlco|||clearance||||757|120|128
+SE|00000000|RESULTS|tx|70|entity|C1521828|Rate|qnco|||rate||||757|130|133
+SE|00000000|RESULTS|tx|70|entity|C0032042|Placebos|topp|||placebo||||888|149|155
+
+SE|00000000|RESULTS|tx|71|text|On the other hand, intrathecal naloxone (12-120 micrograms) had only a very weak effect on the tail-flick inhibition induced by intraventricular morphine (40 micrograms).
+SE|00000000|RESULTS|tx|71|entity|C0027358|Naloxone|orch,phsu|||naloxone||||861|32|39
+SE|00000000|RESULTS|tx|71|entity|C0439211|microgram|qnco|||micrograms||||827|49|58
+SE|00000000|RESULTS|tx|71|entity|C0205171|Singular|qnco|||only||||1000|65|68
+SE|00000000|RESULTS|tx|71|entity|C0442824|Very|qlco|||very||||851|72|75
+SE|00000000|RESULTS|tx|71|entity|C0004093|Asthenia|sosy|||weak||||851|77|80
+SE|00000000|RESULTS|tx|71|entity|C1280500|Effect|qlco|||effect||||851|82|87
+SE|00000000|RESULTS|tx|71|entity|C0039259|Tail|bpoc|||tail-||||802|96|100
+SE|00000000|RESULTS|tx|71|entity|C1628982|Percent inhibition|qnco|||inhibition||||802|107|116
+SE|00000000|RESULTS|tx|71|entity|C1517569|Intraventricular|blor|||intraventricular||||888|129|144
+SE|00000000|RESULTS|tx|71|entity|C0026549|Morphine|orch,phsu|||morphine||||888|146|153
+SE|00000000|RESULTS|tx|71|entity|C0439211|microgram|qnco|||micrograms||||888|159|168
+SE|00000000|RESULTS|tx|71|relation|3|2|C0027358|Naloxone|orch,phsu|orch|||naloxone||||861|32|39|NOM|AFFECTS||82|87|3|0|C0004093|Asthenia|sosy|sosy|||weak||||851|77|80
+
+SE|00000000|RESULTS|tx|72|text|The effect of rifampin on the warfarin requirement of our patient appeared to be maximal 5 to 7 days after the initiation of rifampin and extended a similar length of time after rifampin withdrawal.
+SE|00000000|RESULTS|tx|72|entity|C1280500|Effect|qlco|||effect||||1000|5|10
+SE|00000000|RESULTS|tx|72|entity|C0035608|Rifampin|antb,orch|||rifampin||||1000|15|22
+SE|00000000|RESULTS|tx|72|entity|C0043031|Warfarin|hops,orch,phsu|||warfarin||||888|31|38
+SE|00000000|RESULTS|tx|72|entity|C1514873|Requirement|ftcn|||requirement||||888|40|50
+SE|00000000|RESULTS|tx|72|entity|C0030705|Patients|podg|||patient||||1000|59|65
+SE|00000000|RESULTS|tx|72|entity|C0806909|Maximum|qnco|||maximal||||861|82|88
+SE|00000000|RESULTS|tx|72|entity|C1547085|7 days|tmco|||7 days||||1000|95|100
+SE|00000000|RESULTS|tx|72|entity|C1704686|Initiation|ftcn|||initiation||||1000|112|121
+SE|00000000|RESULTS|tx|72|entity|C0035608|Rifampin|antb,orch|||rifampin||||1000|126|133
+SE|00000000|RESULTS|tx|72|entity|C2348205|Similarity|qlco|||similar||||888|150|156
+SE|00000000|RESULTS|tx|72|entity|C1444754|Length|qnco|||length||||888|158|163
+SE|00000000|RESULTS|tx|72|entity|C0040223|Time|tmco|||time||||1000|168|171
+SE|00000000|RESULTS|tx|72|entity|C0035608|Rifampin|antb,orch|||rifampin||||888|179|186
+SE|00000000|RESULTS|tx|72|entity|C2349954|Withdraw (activity)|acty|||withdrawal||||888|188|197
+SE|00000000|RESULTS|tx|72|relation|9|1|C0035608|Rifampin|antb,orch|antb|||rifampin||||1000|15|22|NOM|INTERACTS_WITH||5|10|9|2|C0043031|Warfarin|hops,orch,phsu|hops|||warfarin||||888|31|38
+SE|00000000|RESULTS|tx|72|relation|7|1|C0030705|Patients|podg,humn|humn|||patient||||1000|59|65|PREP|LOCATION_OF||52|53|3|1|C0043031|Warfarin|hops,orch,phsu|hops|||warfarin||||888|31|38
+
+SE|00000000|RESULTS|tx|73|text|However, careful attention must be directed to cross toxicity and possible pharmacokinetic interactions between antiretroviral and antineoplastic drugs.
+SE|00000000|RESULTS|tx|73|entity|C0004268|Attention|menp|||attention||||861|18|26
+SE|00000000|RESULTS|tx|73|entity|C0600688|Toxic effect|inpo|||toxicity||||1000|54|61
+SE|00000000|RESULTS|tx|73|entity|C0332149|Possible|qlco|||possible||||785|67|74
+SE|00000000|RESULTS|tx|73|entity|C1704675|Interaction|ftcn|||interactions||||785|92|103
+SE|00000000|RESULTS|tx|73|entity|C0003392|Antineoplastic Agents|orch,phsu|||antineoplastic drugs||||1000|132|151
+
+SE|00000000|RESULTS|tx|74|text|(1968, 1970), the higher serum concentrations of penicillins and cephaloridine reached after administration of probenecid are due not only to slower renal elimination but also to an altered distribution in the body.
+SE|00000000|RESULTS|tx|74|entity|C0205250|High|qlco|||higher||||879|19|24
+SE|00000000|RESULTS|tx|74|entity|C0683149|serum drug concentration|qnco|||serum concentrations||||879|26|45
+SE|00000000|RESULTS|tx|74|entity|C0030842|Penicillins|antb,orch|||penicillins||||1000|50|60
+SE|00000000|RESULTS|tx|74|entity|C0007727|Cephaloridine|antb,orch|||cephaloridine||||1000|66|78
+SE|00000000|RESULTS|tx|74|entity|C0033209|Probenecid|orch,phsu|||probenecid||||1000|112|121
+SE|00000000|RESULTS|tx|74|entity|C3146286|Due|idcn|||due||||1000|127|129
+SE|00000000|RESULTS|tx|74|entity|C1518422|Negation|ftcn|||not||||861|131|133
+SE|00000000|RESULTS|tx|74|entity|C0439834|Slow|qlco|||slower||||840|143|148
+SE|00000000|RESULTS|tx|74|entity|C0022646|Kidney|bpoc|||renal||||840|150|154
+SE|00000000|RESULTS|tx|74|entity|C0392747|Changing|ftcn|||altered||||888|183|189
+SE|00000000|RESULTS|tx|74|entity|C1704711|Distribution|ftcn|||distribution||||888|191|202
+
+SE|00000000|RESULTS|tx|75|text|Flavoridin alone was found to have no effect on CAS, but can completely block contortrostatin-induced phosphorylation of this protein in MDA-MB-435 cells.
+SE|00000000|RESULTS|tx|75|entity|C0205171|Singular|qnco|||alone||||1000|12|16
+SE|00000000|RESULTS|tx|75|entity|C1280500|Effect|qlco|||effect||||1000|39|44
+SE|00000000|RESULTS|tx|75|entity|C1859316|CATARACT-ALOPECIA-SCLERODACTYLY SYNDROME|dsyn|||CAS||||966|49|51
+SE|00000000|RESULTS|tx|75|entity|C0911731|contortrostatin|aapp|||contortrostatin||||851|79|93
+SE|00000000|RESULTS|tx|75|entity|C0205263|Induce (action)|ftcn|||induced||||851|95|101
+SE|00000000|RESULTS|tx|75|entity|C0031715|Phosphorylation|moft|||phosphorylation||||851|103|117
+SE|00000000|RESULTS|tx|75|entity|C0033684|Proteins|aapp,bacs|||protein||||1000|127|133
+SE|00000000|RESULTS|tx|75|entity|C0000379|3,4-Methylenedioxyamphetamine|orch,phsu|||MDA-MB||||791|138|143
+SE|00000000|RESULTS|tx|75|entity|C0007634|Cells|cell|||cells||||791|149|153
+SE|00000000|RESULTS|tx|75|relation|1|1|C0007634|Cells|cell|cell|||cells||||791|149|153|PREP|LOCATION_OF||135|136|6|1|C0033684|Proteins|aapp,gngm,bacs|aapp|||protein||||1000|127|133
+
+SE|00000000|RESULTS|tx|76|text|Core temperature was decreased in rats in a dose-dependent manner when ethanol was administered to rats treated with disulfiram 8 hours before the ethanol challenge.
+SE|00000000|RESULTS|tx|76|entity|C0444669|Core|spco|||Core||||888|1|4
+SE|00000000|RESULTS|tx|76|entity|C0039476|Temperature|qnco|||temperature||||888|6|16
+SE|00000000|RESULTS|tx|76|entity|C0034693|Rattus norvegicus|mamm|||rats||||1000|35|38
+SE|00000000|RESULTS|tx|76|entity|C1512045|Dose-dependent|qnco|||dose-dependent||||734|45|58
+SE|00000000|RESULTS|tx|76|entity|C0001962|Ethanol|orch|||ethanol||||1000|72|78
+SE|00000000|RESULTS|tx|76|entity|C0034693|Rattus norvegicus|mamm|||rats||||1000|100|103
+SE|00000000|RESULTS|tx|76|entity|C0012772|Disulfiram|orch,phsu|||disulfiram||||802|118|127
+SE|00000000|RESULTS|tx|76|entity|C0439227|Hour|tmco|||hours||||802|131|135
+SE|00000000|RESULTS|tx|76|entity|C0001962|Ethanol|orch|||ethanol||||888|148|154
+SE|00000000|RESULTS|tx|76|entity|C0798503|Challenge:Type:Point in time:^Patient:Nominal|clna|||challenge||||888|156|164
+SE|00000000|RESULTS|tx|76|relation|4|1|C0001962|Ethanol|orch|orch|||ethanol||||1000|72|78|VERB|ADMINISTERED_TO||84|95|3|1|C0034693|Rattus norvegicus|mamm|mamm|||rats||||1000|100|103
+
+SE|00000000|RESULTS|tx|77|text|These results suggest that exposure to environmental lead may alter the biological and behavioral responsiveness of an animal to alcohol.
+SE|00000000|RESULTS|tx|77|entity|C1274040|Result|ftcn|||results||||1000|7|13
+SE|00000000|RESULTS|tx|77|entity|C0014406|Environment|spco|||environmental||||888|40|52
+SE|00000000|RESULTS|tx|77|entity|C0205460|biological|qlco|||biological||||1000|73|82
+SE|00000000|RESULTS|tx|77|entity|C0004927|Behavior|inbe|||behavioral||||853|88|97
+SE|00000000|RESULTS|tx|77|entity|C0205342|Responsive|ftcn|||responsiveness||||853|99|112
+SE|00000000|RESULTS|tx|77|entity|C0003062|Animals|anim|||animal||||1000|120|125
+SE|00000000|RESULTS|tx|77|entity|C0001975|Alcohols|orch,phsu|||alcohol||||1000|130|136
+
+SE|00000000|RESULTS|tx|78|text|Haloperidol reduced or eliminated the increases in FI responding produced by intermediate doses of either (+)-NANM or PCP in pigeons, but did not antagonize the decreases in FI or FR responding produced by high doses of PCP or either stereoisomer of NANM.
+SE|00000000|RESULTS|tx|78|entity|C0018546|Haloperidol|orch,phsu|||Haloperidol||||1000|1|11
+SE|00000000|RESULTS|tx|78|entity|C0442805|Increase|ftcn|||increases||||1000|39|47
+SE|00000000|RESULTS|tx|78|entity|C0205103|Intermediate|spco|||intermediate||||888|78|89
+SE|00000000|RESULTS|tx|78|entity|C0178602|Dosage|qnco|||doses||||888|91|95
+SE|00000000|RESULTS|tx|78|entity|||gngm|649,5547,54858|BMP1,PRCP,PGPEP1|PCP||||1000|119|121
+SE|00000000|RESULTS|tx|78|entity|C0325912|Columbidae|bird|||pigeons||||1000|126|132
+SE|00000000|RESULTS|tx|78|entity|C1518422|Negation|ftcn|||not||||1000|143|145
+SE|00000000|RESULTS|tx|78|entity|C0547047|Decrease|qnco|||decreases||||1000|162|170
+SE|00000000|RESULTS|tx|78|entity|C0444956|High dose|qnco|||high doses||||983|207|216
+SE|00000000|RESULTS|tx|78|entity|||gngm|649,5547,54858|BMP1,PRCP,PGPEP1|PCP||||1000|221|223
+SE|00000000|RESULTS|tx|78|entity|C0376211|Stereoisomers|chvs|||stereoisomer||||1000|235|246
+
+SE|00000000|RESULTS|tx|79|text|High-dose cisplatin with sodium thiosulfate protection.
+SE|00000000|RESULTS|tx|79|entity|C0444956|High dose|qnco|||High-dose||||901|1|9
+SE|00000000|RESULTS|tx|79|entity|C0008838|Cisplatin|inch,phsu|||cisplatin||||901|11|19
+SE|00000000|RESULTS|tx|79|entity|C0074774|sodium thiosulfate|inch,phsu|||sodium thiosulfate||||901|26|43
+SE|00000000|RESULTS|tx|79|entity|C1545588|Protection|fndg|||protection||||901|45|54
+SE|00000000|RESULTS|tx|79|relation|1|1|C0008838|Cisplatin|inch,phsu|inch|||cisplatin||||901|11|19|NOM|INTERACTS_WITH||45|54|1|0|C0074774|sodium thiosulfate|inch,phsu|inch|||sodium thiosulfate||||901|26|43
+
+SE|00000000|DISCUSSION|tx|80|text|DISCUSSION: Clarithromycin is a potent inhibitor of CYP3A4, the major enzyme responsible for simvastatin metabolism.
+SE|00000000|DISCUSSION|tx|80|entity|C0055856|Clarithromycin|antb,orch|||Clarithromycin||||1000|13|26
+SE|00000000|DISCUSSION|tx|80|entity|C3245505|Potential|qlco|||potent||||838|33|38
+SE|00000000|DISCUSSION|tx|80|entity|C1999216|Inhibitor|qlco|||inhibitor||||838|40|48
+SE|00000000|DISCUSSION|tx|80|entity|||gngm|1576|CYP3A4|CYP3A4||||1000|53|58
+SE|00000000|DISCUSSION|tx|80|entity|C0205164|Major|qlco|||major||||888|65|69
+SE|00000000|DISCUSSION|tx|80|entity|C0014442|Enzymes|enzy,orch|||enzyme||||888|71|76
+SE|00000000|DISCUSSION|tx|80|entity|C0074554|Simvastatin|orch,phsu|||simvastatin||||888|94|104
+SE|00000000|DISCUSSION|tx|80|entity|C0025520|metabolic aspects|ftcn|||metabolism||||888|106|115
+SE|00000000|DISCUSSION|tx|80|relation|2|1|C0055856|Clarithromycin|antb,orch|antb|||Clarithromycin||||1000|13|26|NOM|INHIBITS||40|48|4|1|||gngm,aapp|gngm|1576|CYP3A4|CYP3A4||||1000|53|58
+
+SE|00000000|DISCUSSION|tx|81|text|Cytochalasin D inhibited the carbachol-stimulated intracellular Ca(2+) concentration ([Ca(2+)](i)) increase due to release from the Ca(2+) store.
+SE|00000000|DISCUSSION|tx|81|entity|C0010738|Cytochalasin D|bacs,orch|||Cytochalasin D||||1000|1|14
+SE|00000000|DISCUSSION|tx|81|entity|C0006945|Carbachol|orch,phsu|||carbachol||||851|30|38
+SE|00000000|DISCUSSION|tx|81|entity|C1948023|Stimulation (motivation)|npop|||stimulated||||851|40|49
+SE|00000000|DISCUSSION|tx|81|entity|C0175996|Protoplasm|celc|||intracellular||||851|51|63
+SE|00000000|DISCUSSION|tx|81|entity|C0030685|Patient Discharge|hlca|||release||||1000|116|122
+SE|00000000|DISCUSSION|tx|81|entity|C0596235|Calcium ion|elii|||Ca(2||||1000|133|136
+SE|00000000|DISCUSSION|tx|81|entity|C1698986|Storage|ftcn|||store||||1000|140|144
+SE|00000000|DISCUSSION|tx|81|relation|1|1|C0010738|Cytochalasin D|bacs,orch|bacs|||Cytochalasin D||||1000|1|14|VERB|DISRUPTS||16|24|5|1|C0175996|Protoplasm|celc|celc|||intracellular||||851|51|63
+
+SE|00000000|DISCUSSION|tx|82|text|In a comparison of digitalis tolerance in dogs anesthetized with ketamine, Innovar Vet, or pentobarbital, the dosage of ouabain needed to cause ventricular tachycardia was significantly higher, as was the LD50 of ouabain, with ketamine or Innovar than with pentobarbital.
+SE|00000000|DISCUSSION|tx|82|entity|C1707455|Comparison|acty|||comparison||||1000|6|15
+SE|00000000|DISCUSSION|tx|82|entity|C1704410|Tolerance|qlco|||tolerance||||861|30|38
+SE|00000000|DISCUSSION|tx|82|entity|C0012984|Canis familiaris|mamm|||dogs||||1000|43|46
+SE|00000000|DISCUSSION|tx|82|entity|C0022614|Ketamine|orch,phsu|||ketamine||||1000|66|73
+SE|00000000|DISCUSSION|tx|82|entity|C0123569|Innovar-Vet|orch,phsu|||Innovar Vet||||1000|76|86
+SE|00000000|DISCUSSION|tx|82|entity|C0030883|Pentobarbital|orch,phsu|||pentobarbital||||1000|92|104
+SE|00000000|DISCUSSION|tx|82|entity|C0178602|Dosage|qnco|||dosage||||1000|111|116
+SE|00000000|DISCUSSION|tx|82|entity|C0029904|Ouabain|carb,phsu,strd|||ouabain||||1000|121|127
+SE|00000000|DISCUSSION|tx|82|entity|C0042514|Tachycardia, Ventricular|patf|||ventricular tachycardia||||1000|145|167
+SE|00000000|DISCUSSION|tx|82|entity|C0205250|High|qlco|||higher||||827|187|192
+SE|00000000|DISCUSSION|tx|82|entity|C0023378|Lethal Dose 50|qnco|||LD50||||1000|206|209
+SE|00000000|DISCUSSION|tx|82|entity|C0029904|Ouabain|carb,phsu,strd|||ouabain||||1000|214|220
+SE|00000000|DISCUSSION|tx|82|entity|C0022614|Ketamine|orch,phsu|||ketamine||||1000|228|235
+SE|00000000|DISCUSSION|tx|82|entity|C0063549|Innovar|orch,phsu|||Innovar||||1000|240|246
+SE|00000000|DISCUSSION|tx|82|entity|C0030883|Pentobarbital|orch,phsu|||pentobarbital||||1000|258|270
+SE|00000000|DISCUSSION|tx|82|relation|14|11|C0029904|Ouabain|carb,phsu,strd|carb|||ouabain||||1000|214|220|NOM|compared_with||6|15|14|12|C0022614|Ketamine|orch,phsu|orch|||ketamine||||1000|228|235
+SE|00000000|DISCUSSION|tx|82|relation|8|1|C0029904|Ouabain|carb,phsu,strd|carb|||ouabain||||1000|121|127|VERB|CAUSES||139|143|7|1|C0042514|Tachycardia, Ventricular|patf|patf|||ventricular tachycardia||||1000|145|167
+
+SE|00000000|DISCUSSION|tx|83|text|Careful observations on hepatotoxicity are suggested when acetaminophen is prescribed with caffeine.
+SE|00000000|DISCUSSION|tx|83|entity|C0302523|Observation in research|resa|||observations||||861|9|20
+SE|00000000|DISCUSSION|tx|83|entity|C0235378|Hepatotoxicity|inpo|||hepatotoxicity||||1000|25|38
+SE|00000000|DISCUSSION|tx|83|entity|C0000970|Acetaminophen|orch,phsu|||acetaminophen||||1000|59|71
+SE|00000000|DISCUSSION|tx|83|entity|C0006644|Caffeine|orch,phsu|||caffeine||||1000|92|99
+
+SE|00000000|DISCUSSION|tx|84|text|Acid-catalyzed ethanolysis of temazepam in anhydrous and aqueous ethanol solutions.
+SE|00000000|DISCUSSION|tx|84|entity|C0001128|Acids|chem|||Acid||||606|1|4
+SE|00000000|DISCUSSION|tx|84|entity|C0007382|Catalysis|npop|||catalyzed||||606|6|14
+SE|00000000|DISCUSSION|tx|84|entity|C0039468|Temazepam|orch,phsu|||temazepam||||1000|31|39
+SE|00000000|DISCUSSION|tx|84|entity|C0001962|Ethanol|orch|||ethanol||||890|66|72
+SE|00000000|DISCUSSION|tx|84|entity|C3255993|aqueous solution|phsu|||aqueous ethanol solutions||||890|58|82
+
+SE|00000000|DISCUSSION|tx|85|text|[The effect of cimetidine on the renal excretion of verografin and iodamide in dogs]&#xd;&#xa;The intravenous injection of cimetidine in a dose of 20 mg/kg enhanced verografine and iodamide excretion in chronic canine experiments.
+SE|00000000|DISCUSSION|tx|85|entity|C1280500|Effect|qlco|||effect||||1000|6|11
+SE|00000000|DISCUSSION|tx|85|entity|C0008783|Cimetidine|orch,phsu|||cimetidine||||1000|16|25
+SE|00000000|DISCUSSION|tx|85|entity|C0022646|Kidney|bpoc|||renal||||888|34|38
+SE|00000000|DISCUSSION|tx|85|entity|C0221102|Excretory function|phsf|||excretion||||888|40|48
+SE|00000000|DISCUSSION|tx|85|entity|C0733901|Verografin|irda,orch,phsu|||verografin||||1000|53|62
+SE|00000000|DISCUSSION|tx|85|entity|C0021961|Iodamide|irda,orch|||iodamide||||1000|68|75
+SE|00000000|DISCUSSION|tx|85|entity|C0012984|Canis familiaris|mamm|||dogs||||1000|80|83
+SE|00000000|DISCUSSION|tx|86|entity|C0021494|Intravenous Injections|ftcn|||intravenous injection||||1000|5|25
+SE|00000000|DISCUSSION|tx|86|entity|C0008783|Cimetidine|orch,phsu|||cimetidine||||1000|30|39
+SE|00000000|DISCUSSION|tx|86|entity|C0178602|Dosage|qnco|||dose||||1000|46|49
+SE|00000000|DISCUSSION|tx|86|entity|C0439272|ug/g|qnco|||mg/kg||||901|57|61
+SE|00000000|DISCUSSION|tx|86|entity|C0021961|Iodamide|irda,orch|||iodamide||||888|88|95
+SE|00000000|DISCUSSION|tx|86|entity|C0221102|Excretory function|phsf|||excretion||||888|97|105
+SE|00000000|DISCUSSION|tx|86|entity|C0205191|chronic|tmco|||chronic||||851|110|116
+SE|00000000|DISCUSSION|tx|86|entity|C0012984|Canis familiaris|mamm|||canine||||851|118|123
+SE|00000000|DISCUSSION|tx|86|entity|C0681814|research study|resa|||experiments||||851|125|135
+SE|00000000|DISCUSSION|tx|85|relation|7|3|C0733901|Verografin|irda,orch,phsu|irda|||verografin||||1000|53|62|NOM|INTERACTS_WITH||6|11|7|1|C0008783|Cimetidine|orch,phsu|orch|||cimetidine||||1000|16|25
+SE|00000000|DISCUSSION|tx|85|relation|7|3|C0021961|Iodamide|irda,orch|irda|||iodamide||||1000|68|75|NOM|INTERACTS_WITH||6|11|7|1|C0008783|Cimetidine|orch,phsu|orch|||cimetidine||||1000|16|25
+SE|00000000|DISCUSSION|tx|85|relation|3|1|C0012984|Canis familiaris|mamm|mamm|||dogs||||1000|80|83|PREP|LOCATION_OF||77|78|5|1|C0021961|Iodamide|irda,orch|orch|||iodamide||||1000|68|75
+SE|00000000|DISCUSSION|tx|85|relation|3|1|C0012984|Canis familiaris|mamm|mamm|||dogs||||1000|80|83|PREP|LOCATION_OF||77|78|5|1|C0733901|Verografin|irda,orch,phsu|orch|||verografin||||1000|53|62
+
+SE|00000000|DISCUSSION|tx|87|text|In the presence of ouabain (10(-5) M), PTX (10(-8) M) failed to cause the first contraction;
+SE|00000000|DISCUSSION|tx|87|entity|C0029904|Ouabain|carb,phsu,strd|||ouabain||||1000|20|26
+SE|00000000|DISCUSSION|tx|87|entity|C0030899|Pentoxifylline|orch,phsu|||PTX||||1000|40|42
+SE|00000000|DISCUSSION|tx|87|entity|C1279901|Firstly|qlco|||first||||694|75|79
+
+SE|00000000|DISCUSSION|tx|88|text|The effects of DCG-IV were very strong and completely depressed the PCP-induced hyperlocomotion.
+SE|00000000|DISCUSSION|tx|88|entity|C1280500|Effect|qlco|||effects||||1000|5|11
+SE|00000000|DISCUSSION|tx|88|entity|C0348016|Intravenous|spco|||IV||||861|20|21
+SE|00000000|DISCUSSION|tx|88|entity|C0442824|Very|qlco|||very||||888|28|31
+SE|00000000|DISCUSSION|tx|88|entity|C0442821|Strong|qlco|||strong||||888|33|38
+SE|00000000|DISCUSSION|tx|88|entity|||gngm|649,5547,54858|BMP1,PRCP,PGPEP1|PCP-||||660|69|72
+SE|00000000|DISCUSSION|tx|88|entity|C0205263|Induce (action)|ftcn|||induced||||660|73|79
+
+SE|00000000|DISCUSSION|tx|89|text|Interaction of ketamine and halothane in rats.
+SE|00000000|DISCUSSION|tx|89|entity|C1704675|Interaction|ftcn|||Interaction||||1000|1|11
+SE|00000000|DISCUSSION|tx|89|entity|C0022614|Ketamine|orch,phsu|||ketamine||||1000|16|23
+SE|00000000|DISCUSSION|tx|89|entity|C0018549|Halothane|orch,phsu|||halothane||||1000|29|37
+SE|00000000|DISCUSSION|tx|89|entity|C0034693|Rattus norvegicus|mamm|||rats||||1000|42|45
+SE|00000000|DISCUSSION|tx|89|relation|3|1|C0018549|Halothane|orch,phsu|phsu|||halothane||||1000|29|37|PREP|TREATS||39|40|1|1|C0034693|Rattus norvegicus|mamm|mamm|||rats||||1000|42|45
+SE|00000000|DISCUSSION|tx|89|relation|3|1|C0022614|Ketamine|orch,phsu|phsu|||ketamine||||1000|16|23|PREP|TREATS||39|40|1|1|C0034693|Rattus norvegicus|mamm|mamm|||rats||||1000|42|45
+
+SE|00000000|DISCUSSION|tx|90|text|Ibogaine attenuates, but 18-MC potentiates, the acute locomotor effects of morphine;
+SE|00000000|DISCUSSION|tx|90|entity|C0020737|Ibogaine|bacs,orch,phsu|||Ibogaine||||1000|1|8
+SE|00000000|DISCUSSION|tx|90|entity|C0205178|acute|tmco|||acute||||802|49|53
+SE|00000000|DISCUSSION|tx|90|entity|C1280500|Effect|qlco|||effects||||802|65|71
+SE|00000000|DISCUSSION|tx|90|entity|C0026549|Morphine|orch,phsu|||morphine||||1000|76|83
+SE|00000000|DISCUSSION|tx|90|relation|2|2|C0020737|Ibogaine|bacs,orch,phsu|bacs|||Ibogaine||||1000|1|8|NOM|INTERACTS_WITH||65|71|1|1|C0026549|Morphine|orch,phsu|orch|||morphine||||1000|76|83
+
+SE|00000000|DISCUSSION|tx|91|text|Among the risk factors studied, two appear to increase the risk of ARE: the prescription of thiabendazole to treat strongyloidiasis during the melarsoprol cure and the bad general clinical conditions of patients.
+SE|00000000|DISCUSSION|tx|91|entity|C0035648|risk factors|qnco|||risk factors||||1000|11|22
+SE|00000000|DISCUSSION|tx|91|entity|C0205448|Two|qnco|||two||||1000|33|35
+SE|00000000|DISCUSSION|tx|91|entity|C0035647|Risk|qlco|||risk||||1000|60|63
+SE|00000000|DISCUSSION|tx|91|entity|C0033080|Prescription procedure|hlca|||prescription||||1000|77|88
+SE|00000000|DISCUSSION|tx|91|entity|C0039832|Thiabendazole|orch,phsu|||thiabendazole||||861|93|105
+SE|00000000|DISCUSSION|tx|91|entity|C0038463|Strongyloidiasis|dsyn|||strongyloidiasis||||1000|116|131
+SE|00000000|DISCUSSION|tx|91|entity|C0025217|Melarsoprol|orch,phsu|||melarsoprol||||694|144|154
+SE|00000000|DISCUSSION|tx|91|entity|C0205169|Bad|qlco|||bad||||825|169|171
+SE|00000000|DISCUSSION|tx|91|entity|C0205246|Generalized|spco|||general||||825|173|179
+SE|00000000|DISCUSSION|tx|91|entity|C0205210|Clinical|qlco|||clinical||||825|181|188
+SE|00000000|DISCUSSION|tx|91|entity|C0012634|Disease|dsyn|||conditions||||825|190|199
+SE|00000000|DISCUSSION|tx|91|entity|C0030705|Patients|podg|||patients||||1000|204|211
+SE|00000000|DISCUSSION|tx|91|relation|5|1|C0039832|Thiabendazole|orch,phsu|phsu|||thiabendazole||||861|93|105|VERB|TREATS||110|114|4|1|C0038463|Strongyloidiasis|dsyn|dsyn|||strongyloidiasis||||1000|116|131
+SE|00000000|DISCUSSION|tx|91|relation|5|1|C0039832|Thiabendazole|orch,phsu|phsu|||thiabendazole||||861|93|105|VERB|TREATS||110|114|4|1|C0012634|Disease|dsyn|dsyn|||conditions||||825|190|199
+
+SE|00000000|DISCUSSION|tx|92|text|It is concluded that ketamine is not a short-acting drug and that concomitant use with halothane would be expected to prolong further the duration of its action on the central nervous system.
+SE|00000000|DISCUSSION|tx|92|entity|C0022614|Ketamine|orch,phsu|||ketamine||||1000|22|29
+SE|00000000|DISCUSSION|tx|92|entity|C1518422|Negation|ftcn|||not||||1000|34|36
+SE|00000000|DISCUSSION|tx|92|entity|C1282927|Shortened|qlco|||short||||802|40|44
+SE|00000000|DISCUSSION|tx|92|entity|C0013227|Pharmaceutical Preparations|phsu|||drug||||802|53|56
+SE|00000000|DISCUSSION|tx|92|entity|C0521115|Simultaneous|tmco|||concomitant||||888|67|77
+SE|00000000|DISCUSSION|tx|92|entity|C0042153|utilization qualifier|ftcn|||use||||888|79|81
+SE|00000000|DISCUSSION|tx|92|entity|C0018549|Halothane|orch,phsu|||halothane||||1000|88|96
+SE|00000000|DISCUSSION|tx|92|entity|C1517331|Further|spco|||further||||1000|127|133
+SE|00000000|DISCUSSION|tx|92|entity|C2926735|Duration|phsu|||duration||||1000|139|146
+SE|00000000|DISCUSSION|tx|92|entity|C3266814|Action|acty|||action||||1000|155|160
+SE|00000000|DISCUSSION|tx|92|entity|C0927232|Neuraxis|bdsy|||central nervous system||||1000|169|190
+SE|00000000|DISCUSSION|tx|92|relation|0|0|C0022614|Ketamine|orch,phsu|orch|||ketamine||||1000|22|29|SPEC|ISA||22|56|0|0|C0013227|Pharmaceutical Preparations|phsu|phsu|||drug||||802|53|56
+
+SE|00000000|DISCUSSION|tx|93|text|Endothelium-intact aortic rings from high-estradiol rats were supersensitive to noradrenaline when compared to vehicle-, progesterone- and progesterone + high-estradiol-treated rats (pD2 values = 7.77+/-0.12, 7.21+/-0.13, 6.93+/-0.04 and 7.22+/-0.18, respectively).
+SE|00000000|DISCUSSION|tx|93|entity|C0014257|Endothelium|tisu|||Endothelium||||852|1|11
+SE|00000000|DISCUSSION|tx|93|entity|C0205266|Intact|qlco|||intact||||852|13|18
+SE|00000000|DISCUSSION|tx|93|entity|C0225957|Structure of anulus fibrosus of aorta|bpoc|||aortic rings||||852|20|31
+SE|00000000|DISCUSSION|tx|93|entity|C0860851|estradiol high|fndg|||high-estradiol||||901|38|51
+SE|00000000|DISCUSSION|tx|93|entity|C0034693|Rattus norvegicus|mamm|||rats||||901|53|56
+SE|00000000|DISCUSSION|tx|93|entity|C0028351|Norepinephrine|nsba,orch,phsu|||noradrenaline||||1000|81|93
+SE|00000000|DISCUSSION|tx|93|entity|C0033308|Progesterone|horm,phsu,strd|||progesterone||||1000|122|133
+SE|00000000|DISCUSSION|tx|93|entity|C0033308|Progesterone|horm,phsu,strd|||progesterone||||840|140|151
+SE|00000000|DISCUSSION|tx|93|entity|C0860851|estradiol high|fndg|||high-estradiol||||840|155|168
+SE|00000000|DISCUSSION|tx|93|entity|C1522326|Treating|ftcn|||treated||||840|170|176
+SE|00000000|DISCUSSION|tx|93|entity|C0034693|Rattus norvegicus|mamm|||rats||||840|178|181
+SE|00000000|DISCUSSION|tx|93|entity|C1826536|PAF1 gene|gngm|54623|PAF1|pD2||||888|184|186
+SE|00000000|DISCUSSION|tx|93|entity|C0042295|Values|qlco|||values||||888|188|193
+
+SE|00000000|DISCUSSION|tx|94|text|The serum estrogen concentrations of estradiol + endotoxin-treated rats decreased by 50%, while those of the endotoxin-treated rats increased (2- to 5-fold).
+SE|00000000|DISCUSSION|tx|94|entity|C0857965|serum estrogen|lbpr|||serum estrogen||||901|5|18
+SE|00000000|DISCUSSION|tx|94|entity|C0086045|Mental concentration|menp|||concentrations||||901|20|33
+SE|00000000|DISCUSSION|tx|94|entity|C0014912|Estradiol|horm,phsu,strd|||estradiol||||833|38|46
+SE|00000000|DISCUSSION|tx|94|entity|C0014264|Endotoxins|carb,hops,lipd|||endotoxin||||833|50|58
+SE|00000000|DISCUSSION|tx|94|entity|C1522326|Treating|ftcn|||treated||||833|60|66
+SE|00000000|DISCUSSION|tx|94|entity|C0034693|Rattus norvegicus|mamm|||rats||||833|68|71
+SE|00000000|DISCUSSION|tx|94|entity|C0014264|Endotoxins|carb,hops,lipd|||endotoxin||||851|110|118
+SE|00000000|DISCUSSION|tx|94|entity|C1522326|Treating|ftcn|||treated||||851|120|126
+SE|00000000|DISCUSSION|tx|94|entity|C0034693|Rattus norvegicus|mamm|||rats||||851|128|131
+SE|00000000|DISCUSSION|tx|94|entity|C0332462|Folded structure|spco|||fold||||888|152|155
+
+SE|00000000|DISCUSSION|tx|95|text|Pharmacokinetic interaction between single oral doses of diltiazem and sirolimus in healthy volunteers.
+SE|00000000|DISCUSSION|tx|95|entity|C1704675|Interaction|ftcn|||interaction||||861|17|27
+SE|00000000|DISCUSSION|tx|95|entity|C0205171|Singular|qnco|||single||||851|37|42
+SE|00000000|DISCUSSION|tx|95|entity|C0442027|Oral|spco|||oral||||851|44|47
+SE|00000000|DISCUSSION|tx|95|entity|C0178602|Dosage|qnco|||doses||||851|49|53
+SE|00000000|DISCUSSION|tx|95|entity|C0012373|Diltiazem|orch,phsu|||diltiazem||||1000|58|66
+SE|00000000|DISCUSSION|tx|95|entity|C0072980|Sirolimus|antb,orch|||sirolimus||||1000|72|80
+SE|00000000|DISCUSSION|tx|95|entity|C1708335|Healthy Subject|qlco|||healthy volunteers||||983|85|102
+
+SE|00000000|DISCUSSION|tx|96|text|In vitro interaction of prostaglandin F2alpha and oxytocin in placental vessels.
+SE|00000000|DISCUSSION|tx|96|entity|C1704675|Interaction|ftcn|||interaction||||861|10|20
+SE|00000000|DISCUSSION|tx|96|entity|C0012471|Dinoprost|eico,horm,phsu|||prostaglandin F2alpha||||1000|25|45
+SE|00000000|DISCUSSION|tx|96|entity|C0030095|Oxytocin|aapp,horm,phsu|||oxytocin||||1000|51|58
+SE|00000000|DISCUSSION|tx|96|entity|C0459710|Placental vessel|bpoc|||placental vessels||||983|63|79
+SE|00000000|DISCUSSION|tx|96|relation|1|1|C0459710|Placental vessel|bpoc|bpoc|||placental vessels||||983|63|79|PREP|LOCATION_OF||60|61|3|1|C0030095|Oxytocin|aapp,gngm,horm,phsu|aapp|||oxytocin||||1000|51|58
+SE|00000000|DISCUSSION|tx|96|relation|1|1|C0459710|Placental vessel|bpoc|bpoc|||placental vessels||||983|63|79|PREP|LOCATION_OF||60|61|3|1|C0012471|Dinoprost|eico,horm,phsu|eico|||prostaglandin F2alpha||||1000|25|45
+
+SE|00000000|DISCUSSION|tx|97|text|Amprenavir significantly increased the area under the curve at steady state (AUC(ss)) of rifabutin by 2.93-fold and the AUC(ss) of 25-O-desacetylrifabutin by 13.3-fold.
+SE|00000000|DISCUSSION|tx|97|entity|C0754188|Amprenavir|orch,phsu|||Amprenavir||||861|1|10
+SE|00000000|DISCUSSION|tx|97|entity|C0205146|Area|spco|||area||||1000|40|43
+SE|00000000|DISCUSSION|tx|97|entity|C0205134|Curved|spco|||curve||||1000|55|59
+SE|00000000|DISCUSSION|tx|97|entity|C0678587|steady state|npop|||steady state||||1000|64|75
+SE|00000000|DISCUSSION|tx|97|entity|C0376690|Area Under Curve|qnco|||AUC||||1000|78|80
+SE|00000000|DISCUSSION|tx|97|entity|C0140575|Rifabutin|antb,orch|||rifabutin||||1000|90|98
+SE|00000000|DISCUSSION|tx|97|entity|C0332462|Folded structure|spco|||fold||||802|108|111
+SE|00000000|DISCUSSION|tx|97|entity|C0376690|Area Under Curve|qnco|||AUC||||1000|121|123
+SE|00000000|DISCUSSION|tx|97|entity|C0663716|25-desacetylrifabutin|orch,phsu|||25-O-desacetylrifabutin||||913|132|154
+SE|00000000|DISCUSSION|tx|97|entity|C0332462|Folded structure|spco|||fold||||827|164|167
+
+SE|00000000|DISCUSSION|tx|98|text|Additional iron significantly inhibited the absorption of cobalt in both dietary cobalt treatments.
+SE|00000000|DISCUSSION|tx|98|entity|C1524062|Additional|ftcn|||Additional||||790|1|10
+SE|00000000|DISCUSSION|tx|98|entity|C0302583|Iron|bacs,elii,phsu|||iron||||790|12|15
+SE|00000000|DISCUSSION|tx|98|entity|C0009148|Cobalt|elii|||cobalt||||1000|59|64
+SE|00000000|DISCUSSION|tx|98|entity|C2348262|Dietary Cobalt|elii|||dietary cobalt||||901|74|87
+SE|00000000|DISCUSSION|tx|98|entity|C0087111|Therapeutic procedure|topp|||treatments||||901|89|98
+
+SE|00000000|DISCUSSION|tx|99|text|Interaction of clindamycin and gentamicin in vitro.
+SE|00000000|DISCUSSION|tx|99|entity|C1704675|Interaction|ftcn|||Interaction||||1000|1|11
+SE|00000000|DISCUSSION|tx|99|entity|C0008947|Clindamycin|antb,carb|||clindamycin||||1000|16|26
+SE|00000000|DISCUSSION|tx|99|entity|C0017436|Gentamicins|antb,carb|||gentamicin||||1000|32|41
+
+SE|00000000|DISCUSSION|tx|100|text|The results raise the possibility that the ethanolysis reaction may occur in the stomach of people who consume alcohol and 3-hydroxy-1,4-benzodiazepine on a regular basis.
+SE|00000000|DISCUSSION|tx|100|entity|C1274040|Result|ftcn|||results||||1000|5|11
+SE|00000000|DISCUSSION|tx|100|entity|C0443286|Reaction|ftcn|||reaction||||861|56|63
+SE|00000000|DISCUSSION|tx|100|entity|C0038351|Stomach|bpoc|||stomach||||1000|82|88
+SE|00000000|DISCUSSION|tx|100|entity|C0027361|Persons|popg|||people||||1000|93|98
+SE|00000000|DISCUSSION|tx|100|entity|C0001975|Alcohols|orch,phsu|||alcohol||||1000|112|118
+SE|00000000|DISCUSSION|tx|100|entity|C0700307|hydroxyl group|inch|||hydroxy||||827|126|132
+SE|00000000|DISCUSSION|tx|100|entity|C0005064|Benzodiazepines|orch,phsu|||benzodiazepine||||888|138|151
+SE|00000000|DISCUSSION|tx|100|entity|C0205272|Regular|qlco|||regular||||888|158|164
+SE|00000000|DISCUSSION|tx|100|entity|C1874451|Basis|phsu|||basis||||888|166|170
+SE|00000000|DISCUSSION|tx|100|relation|4|1|C0038351|Stomach|bpoc|bpoc|||stomach||||1000|82|88|PREP|PART_OF||90|91|4|1|C0027361|Persons|popg,humn|humn|||people||||1000|93|98
+
+SE|00000000|DISCUSSION|tx|101|text|Similarly, diazepam decreased the antinociceptive effect of metamizol (only in the tail-flick test) and indomethacin.
+SE|00000000|DISCUSSION|tx|101|entity|C0012010|Diazepam|orch,phsu|||diazepam||||1000|12|19
+SE|00000000|DISCUSSION|tx|101|entity|C1280500|Effect|qlco|||effect||||861|51|56
+SE|00000000|DISCUSSION|tx|101|entity|C0012586|Dipyrone|orch,phsu|||metamizol||||1000|61|69
+SE|00000000|DISCUSSION|tx|101|entity|C0205171|Singular|qnco|||only||||1000|72|75
+SE|00000000|DISCUSSION|tx|101|entity|C0039259|Tail|bpoc|||tail-||||802|84|88
+SE|00000000|DISCUSSION|tx|101|entity|C0022885|Laboratory Procedures|lbpr|||test||||802|95|98
+SE|00000000|DISCUSSION|tx|101|entity|C0021246|Indomethacin|orch,phsu|||indomethacin||||1000|105|116
+SE|00000000|DISCUSSION|tx|101|relation|1|1|C0012010|Diazepam|orch,phsu|orch|||diazepam||||1000|12|19|NOM|INTERACTS_WITH||51|56|3|1|C0012586|Dipyrone|orch,phsu|orch|||metamizol||||1000|61|69
+
+SE|00000000|DISCUSSION|tx|102|text|In both species, (-)-NANM, but not (+)-NANM, antagonized the rate-decreasing effects of morphine on FI and FR responding.
+SE|00000000|DISCUSSION|tx|102|entity|C1705920|Species|cnce|||species||||1000|9|15
+SE|00000000|DISCUSSION|tx|102|entity|C1518422|Negation|ftcn|||not||||1000|32|34
+SE|00000000|DISCUSSION|tx|102|entity|C1521828|Rate|qnco|||rate||||851|62|65
+SE|00000000|DISCUSSION|tx|102|entity|C0442797|Decreasing|qlco|||decreasing||||851|67|76
+SE|00000000|DISCUSSION|tx|102|entity|C1280500|Effect|qlco|||effects||||851|78|84
+SE|00000000|DISCUSSION|tx|102|entity|C0026549|Morphine|orch,phsu|||morphine||||1000|89|96
+
+SE|00000000|DISCUSSION|tx|103|text|This study demonstrated that the potent cytochrome P450 enzyme-inducer phenytoin did indeed have a marked effect on the metabolism of quetiapine, resulting in a 5-fold increase in clearance when administered concomitantly to patients with DSM-IV-diagnosed schizophrenia, schizoaffective disorder, or bipolar disorder.
+SE|00000000|DISCUSSION|tx|103|entity|C2603343|Study|resa|||study||||1000|6|10
+SE|00000000|DISCUSSION|tx|103|entity|C3245505|Potential|qlco|||potent||||805|34|39
+SE|00000000|DISCUSSION|tx|103|entity|C0010762|Cytochrome P450|aapp,enzy|1555|CYP2B6|cytochrome P450 enzyme||||805|41|62
+SE|00000000|DISCUSSION|tx|103|entity|C0031507|Phenytoin|orch,phsu|||phenytoin||||805|72|80
+SE|00000000|DISCUSSION|tx|103|entity|C0522501|Massive|qlco|||marked||||888|100|105
+SE|00000000|DISCUSSION|tx|103|entity|C1280500|Effect|qlco|||effect||||888|107|112
+SE|00000000|DISCUSSION|tx|103|entity|C0025519|Metabolism|orgf|||metabolism||||1000|121|130
+SE|00000000|DISCUSSION|tx|103|entity|C0123091|quetiapine|orch,phsu|||quetiapine||||1000|135|144
+SE|00000000|DISCUSSION|tx|103|entity|C0332462|Folded structure|spco|||fold||||851|164|167
+SE|00000000|DISCUSSION|tx|103|entity|C0442805|Increase|ftcn|||increase||||851|169|176
+SE|00000000|DISCUSSION|tx|103|entity|C0449297|Clearance|qlco|||clearance||||1000|181|189
+SE|00000000|DISCUSSION|tx|103|entity|C0030705|Patients|podg|||patients||||1000|226|233
+SE|00000000|DISCUSSION|tx|103|entity|C0348016|Intravenous|spco|||IV||||775|244|245
+SE|00000000|DISCUSSION|tx|103|entity|C0011900|Diagnosis|fndg|||diagnosed||||775|247|255
+SE|00000000|DISCUSSION|tx|103|entity|C0036341|Schizophrenia|mobd|||schizophrenia||||775|257|269
+SE|00000000|DISCUSSION|tx|103|entity|C0036337|Schizoaffective Disorder|mobd|||schizoaffective disorder||||1000|272|295
+SE|00000000|DISCUSSION|tx|103|entity|C0005586|Bipolar Disorder|mobd|||bipolar disorder||||1000|301|316
+SE|00000000|DISCUSSION|tx|103|relation|0|0|C0036341|Schizophrenia|mobd|mobd|||schizophrenia||||775|257|269|MOD/HEAD|ISA||247|269|0|0|C0011900|Diagnosis|fndg|fndg|||diagnosed||||775|247|255
+SE|00000000|DISCUSSION|tx|103|relation|0|0|C0036337|Schizoaffective Disorder|mobd|mobd|||schizoaffective disorder||||1000|272|295|SPEC|ISA||257|295|0|0|C0036341|Schizophrenia|mobd|mobd|||schizophrenia||||775|257|269
+SE|00000000|DISCUSSION|tx|103|relation|8|2|C0123091|quetiapine|orch,phsu|orch|||quetiapine||||1000|135|144|NOM|AFFECTS||107|112|8|1|C0025519|Metabolism|orgf|orgf|||metabolism||||1000|121|130
+SE|00000000|DISCUSSION|tx|103|relation|7|6|C0031507|Phenytoin|orch,phsu|orch|||phenytoin||||805|72|80|VERB|ADMINISTERED_TO||196|207|4|1|C0030705|Patients|podg,humn|humn|||patients||||1000|226|233
+SE|00000000|DISCUSSION|tx|103|relation|3|1|C0036341|Schizophrenia|mobd|mobd|||schizophrenia||||775|257|269|PREP|PROCESS_OF||235|238|8|1|C0030705|Patients|podg,humn|humn|||patients||||1000|226|233
+SE|00000000|DISCUSSION|tx|103|relation|0|0|C0036337|Schizoaffective Disorder|mobd|mobd|||schizoaffective disorder||||1000|272|295|INFER|PROCESS_OF(SPEC)||257|295|0|0|C0030705|Patients|podg,humn|humn|||patients||||1000|226|233
+
+SE|00000000|DISCUSSION|tx|104|text|Verapamil also significantly decreased the incidence of lymphatic invasion of adenocarcinomas, which was enhanced by bombesin.
+SE|00000000|DISCUSSION|tx|104|entity|C0042523|Verapamil|orch,phsu|||Verapamil||||827|1|9
+SE|00000000|DISCUSSION|tx|104|entity|C0021149|Incidence|qnco|||incidence||||1000|44|52
+SE|00000000|DISCUSSION|tx|104|entity|C1708790|Lymphatic Invasion|fndg|||lymphatic invasion||||1000|57|74
+SE|00000000|DISCUSSION|tx|104|entity|C0001418|Adenocarcinoma|neop|||adenocarcinomas||||1000|79|93
+SE|00000000|DISCUSSION|tx|104|entity|C0005919|Bombesin|aapp,horm,nsba|||bombesin||||1000|118|125
+SE|00000000|DISCUSSION|tx|104|relation|0|0|C0042523|Verapamil|orch,phsu|phsu|||Verapamil||||827|1|9|VERB|INHIBITS||30|38|4|2|C1708790|Lymphatic Invasion|fndg|fndg|||lymphatic invasion||||1000|57|74
+SE|00000000|DISCUSSION|tx|104|relation|1|1|C0005919|Bombesin|aapp,gngm,horm,nsba|aapp|||bombesin||||1000|118|125|VERB|STIMULATES||106|113|3|3|C0042523|Verapamil|orch,phsu|orch|||Verapamil||||827|1|9
+
+SE|00000000|DISCUSSION|tx|105|text|Theophylline decreased the binding of acetaminophen by a net change of 6.8% (percentage increase in FDF, 8.8%) at 277.5 micromol/L;
+SE|00000000|DISCUSSION|tx|105|entity|C0039771|Theophylline|bacs,orch,phsu|||Theophylline||||1000|1|12
+SE|00000000|DISCUSSION|tx|105|entity|C0000970|Acetaminophen|orch,phsu|||acetaminophen||||1000|39|51
+SE|00000000|DISCUSSION|tx|105|entity|C1423506|SPINK5 gene|gngm|11005|SPINK5|net||||872|58|60
+SE|00000000|DISCUSSION|tx|105|entity|C0443172|Changed status|qnco|||change||||872|62|67
+SE|00000000|DISCUSSION|tx|105|entity|C0439165|Percent (qualifier value)|qnco|||percentage||||888|78|87
+SE|00000000|DISCUSSION|tx|105|entity|C0442805|Increase|ftcn|||increase||||888|89|96
+SE|00000000|DISCUSSION|tx|105|entity|C1880774|Financial Disclosure Form|mnob|||FDF||||1000|101|103
+SE|00000000|DISCUSSION|tx|105|entity|C0439194|Micromole|qnco|||micromol||||645|121|128
+SE|00000000|DISCUSSION|tx|105|relation|1|1|C0039771|Theophylline|bacs,orch,phsu|bacs|||Theophylline||||1000|1|12|NOM|INTERACTS_WITH||28|34|5|1|C0000970|Acetaminophen|orch,phsu|orch|||acetaminophen||||1000|39|51
+
+SE|00000000|DISCUSSION|tx|106|text|An intravenous injection of perchlorate given later also produces a complete and immediately beginning depletion of pertechnetate already accumulated in the thyroid, within a period of 195 min after 99m-TcO-4-injection with a corresponding increase in blood levels.
+SE|00000000|DISCUSSION|tx|106|entity|C0021494|Intravenous Injections|ftcn|||intravenous injection||||1000|4|24
+SE|00000000|DISCUSSION|tx|106|entity|C0136082|perchlorate|inch|||perchlorate||||1000|29|39
+SE|00000000|DISCUSSION|tx|106|entity|C0205197|Complete|qlco|||complete||||1000|69|76
+SE|00000000|DISCUSSION|tx|106|entity|C0205548|Stat (do immediately)|tmco|||immediately||||1000|82|92
+SE|00000000|DISCUSSION|tx|106|entity|C0333668|Depletion|ftcn|||depletion||||1000|104|112
+SE|00000000|DISCUSSION|tx|106|entity|C0205962|Pertechnetate|inch,phsu|||pertechnetate||||861|117|129
+SE|00000000|DISCUSSION|tx|106|entity|C0439531|per period (qualifier value)|tmco|||period||||1000|176|181
+SE|00000000|DISCUSSION|tx|106|entity|C0702093|/minute|tmco|||min||||861|190|192
+SE|00000000|DISCUSSION|tx|106|entity|C1863925|Nonmedullary thyroid carcinoma, with or without cell oxyphilia|neop|||TcO||||763|204|206
+SE|00000000|DISCUSSION|tx|106|entity|C1533685|Injection procedure|topp|||injection||||763|210|218
+SE|00000000|DISCUSSION|tx|106|entity|C0442805|Increase|ftcn|||increase||||861|241|248
+SE|00000000|DISCUSSION|tx|106|entity|C0005767|Blood|tisu|||blood||||861|253|257
+
+SE|00000000|DISCUSSION|tx|107|text|Synergism was observed when GL was combined with cefazolin against Bacillus subtilis and Klebsiella oxytoca.
+SE|00000000|DISCUSSION|tx|107|entity|C0599739|synergism|moft|||Synergism||||1000|1|9
+SE|00000000|DISCUSSION|tx|107|entity|C0007546|Cefazolin|antb,orch|||cefazolin||||1000|50|58
+SE|00000000|DISCUSSION|tx|107|entity|C0004595|Bacillus subtilis|bact|||Bacillus subtilis||||1000|68|84
+SE|00000000|DISCUSSION|tx|107|entity|C0315260|Klebsiella oxytoca|bact|||Klebsiella oxytoca||||1000|90|107
+
+SE|00000000|DISCUSSION|tx|108|text|The drug interaction between warfarin and rifampin is not well known.
+SE|00000000|DISCUSSION|tx|108|entity|C0687133|Drug Interactions|moft|||drug interaction||||1000|5|20
+SE|00000000|DISCUSSION|tx|108|entity|C0043031|Warfarin|hops,orch,phsu|||warfarin||||1000|30|37
+SE|00000000|DISCUSSION|tx|108|entity|C0035608|Rifampin|antb,orch|||rifampin||||1000|43|50
+SE|00000000|DISCUSSION|tx|108|entity|C1518422|Negation|ftcn|||not||||851|55|57
+SE|00000000|DISCUSSION|tx|108|entity|C0205170|Good|qlco|||well||||851|59|62
+SE|00000000|DISCUSSION|tx|108|entity|C0205309|Known|qlco|||known||||851|64|68
+
+SE|00000000|DISCUSSION|tx|109|text|Azithromycin had no significant impact on the Cmax and AUC of zidovudine, although it significantly decreased the zidovudine tmax by 44% and increased the intracellular exposure to phosphorylated zidovudine by 110%.
+SE|00000000|DISCUSSION|tx|109|entity|C0052796|Azithromycin|antb,orch|||Azithromycin||||1000|1|12
+SE|00000000|DISCUSSION|tx|109|entity|C0237881|Statistical Significance|qnco|||significant||||888|21|31
+SE|00000000|DISCUSSION|tx|109|entity|C1825598|IMPACT gene|gngm|55364|IMPACT|impact||||888|33|38
+SE|00000000|DISCUSSION|tx|109|entity|C2347813|Cmax|qnco|||Cmax||||1000|47|50
+SE|00000000|DISCUSSION|tx|109|entity|C0376690|Area Under Curve|qnco|||AUC||||1000|56|58
+SE|00000000|DISCUSSION|tx|109|entity|C0043474|Zidovudine|nnon,phsu|||zidovudine||||1000|63|72
+SE|00000000|DISCUSSION|tx|109|entity|C0043474|Zidovudine|nnon,phsu|||zidovudine||||888|115|124
+SE|00000000|DISCUSSION|tx|109|entity|C2348796|Tmax|qnco|||tmax||||888|126|129
+SE|00000000|DISCUSSION|tx|109|entity|C0178719|Intracellular|spco|||intracellular||||694|156|168
+SE|00000000|DISCUSSION|tx|109|entity|C0043474|Zidovudine|nnon,phsu|||zidovudine||||861|197|206
+
+SE|00000000|DISCUSSION|tx|110|text|Pretreatment of megakaryocytes with extracellular RR (50 microM) also inhibited InsP(3)-induced responses.
+SE|00000000|DISCUSSION|tx|110|entity|C1550147|Pretreatment|sbst|||Pretreatment||||1000|1|12
+SE|00000000|DISCUSSION|tx|110|entity|C0025166|Megakaryocytes|cell|||megakaryocytes||||1000|17|30
+SE|00000000|DISCUSSION|tx|110|entity|C0521119|Extracellular|celc|||extracellular||||694|37|49
+SE|00000000|DISCUSSION|tx|110|entity|C0205263|Induce (action)|ftcn|||induced||||750|89|95
+SE|00000000|DISCUSSION|tx|110|entity|C0871261|Response process|orga|||responses||||750|97|105
+
+SE|00000000|DISCUSSION|tx|111|text|Interaction between glycine and glutamate in the development of spontaneous motility in chick embryos.
+SE|00000000|DISCUSSION|tx|111|entity|C1704675|Interaction|ftcn|||Interaction||||1000|1|11
+SE|00000000|DISCUSSION|tx|111|entity|C0017890|Glycine|aapp,bacs,phsu|||glycine||||1000|21|27
+SE|00000000|DISCUSSION|tx|111|entity|C0220839|Glutamate|aapp,bacs|||glutamate||||1000|33|41
+SE|00000000|DISCUSSION|tx|111|entity|C1527148|Development|ftcn|||development||||1000|50|60
+SE|00000000|DISCUSSION|tx|111|entity|C0205359|Spontaneous|ftcn|||spontaneous||||888|65|75
+SE|00000000|DISCUSSION|tx|111|entity|C1510470|Motility|orgf|||motility||||888|77|84
+SE|00000000|DISCUSSION|tx|111|entity|C0008046|Chick Embryo|emst|||chick embryos||||1000|89|101
+SE|00000000|DISCUSSION|tx|111|relation|1|1|C0008046|Chick Embryo|emst|emst|||chick embryos||||1000|89|101|PREP|LOCATION_OF||86|87|5|3|C0220839|Glutamate|aapp,gngm,bacs|aapp|||glutamate||||1000|33|41
+SE|00000000|DISCUSSION|tx|111|relation|1|1|C0008046|Chick Embryo|emst|emst|||chick embryos||||1000|89|101|PREP|LOCATION_OF||86|87|5|3|C0017890|Glycine|aapp,gngm,bacs,phsu|aapp|||glycine||||1000|21|27
+
+SE|00000000|DISCUSSION|tx|112|text|Median gastric pH was significantly higher when indinavir was taken after didanosine administration;
+SE|00000000|DISCUSSION|tx|112|entity|C0549183|Midline (qualifier value)|spco|||Median||||901|1|6
+SE|00000000|DISCUSSION|tx|112|entity|C1168023|Gastric pH|diap|||gastric pH||||901|8|17
+SE|00000000|DISCUSSION|tx|112|entity|C0205250|High|qlco|||higher||||827|37|42
+SE|00000000|DISCUSSION|tx|112|entity|C0376637|Indinavir|orch,phsu|||indinavir||||1000|49|57
+SE|00000000|DISCUSSION|tx|112|entity|C0012133|Didanosine|nnon,phsu|||didanosine||||888|75|84
+
+SE|00000000|DISCUSSION|tx|113|text|Prior administration of 4-methylpyrazole (90 mg kg(-1) body weight) was shown to prevent the conversion of 1,3-difluoro-2-propanol (100 mg kg(-1) body weight) to (-)-erythro-fluorocitrate in vivo and to eliminate the fluoride and citrate elevations seen in 1,3-difluoro-2-propanol-intoxicated animals.
+SE|00000000|DISCUSSION|tx|113|entity|C0332152|Before|tmco|||Prior||||888|1|5
+SE|00000000|DISCUSSION|tx|113|entity|C0048504|fomepizole|orch,phsu|||4-methylpyrazole||||1000|25|40
+SE|00000000|DISCUSSION|tx|113|entity|C0439272|ug/g|qnco|||mg kg||||901|46|50
+SE|00000000|DISCUSSION|tx|113|entity|C0005910|Body Weight|orga|||body weight||||1000|56|66
+SE|00000000|DISCUSSION|tx|113|entity|C0439836|Conversions|ftcn|||conversion||||1000|94|103
+SE|00000000|DISCUSSION|tx|113|entity|C0670480|1,3-difluoro-2-propanol|orch|||difluoro-2-propanol||||923|112|130
+SE|00000000|DISCUSSION|tx|113|entity|C0439272|ug/g|qnco|||mg kg||||901|137|141
+SE|00000000|DISCUSSION|tx|113|entity|C0005910|Body Weight|orga|||body weight||||1000|147|157
+SE|00000000|DISCUSSION|tx|113|entity|C0699343|erythro|antb,carb|||erythro||||888|167|173
+SE|00000000|DISCUSSION|tx|113|entity|C0060559|fluorocitrate|irda,orch|||fluorocitrate||||888|175|187
+SE|00000000|DISCUSSION|tx|113|entity|C0016327|Fluorides|inch,phsu|||fluoride||||1000|218|225
+SE|00000000|DISCUSSION|tx|113|entity|C0008857|Citrates|orch|||citrate||||888|231|237
+SE|00000000|DISCUSSION|tx|113|entity|C0702240|Elevation|spco|||elevations||||888|239|248
+SE|00000000|DISCUSSION|tx|113|entity|C0670480|1,3-difluoro-2-propanol|orch|||difluoro-2-propanol||||817|262|280
+SE|00000000|DISCUSSION|tx|113|entity|C0003062|Animals|anim|||animals||||817|294|300
+
+SE|00000000|DISCUSSION|tx|114|text|Acetaminophen diminished the binding of theophylline to human serum by a net change of 5.7% (percentage increase in free drug fraction [FDF], 11.0%) at 662 micromol/L and by a net change of 7.1% (percentage increase in FDF, 13.7%) at 1324 micromol/L.
+SE|00000000|DISCUSSION|tx|114|entity|C0000970|Acetaminophen|orch,phsu|||Acetaminophen||||1000|1|13
+SE|00000000|DISCUSSION|tx|114|entity|C0039771|Theophylline|bacs,orch,phsu|||theophylline||||1000|41|52
+SE|00000000|DISCUSSION|tx|114|entity|C0086418|Homo sapiens|humn|||human||||888|57|61
+SE|00000000|DISCUSSION|tx|114|entity|C0229671|Serum|bdsu|||serum||||888|63|67
+SE|00000000|DISCUSSION|tx|114|entity|C1423506|SPINK5 gene|gngm|11005|SPINK5|net||||872|74|76
+SE|00000000|DISCUSSION|tx|114|entity|C0443172|Changed status|qnco|||change||||872|78|83
+SE|00000000|DISCUSSION|tx|114|entity|C0439084|>5|qnco|||5.7||||861|88|90
+SE|00000000|DISCUSSION|tx|114|entity|C0439165|Percent (qualifier value)|qnco|||percentage||||888|94|103
+SE|00000000|DISCUSSION|tx|114|entity|C0442805|Increase|ftcn|||increase||||888|105|112
+SE|00000000|DISCUSSION|tx|114|entity|C0678752|free drug fraction|qnco|||free drug fraction||||1000|117|134
+SE|00000000|DISCUSSION|tx|114|entity|C1880774|Financial Disclosure Form|mnob|||FDF||||1000|137|139
+SE|00000000|DISCUSSION|tx|114|entity|C0439194|Micromole|qnco|||micromol||||660|157|164
+SE|00000000|DISCUSSION|tx|114|entity|C1423506|SPINK5 gene|gngm|11005|SPINK5|net||||872|177|179
+SE|00000000|DISCUSSION|tx|114|entity|C0443172|Changed status|qnco|||change||||872|181|186
+SE|00000000|DISCUSSION|tx|114|entity|C0439165|Percent (qualifier value)|qnco|||percentage||||888|197|206
+SE|00000000|DISCUSSION|tx|114|entity|C0442805|Increase|ftcn|||increase||||888|208|215
+SE|00000000|DISCUSSION|tx|114|entity|C1880774|Financial Disclosure Form|mnob|||FDF||||1000|220|222
+SE|00000000|DISCUSSION|tx|114|entity|C0439194|Micromole|qnco|||micromol||||660|240|247
+
+SE|00000000|DISCUSSION|tx|115|text|Coingestion of acetaminophen with theophylline, phenobarbital with acetaminophen, and valproic acid with phenobarbital at high to toxic concentrations decreases the binding of the target drug.
+SE|00000000|DISCUSSION|tx|115|entity|C0000970|Acetaminophen|orch,phsu|||acetaminophen||||1000|16|28
+SE|00000000|DISCUSSION|tx|115|entity|C0039771|Theophylline|bacs,orch,phsu|||theophylline||||1000|35|46
+SE|00000000|DISCUSSION|tx|115|entity|C0031412|Phenobarbital|orch,phsu|||phenobarbital||||1000|49|61
+SE|00000000|DISCUSSION|tx|115|entity|C0000970|Acetaminophen|orch,phsu|||acetaminophen||||1000|68|80
+SE|00000000|DISCUSSION|tx|115|entity|C0042291|Valproic Acid|orch,phsu|||valproic acid||||1000|87|99
+SE|00000000|DISCUSSION|tx|115|entity|C0031412|Phenobarbital|orch,phsu|||phenobarbital||||1000|106|118
+SE|00000000|DISCUSSION|tx|115|entity|C0205250|High|qlco|||high||||1000|123|126
+SE|00000000|DISCUSSION|tx|115|entity|C1407029|Toxic|qlco|||toxic||||888|131|135
+SE|00000000|DISCUSSION|tx|115|entity|C0086045|Mental concentration|menp|||concentrations||||888|137|150
+SE|00000000|DISCUSSION|tx|115|entity|C0085104|Drug Delivery Systems|medd|||target drug||||1000|181|191
+
+SE|00000000|DISCUSSION|tx|116|text|It was shown that neurotensin antagonized evidently the antinociceptive effect of enkephalins and their analogue.
+SE|00000000|DISCUSSION|tx|116|entity|C0027930|Neurotensin|aapp,horm,nsba|||neurotensin||||1000|19|29
+SE|00000000|DISCUSSION|tx|116|entity|C1280500|Effect|qlco|||effect||||861|73|78
+SE|00000000|DISCUSSION|tx|116|entity|C0014298|Enkephalins|aapp,nsba|||enkephalins||||1000|83|93
+SE|00000000|DISCUSSION|tx|116|entity|C0243071|Analog|chvs|||analogue||||1000|105|112
+
+SE|00000000|DISCUSSION|tx|117|text|Cytochalasin D at 10 microM preferentially blocked the secretory effect of carbachol and its synergism with cAMP, whereas it had no effect on histamine- or cAMP-stimulated acid secretion within 15 min.
+SE|00000000|DISCUSSION|tx|117|entity|C0010738|Cytochalasin D|bacs,orch|||Cytochalasin D||||1000|1|14
+SE|00000000|DISCUSSION|tx|117|entity|C1327616|Cell secretion|celf|||secretory||||888|56|64
+SE|00000000|DISCUSSION|tx|117|entity|C1280500|Effect|qlco|||effect||||888|66|71
+SE|00000000|DISCUSSION|tx|117|entity|C0006945|Carbachol|orch,phsu|||carbachol||||1000|76|84
+SE|00000000|DISCUSSION|tx|117|entity|C0599739|synergism|moft|||synergism||||1000|94|102
+SE|00000000|DISCUSSION|tx|117|entity|C0050063|8-chloro-cyclic adenosine monophosphate|nnon,phsu|||cAMP||||1000|109|112
+SE|00000000|DISCUSSION|tx|117|entity|C1280500|Effect|qlco|||effect||||1000|133|138
+SE|00000000|DISCUSSION|tx|117|entity|C0019588|Histamine|nsba,orch|||histamine||||1000|143|151
+SE|00000000|DISCUSSION|tx|117|entity|C0050063|8-chloro-cyclic adenosine monophosphate|nnon,phsu|||cAMP||||857|157|160
+SE|00000000|DISCUSSION|tx|117|entity|C1948023|Stimulation (motivation)|npop|||stimulated||||857|162|171
+SE|00000000|DISCUSSION|tx|117|entity|C1160577|acid secretion|celf|||acid secretion||||857|173|186
+SE|00000000|DISCUSSION|tx|117|entity|C0702093|/minute|tmco|||min||||861|198|200
+SE|00000000|DISCUSSION|tx|117|relation|7|3|C0050063|8-chloro-cyclic adenosine monophosphate|nnon,phsu|nnon|||cAMP||||1000|109|112|NOM|INTERACTS_WITH||66|71|7|1|C0006945|Carbachol|orch,phsu|orch|||carbachol||||1000|76|84
+SE|00000000|DISCUSSION|tx|117|relation|6|6|C0010738|Cytochalasin D|bacs,orch|bacs|||Cytochalasin D||||1000|1|14|NOM|INTERACTS_WITH|negation|133|138|3|1|C0019588|Histamine|nsba,orch|nsba|||histamine||||1000|143|151
+
+SE|00000000|DISCUSSION|tx|118|text|Interaction of gentamycin and atracurium in anaesthetised horses.
+SE|00000000|DISCUSSION|tx|118|entity|C1704675|Interaction|ftcn|||Interaction||||1000|1|11
+SE|00000000|DISCUSSION|tx|118|entity|C0017436|Gentamicins|antb,carb|||gentamycin||||1000|16|25
+SE|00000000|DISCUSSION|tx|118|entity|C0004234|Atracurium|orch,phsu|||atracurium||||1000|31|40
+SE|00000000|DISCUSSION|tx|118|entity|C1720436|Under anesthesia|fndg|||anaesthetised||||888|45|57
+SE|00000000|DISCUSSION|tx|118|entity|C0019944|Equus caballus|mamm|||horses||||888|59|64
+SE|00000000|DISCUSSION|tx|118|relation|3|1|C0004234|Atracurium|orch,phsu|phsu|||atracurium||||1000|31|40|PREP|TREATS||42|43|1|1|C0019944|Equus caballus|mamm|mamm|||horses||||888|59|64
+SE|00000000|DISCUSSION|tx|118|relation|3|1|C0017436|Gentamicins|antb,carb|antb|||gentamycin||||1000|16|25|PREP|TREATS||42|43|1|1|C0019944|Equus caballus|mamm|mamm|||horses||||888|59|64
+
+SE|00000000|DISCUSSION|tx|119|text|It is concluded that neurotensin modulates in an opposite way the function of the enkephalinergic neurons and the central action of tuftsin.
+SE|00000000|DISCUSSION|tx|119|entity|C0027930|Neurotensin|aapp,horm,nsba|||neurotensin||||1000|22|32
+SE|00000000|DISCUSSION|tx|119|entity|C1521805|Opposite|spco|||opposite||||694|50|57
+SE|00000000|DISCUSSION|tx|119|entity|C0542341|Function|ftcn|||function||||1000|67|74
+SE|00000000|DISCUSSION|tx|119|entity|C0027882|Neurons|cell|||neurons||||861|99|105
+SE|00000000|DISCUSSION|tx|119|entity|C1879652|Central Minus|lbpr|||central||||888|115|121
+SE|00000000|DISCUSSION|tx|119|entity|C3266814|Action|acty|||action||||888|123|128
+SE|00000000|DISCUSSION|tx|119|entity|C0041350|Tuftsin|aapp,imft|||tuftsin||||1000|133|139
+
+SE|00000000|DISCUSSION|tx|120|text|Increased hepatotoxicity of acetaminophen by concomitant administration of caffeine in the rat.
+SE|00000000|DISCUSSION|tx|120|entity|C0205217|Increased|qnco|||Increased||||888|1|9
+SE|00000000|DISCUSSION|tx|120|entity|C0235378|Hepatotoxicity|inpo|||hepatotoxicity||||888|11|24
+SE|00000000|DISCUSSION|tx|120|entity|C0000970|Acetaminophen|orch,phsu|||acetaminophen||||1000|29|41
+SE|00000000|DISCUSSION|tx|120|entity|C0521115|Simultaneous|tmco|||concomitant||||888|46|56
+SE|00000000|DISCUSSION|tx|120|entity|C0006644|Caffeine|orch,phsu|||caffeine||||1000|76|83
+SE|00000000|DISCUSSION|tx|120|entity|C0034693|Rattus norvegicus|mamm|||rat||||1000|92|94
+SE|00000000|DISCUSSION|tx|120|relation|4|1|C0006644|Caffeine|orch,phsu|phsu|||caffeine||||1000|76|83|PREP|TREATS||85|86|1|1|C0034693|Rattus norvegicus|mamm|mamm|||rat||||1000|92|94
+
+SE|00000000|RESULTS|tx|121|text|RESULTS: During treatment with fluvoxamine, there was a statistically significant decrease in the median of the total clearance of tolbutamide, from 845 mL/h to 688 mL/h, among the volunteers who received 75 mg/d.
+SE|00000000|RESULTS|tx|121|entity|C1274040|Result|ftcn|||RESULTS||||1000|1|7
+SE|00000000|RESULTS|tx|121|entity|C0087111|Therapeutic procedure|topp|||treatment||||1000|17|25
+SE|00000000|RESULTS|tx|121|entity|C0085228|Fluvoxamine|orch,phsu|||fluvoxamine||||1000|32|42
+SE|00000000|RESULTS|tx|121|entity|C0237881|Statistical Significance|qnco|||statistically significant||||901|57|81
+SE|00000000|RESULTS|tx|121|entity|C0547047|Decrease|qnco|||decrease||||901|83|90
+SE|00000000|RESULTS|tx|121|entity|C0549183|Midline (qualifier value)|spco|||median||||1000|99|104
+SE|00000000|RESULTS|tx|121|entity|C0439175|% of total|qnco|||total||||888|113|117
+SE|00000000|RESULTS|tx|121|entity|C0449297|Clearance|qlco|||clearance||||888|119|127
+SE|00000000|RESULTS|tx|121|entity|C0040374|Tolbutamide|orch,phsu|||tolbutamide||||1000|132|142
+SE|00000000|RESULTS|tx|121|entity|C0439391|mL/h|qnco|||mL/h||||901|154|157
+SE|00000000|RESULTS|tx|121|entity|C0439391|mL/h|qnco|||mL/h||||901|166|169
+SE|00000000|RESULTS|tx|121|entity|C0042960|Voluntary Workers|prog|||volunteers||||1000|182|191
+SE|00000000|RESULTS|tx|121|entity|C0439423|Milligram per 24 Hours|qnco|||mg/d||||901|209|212
+SE|00000000|RESULTS|tx|121|relation|2|1|C0087111|Therapeutic procedure|topp|topp|||treatment||||1000|17|25|PREP|USES||27|30|9|1|C0085228|Fluvoxamine|orch,phsu|phsu|||fluvoxamine||||1000|32|42
+
+SE|00000000|RESULTS|tx|122|text|There is thus an enhancement effect of PGF2alpha upon the reaction of placental vessels to oxytocin in vitro.
+SE|00000000|RESULTS|tx|122|entity|C2349975|Enhance (action)|acty|||enhancement||||888|18|28
+SE|00000000|RESULTS|tx|122|entity|C1280500|Effect|qlco|||effect||||888|30|35
+SE|00000000|RESULTS|tx|122|entity|C0012471|Dinoprost|eico,horm,phsu|||PGF2alpha||||1000|40|48
+SE|00000000|RESULTS|tx|122|entity|C0443286|Reaction|ftcn|||reaction||||1000|59|66
+SE|00000000|RESULTS|tx|122|entity|C0459710|Placental vessel|bpoc|||placental vessels||||983|71|87
+SE|00000000|RESULTS|tx|122|entity|C0030095|Oxytocin|aapp,horm,phsu|||oxytocin||||1000|92|99
+
+SE|00000000|RESULTS|tx|123|text|Recovery from 50% twitch to 75% fade recovery took 13.8 +/- 0.8 min for atracurium alone and 13.7 +/- 1.2 min for atracurium plus gentamycin.
+SE|00000000|RESULTS|tx|123|entity|C0702093|/minute|tmco|||min||||804|65|67
+SE|00000000|RESULTS|tx|123|entity|C0004234|Atracurium|orch,phsu|||atracurium||||1000|73|82
+SE|00000000|RESULTS|tx|123|entity|C0205171|Singular|qnco|||alone||||1000|84|88
+SE|00000000|RESULTS|tx|123|entity|C0702093|/minute|tmco|||min||||804|107|109
+SE|00000000|RESULTS|tx|123|entity|C0004234|Atracurium|orch,phsu|||atracurium||||802|115|124
+SE|00000000|RESULTS|tx|123|entity|C0017436|Gentamicins|antb,carb|||gentamycin||||802|131|140
+
+SE|00000000|RESULTS|tx|124|text|This study demonstrates that concurrent administration of thiosulfate permits at least a twofold increase in dose and total exposure to cisplatin.
+SE|00000000|RESULTS|tx|124|entity|C2603343|Study|resa|||study||||1000|6|10
+SE|00000000|RESULTS|tx|124|entity|C0205420|Concurrent|tmco|||concurrent||||888|30|39
+SE|00000000|RESULTS|tx|124|entity|C0039950|Thiosulfates|inch|||thiosulfate||||1000|59|69
+SE|00000000|RESULTS|tx|124|entity|C0547044|Smaller|qlco|||least||||966|82|86
+SE|00000000|RESULTS|tx|124|entity|C0442805|Increase|ftcn|||increase||||861|98|105
+SE|00000000|RESULTS|tx|124|entity|C0178602|Dosage|qnco|||dose||||1000|110|113
+SE|00000000|RESULTS|tx|124|entity|C0439810|Total|qlco|||total||||694|119|123
+SE|00000000|RESULTS|tx|124|entity|C0008838|Cisplatin|inch,phsu|||cisplatin||||1000|137|145
+
+SE|00000000|RESULTS|tx|125|text|Studies in rats have shown that neomycin administration attenuates certain types of adrenocortical steroid dependent hypertension, including ACTH hypertension.
+SE|00000000|RESULTS|tx|125|entity|C0034693|Rattus norvegicus|mamm|||rats||||1000|12|15
+SE|00000000|RESULTS|tx|125|entity|C0027603|Neomycin|antb,carb|||neomycin||||888|33|40
+SE|00000000|RESULTS|tx|125|entity|C1704787|Definitely Related to Intervention|qlco|||certain||||888|68|74
+SE|00000000|RESULTS|tx|125|entity|C0332307|Type - attribute|qlco|||types||||888|76|80
+SE|00000000|RESULTS|tx|125|entity|C2986474|Adrenocortical|qlco|||adrenocortical||||833|85|98
+SE|00000000|RESULTS|tx|125|entity|C0038317|Steroids|strd|||steroid||||833|100|106
+SE|00000000|RESULTS|tx|125|entity|C3244310|dependent|ftcn|||dependent||||833|108|116
+SE|00000000|RESULTS|tx|125|entity|C0020538|Hypertensive disease|dsyn|||hypertension||||833|118|129
+SE|00000000|RESULTS|tx|125|entity|||gngm|5443|POMC|ACTH||||861|142|145
+SE|00000000|RESULTS|tx|125|entity|C0020538|Hypertensive disease|dsyn|||hypertension||||861|147|158
+
+SE|00000000|RESULTS|tx|126|text|Because of the pronounced intersubject variability in the extent of the sirolimus-diltiazem interaction, whole blood sirolimus concentrations should be monitored closely in patients treated with the two drugs.
+SE|00000000|RESULTS|tx|126|entity|C2827666|Variability|cnce|||variability||||827|40|50
+SE|00000000|RESULTS|tx|126|entity|C0439792|Extent|spco|||extent||||1000|59|64
+SE|00000000|RESULTS|tx|126|entity|C0072980|Sirolimus|antb,orch|||sirolimus||||851|73|81
+SE|00000000|RESULTS|tx|126|entity|C0012373|Diltiazem|orch,phsu|||diltiazem||||851|83|91
+SE|00000000|RESULTS|tx|126|entity|C1704675|Interaction|ftcn|||interaction||||851|93|103
+SE|00000000|RESULTS|tx|126|entity|C0444667|Whole|qnco|||whole||||861|106|110
+SE|00000000|RESULTS|tx|126|entity|C0072980|Sirolimus|antb,orch|||sirolimus||||861|118|126
+SE|00000000|RESULTS|tx|126|entity|C1313904|Blood concentration test|lbpr|||blood sirolimus concentrations||||861|112|141
+SE|00000000|RESULTS|tx|126|entity|C0030705|Patients|podg|||patients||||1000|174|181
+SE|00000000|RESULTS|tx|126|entity|C0205448|Two|qnco|||two||||888|200|202
+SE|00000000|RESULTS|tx|126|entity|C0013227|Pharmaceutical Preparations|phsu|||drugs||||888|204|208
+SE|00000000|RESULTS|tx|126|relation|1|1|C0013227|Pharmaceutical Preparations|phsu|phsu|||drugs||||888|204|208|VERB|TREATS||183|189|5|1|C0030705|Patients|podg,humn|podg|||patients||||1000|174|181
+
+SE|00000000|RESULTS|tx|127|text|Suppression by verapamil of bombesin-enhanced peritoneal metastasis of intestinal adenocarcinomas induced by azoxymethane in wistar rats.
+SE|00000000|RESULTS|tx|127|entity|C0439181|% suppression|qnco|||Suppression||||1000|1|11
+SE|00000000|RESULTS|tx|127|entity|C0042523|Verapamil|orch,phsu|||verapamil||||1000|16|24
+SE|00000000|RESULTS|tx|127|entity|C0005919|Bombesin|aapp,horm,nsba|||bombesin||||833|29|36
+SE|00000000|RESULTS|tx|127|entity|C2349975|Enhance (action)|acty|||enhanced||||833|38|45
+SE|00000000|RESULTS|tx|127|entity|C0442034|peritoneal|blor|||peritoneal||||833|47|56
+SE|00000000|RESULTS|tx|127|entity|C2939420|Metastatic Neoplasm|neop|||metastasis||||833|58|67
+SE|00000000|RESULTS|tx|127|entity|C0948209|intestinal adenocarcinoma|neop|||intestinal adenocarcinomas||||983|72|97
+SE|00000000|RESULTS|tx|127|entity|C0004519|Azoxymethane|hops,orch|||azoxymethane||||1000|110|121
+SE|00000000|RESULTS|tx|127|entity|C0034716|Rats, Wistar|mamm|||wistar rats||||1000|126|136
+SE|00000000|RESULTS|tx|127|relation|5|1|C0042523|Verapamil|orch,phsu|orch|||verapamil||||1000|16|24|NOM|DISRUPTS||1|11|5|2|C2939420|Metastatic Neoplasm|neop|neop|||metastasis||||833|58|67
+SE|00000000|RESULTS|tx|127|relation|2|1|C0004519|Azoxymethane|hops,orch|hops|||azoxymethane||||1000|110|121|VERB|CAUSES||99|105|4|1|C0948209|intestinal adenocarcinoma|neop|neop|||intestinal adenocarcinomas||||983|72|97
+SE|00000000|RESULTS|tx|127|relation|5|3|C2939420|Metastatic Neoplasm|neop|neop|||metastasis||||833|58|67|PREP|PROCESS_OF||123|124|1|1|C0034716|Rats, Wistar|mamm|mamm|||wistar rats||||1000|126|136
+
+SE|00000000|RESULTS|tx|128|text|Vitamin D3 administration to rachitic chicks was effective in significantly elevating duodenal arsenate absorption, acting primarily to enhance serosal transport.
+SE|00000000|RESULTS|tx|128|entity|C0008318|Cholecalciferol|phsu,strd,vita|||Vitamin D3||||901|1|10
+SE|00000000|RESULTS|tx|128|entity|C0035579|Rickets|dsyn|||rachitic||||638|30|37
+SE|00000000|RESULTS|tx|128|entity|C1704419|Effective|qlco|||effective||||1000|50|58
+SE|00000000|RESULTS|tx|128|entity|C0013303|Duodenum|bpoc|||duodenal||||623|87|94
+SE|00000000|RESULTS|tx|128|entity|C0104238|arsenate|inch|||arsenate||||623|96|103
+SE|00000000|RESULTS|tx|128|entity|C0521344|Serosal|blor|||serosal||||694|145|151
+
+SE|00000000|RESULTS|tx|129|text|These alterations in digoxin pharmacokinetics produced by amiodarone explain the increase in serum digoxin level that has been observed when this drug combination has been used clinically.
+SE|00000000|RESULTS|tx|129|entity|C1515926|Alteration|idcn|||alterations||||966|7|17
+SE|00000000|RESULTS|tx|129|entity|C0012265|Digoxin|carb,phsu,strd|||digoxin||||888|22|28
+SE|00000000|RESULTS|tx|129|entity|C0031328|Pharmacokinetic aspects|ftcn|||pharmacokinetics||||888|30|45
+SE|00000000|RESULTS|tx|129|entity|C0002598|Amiodarone|orch,phsu|||amiodarone||||1000|59|68
+SE|00000000|RESULTS|tx|129|entity|C0442805|Increase|ftcn|||increase||||1000|82|89
+SE|00000000|RESULTS|tx|129|entity|C1306421|Serum digoxin measurement|lbpr|||serum digoxin level||||1000|94|112
+SE|00000000|RESULTS|tx|129|entity|C0013162|Drug Combinations|phsu|||drug combination||||1000|147|162
+SE|00000000|RESULTS|tx|129|relation|5|5|C0013162|Drug Combinations|phsu|phsu|||drug combination||||1000|147|162|NOM|INTERACTS_WITH||7|17|5|1|C0012265|Digoxin|carb,phsu,strd|carb|||digoxin||||888|22|28
+
+SE|00000000|RESULTS|tx|130|text|At 75% recovery of fade, hoof twitch was 87 +/- 3% for atracurium alone and 82 +/- 4% for atracurium plus gentamycin.
+SE|00000000|RESULTS|tx|130|entity|C0019908|Hoof|bpoc|||hoof||||694|26|29
+SE|00000000|RESULTS|tx|130|entity|C0004234|Atracurium|orch,phsu|||atracurium||||1000|56|65
+SE|00000000|RESULTS|tx|130|entity|C0205171|Singular|qnco|||alone||||1000|67|71
+SE|00000000|RESULTS|tx|130|entity|C0004234|Atracurium|orch,phsu|||atracurium||||802|91|100
+SE|00000000|RESULTS|tx|130|entity|C0017436|Gentamicins|antb,carb|||gentamycin||||802|107|116
+
+SE|00000000|RESULTS|tx|131|text|Concurrent administration of indinavir and didanosine significantly reduces the level of exposure to indinavir, but it is unclear how soon after didanosine administration indinavir may be given safely.
+SE|00000000|RESULTS|tx|131|entity|C0205420|Concurrent|tmco|||Concurrent||||888|1|10
+SE|00000000|RESULTS|tx|131|entity|C0376637|Indinavir|orch,phsu|||indinavir||||1000|30|38
+SE|00000000|RESULTS|tx|131|entity|C0012133|Didanosine|nnon,phsu|||didanosine||||861|44|53
+SE|00000000|RESULTS|tx|131|entity|C2946261|Level|phsu|||level||||1000|81|85
+SE|00000000|RESULTS|tx|131|entity|C0376637|Indinavir|orch,phsu|||indinavir||||1000|102|110
+SE|00000000|RESULTS|tx|131|entity|C0012133|Didanosine|nnon,phsu|||didanosine||||851|146|155
+SE|00000000|RESULTS|tx|131|entity|C0376637|Indinavir|orch,phsu|||indinavir||||851|172|180
+SE|00000000|RESULTS|tx|131|relation|3|1|C0012133|Didanosine|nnon,phsu|phsu|||didanosine||||861|44|53|VERB|INHIBITS||69|75|4|1|C2946261|Level|phsu|phsu|||level||||1000|81|85
+SE|00000000|RESULTS|tx|131|relation|3|1|C0376637|Indinavir|orch,phsu|phsu|||indinavir||||1000|30|38|VERB|INHIBITS||69|75|4|1|C2946261|Level|phsu|phsu|||level||||1000|81|85
+
+SE|00000000|RESULTS|tx|132|text|During amiodarone administration, systemic clearance of digoxin was reduced from 234 +/- 72 ml/min (mean +/- standard deviation) to 172 +/- 33 ml/min (p less than 0.01).
+SE|00000000|RESULTS|tx|132|entity|C0002598|Amiodarone|orch,phsu|||amiodarone||||888|8|17
+SE|00000000|RESULTS|tx|132|entity|C0205373|Systemic|ftcn|||systemic||||888|35|42
+SE|00000000|RESULTS|tx|132|entity|C0449297|Clearance|qlco|||clearance||||888|44|52
+SE|00000000|RESULTS|tx|132|entity|C0012265|Digoxin|carb,phsu,strd|||digoxin||||1000|57|63
+SE|00000000|RESULTS|tx|132|entity|C0439445|mL/min|qnco|||ml/min (||||769|93|100
+SE|00000000|RESULTS|tx|132|entity|C0205419|Variant|qlco|||deviation||||769|119|127
+SE|00000000|RESULTS|tx|132|entity|C0439445|mL/min|qnco|||ml/min (||||595|144|151
+
+SE|00000000|RESULTS|tx|133|text|It was observed that MPTP induced long lasting depletions of striatal dopamine concentrations and this neurotoxic effect could be prevented by pargyline pretreatment.
+SE|00000000|RESULTS|tx|133|entity|C0000097|1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|hops,orch|||MPTP||||1000|22|25
+SE|00000000|RESULTS|tx|133|entity|C0205166|Long|qlco|||long||||802|35|38
+SE|00000000|RESULTS|tx|133|entity|C0333668|Depletion|ftcn|||depletions||||802|48|57
+SE|00000000|RESULTS|tx|133|entity|C1269581|Entire corpus striatum|bpoc|||striatal||||828|62|69
+SE|00000000|RESULTS|tx|133|entity|C0013030|Dopamine|nsba,orch,phsu|||dopamine||||828|71|78
+SE|00000000|RESULTS|tx|133|entity|C0086045|Mental concentration|menp|||concentrations||||828|80|93
+SE|00000000|RESULTS|tx|133|entity|C0235032|Neurotoxicity Syndromes|inpo|||neurotoxic effect||||1000|104|120
+SE|00000000|RESULTS|tx|133|entity|C0030557|Pargyline|orch,phsu|||pargyline||||888|144|152
+SE|00000000|RESULTS|tx|133|entity|C1550147|Pretreatment|sbst|||pretreatment||||888|154|165
+SE|00000000|RESULTS|tx|133|relation|0|0|C0013030|Dopamine|nsba,orch,phsu|nsba|||dopamine||||828|71|78|MOD/HEAD|PART_OF||62|78|0|0|C1269581|Entire corpus striatum|bpoc|bpoc|||striatal||||828|62|69
+
+SE|00000000|RESULTS|tx|134|text|Previous studies have demonstrated a significant reduction in the oral bioavailability of trovafloxacin and ciprofloxacin when administered concomitantly with an intravenous opiate such as morphine.
+SE|00000000|RESULTS|tx|134|entity|C0205156|Previous|tmco|||Previous||||888|1|8
+SE|00000000|RESULTS|tx|134|entity|C0237881|Statistical Significance|qnco|||significant||||888|38|48
+SE|00000000|RESULTS|tx|134|entity|C0392756|Reduced|qlco|||reduction||||888|50|58
+SE|00000000|RESULTS|tx|134|entity|C0442027|Oral|spco|||oral||||888|67|70
+SE|00000000|RESULTS|tx|134|entity|C1706947|Bioavailability Study|resa|||bioavailability||||888|72|86
+SE|00000000|RESULTS|tx|134|entity|C0379881|trovafloxacin|antb,orch|||trovafloxacin||||1000|91|103
+SE|00000000|RESULTS|tx|134|entity|C0008809|Ciprofloxacin|orch,phsu|||ciprofloxacin||||1000|109|121
+SE|00000000|RESULTS|tx|134|entity|C0348016|Intravenous|spco|||intravenous||||888|163|173
+SE|00000000|RESULTS|tx|134|entity|C0376196|Opiates|hops,phsu|||opiate||||888|175|180
+SE|00000000|RESULTS|tx|134|entity|C0026549|Morphine|orch,phsu|||morphine||||1000|190|197
+SE|00000000|RESULTS|tx|134|relation|0|0|C0026549|Morphine|orch,phsu|orch|||morphine||||1000|190|197|SPEC|ISA||175|197|0|0|C0376196|Opiates|hops,phsu|hops|||opiate||||888|175|180
+
+SE|00000000|RESULTS|tx|135|text|Interaction on the antinociceptive effect between neurotensin and enkephalins or tuftsin.
+SE|00000000|RESULTS|tx|135|entity|C1704675|Interaction|ftcn|||Interaction||||1000|1|11
+SE|00000000|RESULTS|tx|135|entity|C1280500|Effect|qlco|||effect||||861|36|41
+SE|00000000|RESULTS|tx|135|entity|C0027930|Neurotensin|aapp,horm,nsba|||neurotensin||||1000|51|61
+SE|00000000|RESULTS|tx|135|entity|C0014298|Enkephalins|aapp,nsba|||enkephalins||||1000|67|77
+SE|00000000|RESULTS|tx|135|entity|C0041350|Tuftsin|aapp,imft|||tuftsin||||1000|82|88
+
+SE|00000000|RESULTS|tx|136|text|Coadministration of fluoxetine significantly decreased cisapride plasma concentrations. however, patients with moderate to severe cardiovascular disease or those taking nitrate therapy are at increased risk for potentially serious cardiovascular adverse effects with sildenafil therapy. only ibogaine enhances cocaine-induced increases in accumbal dopamine.
+SE|00000000|RESULTS|tx|136|entity|C0016365|Fluoxetine|orch,phsu|||fluoxetine||||744|21|30
+SE|00000000|RESULTS|tx|136|entity|C0205216|Decreased|qnco|||decreased||||744|46|54
+SE|00000000|RESULTS|tx|136|entity|C0072916|Cisapride|orch,phsu|||cisapride||||744|56|64
+SE|00000000|RESULTS|tx|136|entity|C0683150|plasma drug concentration|qnco|||plasma concentrations||||744|66|86
+SE|00000000|RESULTS|tx|136|entity|C0030705|Patients|podg|||patients||||1000|98|105
+SE|00000000|RESULTS|tx|136|entity|C1881878|Moderation|qlco|||moderate||||1000|112|119
+SE|00000000|RESULTS|tx|136|entity|C1515187|Take|hlca|||taking||||840|163|168
+SE|00000000|RESULTS|tx|136|entity|C0028125|Nitrates|chvs|||nitrate||||840|170|176
+SE|00000000|RESULTS|tx|136|entity|C0205217|Increased|qnco|||increased||||888|193|201
+SE|00000000|RESULTS|tx|136|entity|C0035647|Risk|qlco|||risk||||888|203|206
+SE|00000000|RESULTS|tx|136|entity|C0205404|Serious|qlco|||serious||||790|224|230
+SE|00000000|RESULTS|tx|136|entity|C0879626|Adverse effects|patf|||adverse effects||||790|247|261
+SE|00000000|RESULTS|tx|136|entity|C0529793|sildenafil|orch,phsu|||sildenafil||||775|268|277
+SE|00000000|RESULTS|tx|136|entity|C0020737|Ibogaine|bacs,orch,phsu|||ibogaine||||775|293|300
+SE|00000000|RESULTS|tx|136|entity|C0009170|Cocaine|hops,orch,phsu|||cocaine||||851|311|317
+SE|00000000|RESULTS|tx|136|entity|C0205263|Induce (action)|ftcn|||induced||||851|319|325
+SE|00000000|RESULTS|tx|136|entity|C0442805|Increase|ftcn|||increases||||851|327|335
+SE|00000000|RESULTS|tx|136|entity|C0013030|Dopamine|nsba,orch,phsu|||dopamine||||861|349|356
+SE|00000000|RESULTS|tx|136|relation|4|2|C0020737|Ibogaine|bacs,orch,phsu|bacs|||ibogaine||||775|293|300|NOM|PREDISPOSES||203|206|4|1|C0879626|Adverse effects|patf|patf|||adverse effects||||790|247|261
+
+SE|00000000|RESULTS|tx|137|text|Enhanced theophylline clearance secondary to phenytoin therapy.
+SE|00000000|RESULTS|tx|137|entity|C2349975|Enhance (action)|acty|||Enhanced||||851|1|8
+SE|00000000|RESULTS|tx|137|entity|C0039771|Theophylline|bacs,orch,phsu|||theophylline||||851|10|21
+SE|00000000|RESULTS|tx|137|entity|C0449297|Clearance|qlco|||clearance||||851|23|31
+SE|00000000|RESULTS|tx|137|entity|C0205436|second (number)|qnco|||secondary||||1000|33|41
+SE|00000000|RESULTS|tx|137|entity|C0031507|Phenytoin|orch,phsu|||phenytoin||||888|46|54
+
+SE|00000000|RESULTS|tx|138|text|The antimicrobial combinations of GL with four antibiotics resulted in additive effect in most instances, synergism in two instances, and antagonism in two instances.
+SE|00000000|RESULTS|tx|138|entity|C1136254|Microbicides|phsu|||antimicrobial||||888|5|17
+SE|00000000|RESULTS|tx|138|entity|C0453882|Combinations|mnob|||combinations||||888|19|30
+SE|00000000|RESULTS|tx|138|entity|C0205450|Four|qnco|||four||||888|43|46
+SE|00000000|RESULTS|tx|138|entity|C0003232|Antibiotics|antb|||antibiotics||||888|48|58
+SE|00000000|RESULTS|tx|138|entity|C0442796|Additive|qlco|||additive||||888|72|79
+SE|00000000|RESULTS|tx|138|entity|C1280500|Effect|qlco|||effect||||888|81|86
+SE|00000000|RESULTS|tx|138|entity|C1550608|Instance|idcn|||instances||||966|96|104
+SE|00000000|RESULTS|tx|138|entity|C0599739|synergism|moft|||synergism||||1000|107|115
+SE|00000000|RESULTS|tx|138|entity|C0205448|Two|qnco|||two||||872|120|122
+SE|00000000|RESULTS|tx|138|entity|C1550608|Instance|idcn|||instances||||872|124|132
+SE|00000000|RESULTS|tx|138|entity|C0680242|antagonism|socb|||antagonism||||1000|139|148
+SE|00000000|RESULTS|tx|138|entity|C0205448|Two|qnco|||two||||872|153|155
+SE|00000000|RESULTS|tx|138|entity|C1550608|Instance|idcn|||instances||||872|157|165
+SE|00000000|RESULTS|tx|138|relation|8|2|C0003232|Antibiotics|antb|antb|||antibiotics||||888|48|58|NOM|COEXISTS_WITH||19|30|0|0|C1136254|Microbicides|phsu|phsu|||antimicrobial||||888|5|17
+
+SE|00000000|RESULTS|tx|139|text|In ewes given 40 mg of phenobarbital sodium/kg for 5 days intraperitoneally (IP), the anticholinesterase effect of 4 mg of coumaphos/kg was significantly reduced and signs of toxicity were not present.
+SE|00000000|RESULTS|tx|139|entity|C0699762|ewes|mamm|||ewes||||1000|4|7
+SE|00000000|RESULTS|tx|139|entity|C0282303|Phenobarbital Sodium|orch,phsu|||phenobarbital sodium||||901|24|43
+SE|00000000|RESULTS|tx|139|entity|C1442466|5 Days|tmco|||5 days||||901|52|57
+SE|00000000|RESULTS|tx|139|entity|C0008425|Cholinesterase Inhibitors|orch,phsu|||anticholinesterase||||888|87|104
+SE|00000000|RESULTS|tx|139|entity|C1280500|Effect|qlco|||effect||||888|106|111
+SE|00000000|RESULTS|tx|139|entity|C0010203|Coumaphos|hops,opco,phsu|||coumaphos||||888|124|132
+SE|00000000|RESULTS|tx|139|entity|C0220913|Manufactured sign|mnob|||signs||||1000|167|171
+SE|00000000|RESULTS|tx|139|entity|C0600688|Toxic effect|inpo|||toxicity||||1000|176|183
+SE|00000000|RESULTS|tx|139|entity|C1518422|Negation|ftcn|||not||||1000|190|192
+
+SE|00000000|RESULTS|tx|140|text|This effect may be mediated by the ability of rifampin to induce microsomal enzymes and, thus, the catabolism of warfarin.
+SE|00000000|RESULTS|tx|140|entity|C1280500|Effect|qlco|||effect||||1000|6|11
+SE|00000000|RESULTS|tx|140|entity|C0085732|Ability|orga|||ability||||1000|36|42
+SE|00000000|RESULTS|tx|140|entity|C0035608|Rifampin|antb,orch|||rifampin||||861|47|54
+SE|00000000|RESULTS|tx|140|entity|C0815014|microsomal enzymes|aapp,enzy|||microsomal enzymes||||1000|66|83
+SE|00000000|RESULTS|tx|140|entity|C0699900|Catabolism|orgf|||catabolism||||1000|100|109
+SE|00000000|RESULTS|tx|140|entity|C0043031|Warfarin|hops,orch,phsu|||warfarin||||1000|114|121
+SE|00000000|RESULTS|tx|140|relation|3|1|C0035608|Rifampin|antb,orch|antb|||rifampin||||861|47|54|VERB|STIMULATES||59|64|3|1|C0815014|microsomal enzymes|aapp,gngm,enzy|gngm|||microsomal enzymes||||1000|66|83
+
+SE|00000000|RESULTS|tx|141|text|Recovery of hoof twitch from 50% to 75% took 7.7 +/- 0.7 min for atracurium alone and 11.5 +/- 2.7 min for atracurium plus gentamycin (P = 0.03).
+SE|00000000|RESULTS|tx|141|entity|C0019908|Hoof|bpoc|||hoof||||694|13|16
+SE|00000000|RESULTS|tx|141|entity|C0702093|/minute|tmco|||min||||804|58|60
+SE|00000000|RESULTS|tx|141|entity|C0004234|Atracurium|orch,phsu|||atracurium||||1000|66|75
+SE|00000000|RESULTS|tx|141|entity|C0205171|Singular|qnco|||alone||||1000|77|81
+SE|00000000|RESULTS|tx|141|entity|C0702093|/minute|tmco|||min||||804|100|102
+SE|00000000|RESULTS|tx|141|entity|C0004234|Atracurium|orch,phsu|||atracurium||||802|108|117
+SE|00000000|RESULTS|tx|141|entity|C0017436|Gentamicins|antb,carb|||gentamycin||||802|124|133
+
+SE|00000000|RESULTS|tx|142|text|Withdrawal of rifampin decreased the warfarin requirement by 50%.
+SE|00000000|RESULTS|tx|142|entity|C2349954|Withdraw (activity)|acty|||Withdrawal||||1000|1|10
+SE|00000000|RESULTS|tx|142|entity|C0035608|Rifampin|antb,orch|||rifampin||||1000|15|22
+SE|00000000|RESULTS|tx|142|entity|C0043031|Warfarin|hops,orch,phsu|||warfarin||||888|38|45
+SE|00000000|RESULTS|tx|142|entity|C1514873|Requirement|ftcn|||requirement||||888|47|57
+SE|00000000|RESULTS|tx|142|relation|2|1|C0035608|Rifampin|antb,orch|antb|||rifampin||||1000|15|22|VERB|INHIBITS||24|32|1|1|C0043031|Warfarin|hops,orch,phsu|hops|||warfarin||||888|38|45
+
+SE|00000000|RESULTS|tx|143|text|Interactions of cobalt and iron in absorption and retention.
+SE|00000000|RESULTS|tx|143|entity|C1704675|Interaction|ftcn|||Interactions||||966|1|12
+SE|00000000|RESULTS|tx|143|entity|C0009148|Cobalt|elii|||cobalt||||1000|17|22
+SE|00000000|RESULTS|tx|143|entity|C0302583|Iron|bacs,elii,phsu|||iron||||1000|28|31
+
+SE|00000000|RESULTS|tx|144|text|The lower rate of absorption in the groups receiving 446 mg Fe instead of 48 mg of Fe per kg diet resulted in a decreased renal excretion of cobalt.
+SE|00000000|RESULTS|tx|144|entity|C1521828|Rate|qnco|||rate||||861|11|14
+SE|00000000|RESULTS|tx|144|entity|C0441833|Groups|idcn|||groups||||1000|37|42
+SE|00000000|RESULTS|tx|144|entity|C0012155|Diet|food|||diet||||888|94|97
+SE|00000000|RESULTS|tx|144|entity|C0205216|Decreased|qnco|||decreased||||851|113|121
+SE|00000000|RESULTS|tx|144|entity|C0022646|Kidney|bpoc|||renal||||851|123|127
+SE|00000000|RESULTS|tx|144|entity|C0221102|Excretory function|phsf|||excretion||||851|129|137
+SE|00000000|RESULTS|tx|144|entity|C0009148|Cobalt|elii|||cobalt||||1000|142|147
+
+SE|00000000|RESULTS|tx|145|text|Combined treatment with 1,25(OH)2D3 and TAM enhances the degree of apoptosis assessed using morphological markers that identify chromatin and nuclear matrix protein condensation.
+SE|00000000|RESULTS|tx|145|entity|C0009429|Combined Modality Therapy|topp|||Combined treatment||||1000|1|18
+SE|00000000|RESULTS|tx|145|entity|C0039286|Tamoxifen|orch,phsu|||TAM||||1000|41|43
+SE|00000000|RESULTS|tx|145|entity|C0441889|Levels (qualifier value)|qlco|||degree||||1000|58|63
+SE|00000000|RESULTS|tx|145|entity|C0162638|Apoptosis|celf|||apoptosis||||1000|68|76
+SE|00000000|RESULTS|tx|145|entity|C0543482|morphological|spco|||morphological||||872|93|105
+SE|00000000|RESULTS|tx|145|entity|C0005516|Biological Markers|clna|||markers||||872|107|113
+SE|00000000|RESULTS|tx|145|entity|C0008546|Chromatin|aapp|||chromatin||||1000|129|137
+SE|00000000|RESULTS|tx|145|entity|C0133195|Nuclear Matrix-Associated Proteins|aapp,bacs|||nuclear matrix protein||||756|143|164
+
+SE|00000000|RESULTS|tx|146|text|Misonidazole has a complex effect on oral CCNU pharmacokinetics.
+SE|00000000|RESULTS|tx|146|entity|C0026218|Misonidazole|orch,phsu|||Misonidazole||||1000|1|12
+SE|00000000|RESULTS|tx|146|entity|C0439855|Complex|qlco|||complex||||888|20|26
+SE|00000000|RESULTS|tx|146|entity|C1280500|Effect|qlco|||effect||||888|28|33
+SE|00000000|RESULTS|tx|146|entity|C0442027|Oral|spco|||oral||||851|38|41
+SE|00000000|RESULTS|tx|146|entity|C0687700|CCNU|orch,phsu|||CCNU||||851|43|46
+SE|00000000|RESULTS|tx|146|entity|C0031328|Pharmacokinetic aspects|ftcn|||pharmacokinetics||||851|48|63
+SE|00000000|RESULTS|tx|146|relation|1|1|C0026218|Misonidazole|orch,phsu|orch|||Misonidazole||||1000|1|12|NOM|INTERACTS_WITH||28|33|1|1|C0687700|CCNU|orch,phsu|orch|||CCNU||||851|43|46
+
+SE|00000000|RESULTS|tx|147|text|Dose-response curves (derived from the results of using the tablets as well as pure powders) showed that tripelennamine was responsible for the inhibitory activity, which was partially antagonized by pentazocine.
+SE|00000000|RESULTS|tx|147|entity|C0683162|dose-response curve|qnco|||Dose-response curves||||966|1|20
+SE|00000000|RESULTS|tx|147|entity|C1274040|Result|ftcn|||results||||1000|40|46
+SE|00000000|RESULTS|tx|147|entity|C0039225|Tablet Dosage Form|bodm|||tablets||||1000|61|67
+SE|00000000|RESULTS|tx|147|entity|C2247561|5-(carboxyamino)imidazole ribonucleotide mutase activity|moft|||pure||||888|80|83
+SE|00000000|RESULTS|tx|147|entity|C0032861|Powder dose form|bodm|||powders||||888|85|91
+SE|00000000|RESULTS|tx|147|entity|C0041090|Tripelennamine|orch,phsu|||tripelennamine||||1000|106|119
+SE|00000000|RESULTS|tx|147|entity|C0021469|Metabolic Inhibition|moft|||inhibitory||||888|145|154
+SE|00000000|RESULTS|tx|147|entity|C0439167|Percent Activity|qnco|||activity||||888|156|163
+SE|00000000|RESULTS|tx|147|entity|C0030873|Pentazocine|orch,phsu|||pentazocine||||1000|201|211
+SE|00000000|RESULTS|tx|147|relation|5|1|C0041090|Tripelennamine|orch,phsu|phsu|||tripelennamine||||1000|106|119|ADJ|AFFECTS||125|135|2|1|C0021469|Metabolic Inhibition|moft|moft|||inhibitory||||888|145|154
+SE|00000000|RESULTS|tx|147|relation|1|1|C0030873|Pentazocine|orch,phsu|phsu|||pentazocine||||1000|201|211|VERB|DISRUPTS||186|196|7|1|C0021469|Metabolic Inhibition|moft|moft|||inhibitory||||888|145|154
+
+SE|00000000|RESULTS|tx|148|text|In monkeys, the effects of (-)-NANM, but not (+)-NANM or PCP, were antagonized by naloxone;
+SE|00000000|RESULTS|tx|148|entity|C0026447|Monkeys|mamm|||monkeys||||1000|4|10
+SE|00000000|RESULTS|tx|148|entity|C1280500|Effect|qlco|||effects||||1000|17|23
+SE|00000000|RESULTS|tx|148|entity|C1518422|Negation|ftcn|||not||||1000|42|44
+SE|00000000|RESULTS|tx|148|entity|||gngm|649,5547,54858|BMP1,PRCP,PGPEP1|PCP||||1000|58|60
+SE|00000000|RESULTS|tx|148|entity|C0027358|Naloxone|orch,phsu|||naloxone||||1000|83|90
+
+SE|00000000|RESULTS|tx|149|text|Misonidazole reduced the antitumour activity of oral CCNU by dose modifying factors (DMF) of 0.58-0.71.
+SE|00000000|RESULTS|tx|149|entity|C0026218|Misonidazole|orch,phsu|||Misonidazole||||1000|1|12
+SE|00000000|RESULTS|tx|149|entity|C2986475|Antitumor|qlco|||antitumour||||888|26|35
+SE|00000000|RESULTS|tx|149|entity|C0439167|Percent Activity|qnco|||activity||||888|37|44
+SE|00000000|RESULTS|tx|149|entity|C0442027|Oral|spco|||oral||||888|49|52
+SE|00000000|RESULTS|tx|149|entity|C0687700|CCNU|orch,phsu|||CCNU||||888|54|57
+SE|00000000|RESULTS|tx|149|entity|C0178602|Dosage|qnco|||dose||||829|62|65
+SE|00000000|RESULTS|tx|149|entity|C0392747|Changing|ftcn|||modifying||||829|67|75
+SE|00000000|RESULTS|tx|149|entity|C1521761|Factor|ftcn|||factors||||829|77|83
+SE|00000000|RESULTS|tx|149|relation|1|1|C0026218|Misonidazole|orch,phsu|orch|||Misonidazole||||1000|1|12|VERB|INHIBITS||14|20|3|2|C0687700|CCNU|orch,phsu|orch|||CCNU||||888|54|57
+
+SE|00000000|RESULTS|tx|150|text|Midazolam used at doses of 1.25 mg/kg and 2.5 mg/kg decreased the antinociceptive effect of morphine, metamizol (only in the tail-flick test) and indomethacin.
+SE|00000000|RESULTS|tx|150|entity|C0026056|Midazolam|orch,phsu|||Midazolam||||1000|1|9
+SE|00000000|RESULTS|tx|150|entity|C0178602|Dosage|qnco|||doses||||1000|19|23
+SE|00000000|RESULTS|tx|150|entity|C0439272|ug/g|qnco|||mg/kg||||824|33|37
+SE|00000000|RESULTS|tx|150|entity|C0450346|2/5|qnco|||2.5||||888|43|45
+SE|00000000|RESULTS|tx|150|entity|C0439272|ug/g|qnco|||mg/kg||||888|47|51
+SE|00000000|RESULTS|tx|150|entity|C1280500|Effect|qlco|||effect||||861|83|88
+SE|00000000|RESULTS|tx|150|entity|C0026549|Morphine|orch,phsu|||morphine||||1000|93|100
+SE|00000000|RESULTS|tx|150|entity|C0012586|Dipyrone|orch,phsu|||metamizol||||1000|103|111
+SE|00000000|RESULTS|tx|150|entity|C0205171|Singular|qnco|||only||||1000|114|117
+SE|00000000|RESULTS|tx|150|entity|C0039259|Tail|bpoc|||tail-||||802|126|130
+SE|00000000|RESULTS|tx|150|entity|C0022885|Laboratory Procedures|lbpr|||test||||802|137|140
+SE|00000000|RESULTS|tx|150|entity|C0021246|Indomethacin|orch,phsu|||indomethacin||||1000|147|158
+SE|00000000|RESULTS|tx|150|relation|4|2|C0012586|Dipyrone|orch,phsu|orch|||metamizol||||1000|103|111|NOM|INTERACTS_WITH||83|88|4|1|C0026549|Morphine|orch,phsu|orch|||morphine||||1000|93|100
+
+SE|00000000|RESULTS|tx|151|text|Sildenafil is contraindicated in patients using long-acting nitrates or who may need to use short-acting nitrates, because the combination may cause a sharp fall of the blood pressure.
+SE|00000000|RESULTS|tx|151|entity|C0529793|sildenafil|orch,phsu|||Sildenafil||||1000|1|10
+SE|00000000|RESULTS|tx|151|entity|C0030705|Patients|podg|||patients||||1000|34|41
+SE|00000000|RESULTS|tx|151|entity|C0205166|Long|qlco|||long-||||802|49|53
+SE|00000000|RESULTS|tx|151|entity|C0028125|Nitrates|chvs|||nitrates||||802|61|68
+SE|00000000|RESULTS|tx|151|entity|C1282927|Shortened|qlco|||short||||802|93|97
+SE|00000000|RESULTS|tx|151|entity|C0028125|Nitrates|chvs|||nitrates||||802|106|113
+SE|00000000|RESULTS|tx|151|entity|C0205195|Combined|qlco|||combination||||1000|128|138
+SE|00000000|RESULTS|tx|151|entity|C1539835|SPEN gene|gngm|23013|SPEN|sharp||||888|152|156
+SE|00000000|RESULTS|tx|151|entity|C0238715|Autumn|tmco|||fall||||888|158|161
+SE|00000000|RESULTS|tx|151|entity|C0005823|Blood Pressure|orgf|||blood pressure||||1000|170|183
+SE|00000000|RESULTS|tx|151|relation|1|1|C0529793|sildenafil|orch,phsu|phsu|||Sildenafil||||1000|1|10|PREP|TREATS||31|32|6|1|C0030705|Patients|podg,humn|podg|||patients||||1000|34|41
+
+SE|00000000|RESULTS|tx|152|text|[The GABA-ergic system and brain edema]&#xd;&#xa;It has been shown in rats with experimental toxic and traumatic edemas that picrotoxin (1 mg/kg) removes the antiedematous action of diazepam, phenazepam, phenibut and amizyl and reduces the action of phentolamine.
+SE|00000000|RESULTS|tx|152|entity|C0016904|gamma-Aminobutyric Acid|aapp,nsba|||GABA-||||851|6|10
+SE|00000000|RESULTS|tx|152|entity|C1166849|ER-Golgi intermediate compartment|celc|||ergic||||851|11|15
+SE|00000000|RESULTS|tx|152|entity|C0449913|System|ftcn|||system||||851|17|22
+SE|00000000|RESULTS|tx|152|entity|C1527311|Brain Edema|dsyn|||brain edema||||1000|28|38
+SE|00000000|RESULTS|tx|153|entity|C0034693|Rattus norvegicus|mamm|||rats||||1000|22|25
+SE|00000000|RESULTS|tx|153|entity|C1517586|Investigational|qlco|||experimental||||888|32|43
+SE|00000000|RESULTS|tx|153|entity|C1407029|Toxic|qlco|||toxic||||888|45|49
+SE|00000000|RESULTS|tx|153|entity|C0332663|Traumatic|ftcn|||traumatic||||888|55|63
+SE|00000000|RESULTS|tx|153|entity|C0013604|Edema|patf|||edemas||||888|65|70
+SE|00000000|RESULTS|tx|153|entity|C0031890|Picrotoxin|hops,orch,phsu|||picrotoxin||||1000|77|86
+SE|00000000|RESULTS|tx|153|entity|C0439272|ug/g|qnco|||mg/kg||||901|91|95
+SE|00000000|RESULTS|tx|153|entity|C3266814|Action|acty|||action||||861|124|129
+SE|00000000|RESULTS|tx|153|entity|C0012010|Diazepam|orch,phsu|||diazepam||||1000|134|141
+SE|00000000|RESULTS|tx|153|entity|C0070543|phenazepam|orch,phsu|||phenazepam||||1000|144|153
+SE|00000000|RESULTS|tx|153|entity|C0048007|4-amino-3-phenylbutyric acid|orch,phsu|||phenibut||||1000|156|163
+SE|00000000|RESULTS|tx|153|entity|C0002605|Amizyl|orch,phsu|||amizyl||||1000|169|174
+SE|00000000|RESULTS|tx|153|entity|C3266814|Action|acty|||action||||1000|192|197
+SE|00000000|RESULTS|tx|153|entity|C0031448|Phentolamine|orch,phsu|||phentolamine||||1000|202|213
+
+SE|00000000|RESULTS|tx|154|text|We propose these pharmacokinetic changes to be the underlying mechanism for the reduction of oral CCNU cytotoxicity by misonidazole.
+SE|00000000|RESULTS|tx|154|entity|C0443172|Changed status|qnco|||changes||||827|34|40
+SE|00000000|RESULTS|tx|154|entity|C0392756|Reduced|qlco|||reduction||||1000|81|89
+SE|00000000|RESULTS|tx|154|entity|C0442027|Oral|spco|||oral||||851|94|97
+SE|00000000|RESULTS|tx|154|entity|C0687700|CCNU|orch,phsu|||CCNU||||851|99|102
+SE|00000000|RESULTS|tx|154|entity|C0596402|cytotoxicity|comd|||cytotoxicity||||851|104|115
+SE|00000000|RESULTS|tx|154|entity|C0026218|Misonidazole|orch,phsu|||misonidazole||||1000|120|131
+SE|00000000|RESULTS|tx|154|relation|2|2|C0026218|Misonidazole|orch,phsu|phsu|||misonidazole||||1000|120|131|NOM|PREVENTS||81|89|2|1|C0596402|cytotoxicity|comd|comd|||cytotoxicity||||851|104|115
+
+SE|00000000|RESULTS|tx|155|text|However, halothane anesthetic requirement (i.e., MAC) was depressed in a dose-dependent fashion as much as 56% 1-2 hours and as much as 14% 5-6 hours after injection of ketamine, 50 mg/kg, im.
+SE|00000000|RESULTS|tx|155|entity|C0018549|Halothane|orch,phsu|||halothane||||851|10|18
+SE|00000000|RESULTS|tx|155|entity|C0002932|Anesthetics|phsu|||anesthetic||||851|20|29
+SE|00000000|RESULTS|tx|155|entity|C1514873|Requirement|ftcn|||requirement||||851|31|41
+SE|00000000|RESULTS|tx|155|entity|C0599662|magnetic cell separation system|lbpr|||MAC)||||966|50|53
+SE|00000000|RESULTS|tx|155|entity|C1512045|Dose-dependent|qnco|||dose-dependent||||734|74|87
+SE|00000000|RESULTS|tx|155|entity|C0205172|More|ftcn|||much||||966|100|103
+SE|00000000|RESULTS|tx|155|entity|C0439227|Hour|tmco|||hours||||812|116|120
+SE|00000000|RESULTS|tx|155|entity|C0205172|More|ftcn|||much||||966|129|132
+SE|00000000|RESULTS|tx|155|entity|C0439227|Hour|tmco|||hours||||812|145|149
+SE|00000000|RESULTS|tx|155|entity|C1533685|Injection procedure|topp|||injection||||1000|157|165
+SE|00000000|RESULTS|tx|155|entity|C0022614|Ketamine|orch,phsu|||ketamine||||1000|170|177
+SE|00000000|RESULTS|tx|155|entity|C0439272|ug/g|qnco|||mg/kg||||901|183|187
+SE|00000000|RESULTS|tx|155|relation|0|0|C0018549|Halothane|orch,phsu|orch|||halothane||||851|10|18|MOD/HEAD|ISA||10|29|0|0|C0002932|Anesthetics|phsu|phsu|||anesthetic||||851|20|29
+
+SE|00000000|RESULTS|tx|156|text|Rifampin markedly increases the metabolic clearance of amprenavir, and coadministration is contraindicated.
+SE|00000000|RESULTS|tx|156|entity|C0035608|Rifampin|antb,orch|||Rifampin||||888|1|8
+SE|00000000|RESULTS|tx|156|entity|C0522501|Massive|qlco|||markedly||||888|10|17
+SE|00000000|RESULTS|tx|156|entity|C2707259|Metabolic:-:Point in time:^Patient:-|clna|||metabolic||||888|33|41
+SE|00000000|RESULTS|tx|156|entity|C0449297|Clearance|qlco|||clearance||||888|43|51
+SE|00000000|RESULTS|tx|156|entity|C0754188|Amprenavir|orch,phsu|||amprenavir||||1000|56|65
+SE|00000000|RESULTS|tx|156|relation|1|1|C0035608|Rifampin|antb,orch|antb|||Rifampin||||888|1|8|VERB|STIMULATES||19|27|3|2|C0754188|Amprenavir|orch,phsu|orch|||amprenavir||||1000|56|65
+
+SE|00000000|RESULTS|tx|157|text|Ventricular tachycardia induced by ouabain was generally converted to sinus rhythm following administration of Innovar, ketamine, or droperidol but not after administration of fentayl alone or after pentobarbital. the doses of naloxone required to antagonize the effects of (-)-NANM were more than 100 times higher than those required to antagonize the effects of morphine.
+SE|00000000|RESULTS|tx|157|entity|C0042514|Tachycardia, Ventricular|patf|||Ventricular tachycardia||||1000|1|23
+SE|00000000|RESULTS|tx|157|entity|C0029904|Ouabain|carb,phsu,strd|||ouabain||||1000|36|42
+SE|00000000|RESULTS|tx|157|entity|C0232201|Sinus rhythm|fndg|||sinus rhythm||||1000|71|82
+SE|00000000|RESULTS|tx|157|entity|C0063549|Innovar|orch,phsu|||Innovar||||1000|112|118
+SE|00000000|RESULTS|tx|157|entity|C0022614|Ketamine|orch,phsu|||ketamine||||1000|121|128
+SE|00000000|RESULTS|tx|157|entity|C0013136|Droperidol|orch,phsu|||droperidol||||1000|134|143
+SE|00000000|RESULTS|tx|157|entity|C1518422|Negation|ftcn|||not||||1000|149|151
+SE|00000000|RESULTS|tx|157|entity|C0205171|Singular|qnco|||alone||||1000|185|189
+SE|00000000|RESULTS|tx|157|entity|C0030883|Pentobarbital|orch,phsu|||pentobarbital||||1000|200|212
+SE|00000000|RESULTS|tx|157|entity|C0178602|Dosage|qnco|||doses||||1000|219|223
+SE|00000000|RESULTS|tx|157|entity|C0027358|Naloxone|orch,phsu|||naloxone||||1000|228|235
+SE|00000000|RESULTS|tx|157|entity|C1280500|Effect|qlco|||effects||||1000|264|270
+SE|00000000|RESULTS|tx|157|entity|C0205172|More|ftcn|||more||||1000|289|292
+SE|00000000|RESULTS|tx|157|entity|C1632851|Times|qnco|||times||||861|303|307
+SE|00000000|RESULTS|tx|157|entity|C0205250|High|qlco|||higher||||966|309|314
+SE|00000000|RESULTS|tx|157|entity|C1280500|Effect|qlco|||effects||||1000|354|360
+SE|00000000|RESULTS|tx|157|entity|C0026549|Morphine|orch,phsu|||morphine||||1000|365|372
+SE|00000000|RESULTS|tx|157|relation|18|1|C0029904|Ouabain|carb,phsu,strd|carb|||ouabain||||1000|36|42|VERB|CAUSES||25|31|1|1|C0042514|Tachycardia, Ventricular|patf|patf|||Ventricular tachycardia||||1000|1|23
+SE|00000000|RESULTS|tx|157|relation|17|5|C0027358|Naloxone|orch,phsu|orch|||naloxone||||1000|228|235|NOM|INTERACTS_WITH||354|360|1|1|C0026549|Morphine|orch,phsu|orch|||morphine||||1000|365|372
+
+SE|00000000|RESULTS|tx|158|text|Echistatin alone had no effect on tyrosine phosphorylation in T24 cells, but dose-dependently inhibits the effects of contortrostatin when both are added simultaneously.
+SE|00000000|RESULTS|tx|158|entity|C0058926|echistatin|aapp,phsu|||Echistatin||||1000|1|10
+SE|00000000|RESULTS|tx|158|entity|C0205171|Singular|qnco|||alone||||1000|12|16
+SE|00000000|RESULTS|tx|158|entity|C1280500|Effect|qlco|||effect||||1000|25|30
+SE|00000000|RESULTS|tx|158|entity|C1519726|Tyrosine Phosphorylation|moft|||tyrosine phosphorylation||||1000|35|58
+SE|00000000|RESULTS|tx|158|entity|C0007634|Cells|cell|||cells||||861|67|71
+SE|00000000|RESULTS|tx|158|entity|C0178602|Dosage|qnco|||dose-||||861|78|82
+SE|00000000|RESULTS|tx|158|entity|C1280500|Effect|qlco|||effects||||1000|108|114
+SE|00000000|RESULTS|tx|158|entity|C0911731|contortrostatin|aapp|||contortrostatin||||1000|119|133
+SE|00000000|RESULTS|tx|158|entity|C0521115|Simultaneous|tmco|||simultaneously||||1000|155|168
+SE|00000000|RESULTS|tx|158|relation|2|2|C0058926|echistatin|aapp,gngm,phsu|aapp|||Echistatin||||1000|1|10|NOM|AFFECTS|negation|25|30|4|1|C1519726|Tyrosine Phosphorylation|moft|moft|||tyrosine phosphorylation||||1000|35|58
+
+SE|00000000|RESULTS|tx|159|text|Indinavir may be taken with a light meal 1 h following the administration of 400 mg of didanosine.
+SE|00000000|RESULTS|tx|159|entity|C0376637|Indinavir|orch,phsu|||Indinavir||||1000|1|9
+SE|00000000|RESULTS|tx|159|entity|C0012133|Didanosine|nnon,phsu|||didanosine||||1000|88|97
+
+SE|00000000|RESULTS|tx|160|text|The treatment of ewes with an intravenous (IV) injection of trichlorfon, insufficient to produce significant inhibition of erythrocyte acetylcholinesterase (AChE) activity, appeared to produce additive effects with those produced by subsequent treatment with 4 mg of coumaphos/kg/day.
+SE|00000000|RESULTS|tx|160|entity|C0087111|Therapeutic procedure|topp|||treatment||||1000|5|13
+SE|00000000|RESULTS|tx|160|entity|C0699762|ewes|mamm|||ewes||||1000|18|21
+SE|00000000|RESULTS|tx|160|entity|C0021494|Intravenous Injections|ftcn|||intravenous (IV) injection||||1000|31|56
+SE|00000000|RESULTS|tx|160|entity|C0040898|Trichlorfon|hops,opco|||trichlorfon||||1000|61|71
+SE|00000000|RESULTS|tx|160|entity|C0205412|Inadequate (qualifier)|qlco|||insufficient||||861|74|85
+SE|00000000|RESULTS|tx|160|entity|C0237881|Statistical Significance|qnco|||significant||||888|98|108
+SE|00000000|RESULTS|tx|160|entity|C1628982|Percent inhibition|qnco|||inhibition||||888|110|119
+SE|00000000|RESULTS|tx|160|entity|C0014792|Erythrocytes|cell|||erythrocyte||||901|124|134
+SE|00000000|RESULTS|tx|160|entity|C1149827|acetylcholinesterase activity|moft|||acetylcholinesterase (AChE) activity||||901|136|171
+SE|00000000|RESULTS|tx|160|entity|C0442796|Additive|qlco|||additive||||888|194|201
+SE|00000000|RESULTS|tx|160|entity|C1280500|Effect|qlco|||effects||||888|203|209
+SE|00000000|RESULTS|tx|160|entity|C0332282|Following|tmco|||subsequent||||888|234|243
+SE|00000000|RESULTS|tx|160|entity|C0010203|Coumaphos|hops,opco,phsu|||coumaphos||||901|268|276
+SE|00000000|RESULTS|tx|160|entity|C0439418|kg/day|qnco|||kg/day||||901|278|283
+SE|00000000|RESULTS|tx|160|relation|4|1|C0040898|Trichlorfon|hops,opco|hops|||trichlorfon||||1000|61|71|NOM|DISRUPTS||110|119|5|1|C1149827|acetylcholinesterase activity|moft|moft|||acetylcholinesterase (AChE) activity||||901|136|171
+
+SE|00000000|RESULTS|tx|161|text|Exogenous estradiol also appeared to influence the percentage of endotoxin-induced deaths in a dose-dependent manner.
+SE|00000000|RESULTS|tx|161|entity|C0205228|Exogenous|ftcn|||Exogenous||||790|1|9
+SE|00000000|RESULTS|tx|161|entity|C0014912|Estradiol|horm,phsu,strd|||estradiol||||790|11|19
+SE|00000000|RESULTS|tx|161|entity|C0439165|Percent (qualifier value)|qnco|||percentage||||1000|52|61
+SE|00000000|RESULTS|tx|161|entity|C0014264|Endotoxins|carb,hops,lipd|||endotoxin||||851|66|74
+SE|00000000|RESULTS|tx|161|entity|C0205263|Induce (action)|ftcn|||induced||||851|76|82
+SE|00000000|RESULTS|tx|161|entity|C0011065|Cessation of life|orgf|||deaths||||851|84|89
+SE|00000000|RESULTS|tx|161|entity|C1512045|Dose-dependent|qnco|||dose-dependent||||734|96|109
+
+SE|00000000|RESULTS|tx|162|text|Loperamide and morphine (0.1 and 1.0 mg/kg, s.c.) inhibited the dmPGE2 (0.3 mg/kg, p.o.)-induced diarrhea in cecectomized rats.
+SE|00000000|RESULTS|tx|162|entity|C0023992|Loperamide|orch,phsu|||Loperamide||||1000|1|10
+SE|00000000|RESULTS|tx|162|entity|C0026549|Morphine|orch,phsu|||morphine||||1000|16|23
+SE|00000000|RESULTS|tx|162|entity|C0439272|ug/g|qnco|||mg/kg||||824|38|42
+SE|00000000|RESULTS|tx|162|entity|C0565930|per second|qnco|||s.c||||861|45|47
+SE|00000000|RESULTS|tx|162|entity|C2827527|16,16-Dimethyl Prostaglandin E2|orch,phsu|||dmPGE2||||1000|65|70
+SE|00000000|RESULTS|tx|162|entity|C0439272|ug/g|qnco|||mg/kg||||861|77|81
+SE|00000000|RESULTS|tx|162|entity|C2603361|P prime|clna|||p.o.||||775|84|87
+SE|00000000|RESULTS|tx|162|entity|C0205263|Induce (action)|ftcn|||induced||||775|90|96
+SE|00000000|RESULTS|tx|162|entity|C0011991|Diarrhea|sosy|||diarrhea||||775|98|105
+SE|00000000|RESULTS|tx|162|entity|C0034693|Rattus norvegicus|mamm|||rats||||861|123|126
+SE|00000000|RESULTS|tx|162|relation|4|3|C0026549|Morphine|orch,phsu|orch|||morphine||||1000|16|23|VERB|INHIBITS||51|59|4|1|C2827527|16,16-Dimethyl Prostaglandin E2|orch,phsu|orch|||dmPGE2||||1000|65|70
+SE|00000000|RESULTS|tx|162|relation|4|3|C0023992|Loperamide|orch,phsu|orch|||Loperamide||||1000|1|10|VERB|INHIBITS||51|59|4|1|C2827527|16,16-Dimethyl Prostaglandin E2|orch,phsu|orch|||dmPGE2||||1000|65|70
+
+SE|00000000|RESULTS|tx|163|text|Rifampin has been reported to increase the warfarin requirements in human subjects ingesting these agents simultaneously.
+SE|00000000|RESULTS|tx|163|entity|C0035608|Rifampin|antb,orch|||Rifampin||||1000|1|8
+SE|00000000|RESULTS|tx|163|entity|C0043031|Warfarin|hops,orch,phsu|||warfarin||||872|44|51
+SE|00000000|RESULTS|tx|163|entity|C1514873|Requirement|ftcn|||requirements||||872|53|64
+SE|00000000|RESULTS|tx|163|entity|C0178693|human study|resa|||human subjects||||983|69|82
+SE|00000000|RESULTS|tx|163|entity|C1254351|Pharmacologic Substance|phsu|||agents||||872|100|105
+SE|00000000|RESULTS|tx|163|entity|C0521115|Simultaneous|tmco|||simultaneously||||872|107|120
+SE|00000000|RESULTS|tx|163|relation|1|1|C0035608|Rifampin|antb,orch|antb|||Rifampin||||1000|1|8|VERB|STIMULATES||31|38|3|1|C0043031|Warfarin|hops,orch,phsu|hops|||warfarin||||872|44|51
+
+SE|00000000|RESULTS|tx|164|text|These results suggest that both dexamethasone and retinyl acetate, and possibly other glucocorticoids and retinoids, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of insulin and EGF.
+SE|00000000|RESULTS|tx|164|entity|C1274040|Result|ftcn|||results||||1000|7|13
+SE|00000000|RESULTS|tx|164|entity|C0011777|Dexamethasone|phsu,strd|||dexamethasone||||1000|33|45
+SE|00000000|RESULTS|tx|164|entity|C0073109|retinol acetate|orch,phsu,vita|||retinyl acetate||||1000|51|65
+SE|00000000|RESULTS|tx|164|entity|C2362652|Possible diagnosis|qlco|||possibly||||1000|72|79
+SE|00000000|RESULTS|tx|164|entity|C0017710|Glucocorticoids|horm,strd|||glucocorticoids||||1000|87|101
+SE|00000000|RESULTS|tx|164|entity|C0035339|Retinoids|bacs,orch,phsu|||retinoids||||1000|107|115
+SE|00000000|RESULTS|tx|164|entity|C1514485|Proliferation|ftcn|||proliferation||||1000|135|147
+SE|00000000|RESULTS|tx|164|entity|C1179826|Prostatic epithelium|tisu|||prostate epithelium||||964|152|170
+SE|00000000|RESULTS|tx|164|entity|C1701901|Conditional|qlco|||dependent||||901|182|190
+SE|00000000|RESULTS|tx|164|entity|C1707811|Dose Modification|resa|||dose-dependent modification||||901|177|203
+SE|00000000|RESULTS|tx|164|entity|C0205177|Active|ftcn|||activity||||1000|212|219
+SE|00000000|RESULTS|tx|164|entity|C0021641|Insulin|aapp,horm,phsu|||insulin||||1000|224|230
+SE|00000000|RESULTS|tx|164|entity|||gngm|1950|EGF|EGF||||1000|236|238
+SE|00000000|RESULTS|tx|164|relation|7|3|C0035339|Retinoids|bacs,orch,phsu|bacs|||retinoids||||1000|107|115|ADJ|STIMULATES||182|190|3|2|C0021641|Insulin|aapp,gngm,horm,phsu|gngm|||insulin||||1000|224|230
+SE|00000000|RESULTS|tx|164|relation|7|3|C0035339|Retinoids|bacs,orch,phsu|bacs|||retinoids||||1000|107|115|ADJ|STIMULATES||182|190|3|2|||gngm,aapp|gngm|1950|EGF|EGF||||1000|236|238
+SE|00000000|RESULTS|tx|164|relation|7|3|C0017710|Glucocorticoids|horm,strd|horm|||glucocorticoids||||1000|87|101|ADJ|STIMULATES||182|190|3|2|C0021641|Insulin|aapp,gngm,horm,phsu|gngm|||insulin||||1000|224|230
+SE|00000000|RESULTS|tx|164|relation|7|4|C0017710|Glucocorticoids|horm,strd|horm|||glucocorticoids||||1000|87|101|ADJ|STIMULATES||182|190|3|3|||gngm,aapp|gngm|1950|EGF|EGF||||1000|236|238
+
+SE|00000000|RESULTS|tx|165|text|The concomitant administration of rifampin and warfarin resulted in the need for an unusually high maintenance dose of warfarin (20 mg per day) in order to produce a therapeutic effect.
+SE|00000000|RESULTS|tx|165|entity|C0521115|Simultaneous|tmco|||concomitant||||888|5|15
+SE|00000000|RESULTS|tx|165|entity|C0035608|Rifampin|antb,orch|||rifampin||||1000|35|42
+SE|00000000|RESULTS|tx|165|entity|C0043031|Warfarin|hops,orch,phsu|||warfarin||||1000|48|55
+SE|00000000|RESULTS|tx|165|entity|C0027552|Needs|qlco|||need||||1000|73|76
+SE|00000000|RESULTS|tx|165|entity|C0024501|Maintenance|acty|||maintenance||||824|100|110
+SE|00000000|RESULTS|tx|165|entity|C0444956|High dose|qnco|||high maintenance dose||||824|95|115
+SE|00000000|RESULTS|tx|165|entity|C0043031|Warfarin|hops,orch,phsu|||warfarin||||1000|120|127
+SE|00000000|RESULTS|tx|165|entity|C0439228|day|tmco|||day||||1000|140|142
+SE|00000000|RESULTS|tx|165|entity|C1882348|Permutation|qlco|||order||||861|148|152
+SE|00000000|RESULTS|tx|165|entity|C1527144|Therapeutic Effect|hlca|||therapeutic effect||||1000|167|184
+
+SE|00000000|RESULTS|tx|166|text|The successive application of glycine (5 or 10 mg/kg egg weight (e.w.) and glutamate (15 mg/kg e.w.) in a 10 min interval significantly increased the activation of spontaneous motility of 17-day-old chick embryos in comparison with the effect of glutamate alone.
+SE|00000000|RESULTS|tx|166|entity|C0185125|Application procedure|hlca|||application||||861|16|26
+SE|00000000|RESULTS|tx|166|entity|C0017890|Glycine|aapp,bacs,phsu|||glycine||||1000|31|37
+SE|00000000|RESULTS|tx|166|entity|C0439272|ug/g|qnco|||mg/kg||||798|48|52
+SE|00000000|RESULTS|tx|166|entity|C0029974|Ovum|cell|||egg||||798|54|56
+SE|00000000|RESULTS|tx|166|entity|C0043100|Weight|qnco|||weight||||798|58|63
+SE|00000000|RESULTS|tx|166|entity|C0220839|Glutamate|aapp,bacs|||glutamate||||1000|76|84
+SE|00000000|RESULTS|tx|166|entity|C0439272|ug/g|qnco|||mg/kg||||673|90|94
+SE|00000000|RESULTS|tx|166|entity|C0052080|antineoplaston A10|orch,phsu|||a 10||||798|105|108
+SE|00000000|RESULTS|tx|166|entity|C0702093|/minute|tmco|||min||||798|110|112
+SE|00000000|RESULTS|tx|166|entity|C1272706|Interval|tmco|||interval||||798|114|121
+SE|00000000|RESULTS|tx|166|entity|C0205359|Spontaneous|ftcn|||spontaneous||||888|165|175
+SE|00000000|RESULTS|tx|166|entity|C1510470|Motility|orgf|||motility||||888|177|184
+SE|00000000|RESULTS|tx|166|entity|C0439228|day|tmco|||day||||798|192|194
+SE|00000000|RESULTS|tx|166|entity|C0580836|Old|tmco|||old||||798|196|198
+SE|00000000|RESULTS|tx|166|entity|C0008046|Chick Embryo|emst|||chick embryos||||798|200|212
+SE|00000000|RESULTS|tx|166|entity|C1707455|Comparison|acty|||comparison||||1000|217|226
+SE|00000000|RESULTS|tx|166|entity|C1280500|Effect|qlco|||effect||||1000|237|242
+SE|00000000|RESULTS|tx|166|entity|C0220839|Glutamate|aapp,bacs|||glutamate||||1000|247|255
+SE|00000000|RESULTS|tx|166|entity|C0205171|Singular|qnco|||alone||||1000|257|261
+SE|00000000|RESULTS|tx|166|relation|6|5|C0220839|Glutamate|aapp,gngm,bacs|aapp|||glutamate||||1000|247|255|NOM|AUGMENTS||151|160|6|1|C1510470|Motility|orgf|orgf|||motility||||888|177|184
+
+SE|00000000|RESULTS|tx|167|text|Cypermethrin-induced oxidative stress in rat brain and liver is prevented by vitamin E or allopurinol.
+SE|00000000|RESULTS|tx|167|entity|C0056849|cypermethrin|hops,orch|||Cypermethrin||||861|1|12
+SE|00000000|RESULTS|tx|167|entity|C0205263|Induce (action)|ftcn|||induced||||861|14|20
+SE|00000000|RESULTS|tx|167|entity|C0242606|Oxidative Stress|comd|||oxidative stress||||861|22|37
+SE|00000000|RESULTS|tx|167|entity|C1882598|Rat Brain|bpoc|||rat brain||||1000|42|50
+SE|00000000|RESULTS|tx|167|entity|C0023884|Liver|bpoc|||liver||||1000|56|60
+SE|00000000|RESULTS|tx|167|entity|C0042874|Vitamin E|lipd,phsu,vita|||vitamin E||||1000|78|86
+SE|00000000|RESULTS|tx|167|entity|C0002144|Allopurinol|orch,phsu|||allopurinol||||1000|91|101
+SE|00000000|RESULTS|tx|167|relation|2|1|C0042874|Vitamin E|lipd,phsu,vita|phsu|||vitamin E||||1000|78|86|VERB|PREVENTS||65|73|3|3|C0242606|Oxidative Stress|comd|comd|||oxidative stress||||861|22|37
+SE|00000000|RESULTS|tx|167|relation|2|1|C0002144|Allopurinol|orch,phsu|phsu|||allopurinol||||1000|91|101|VERB|PREVENTS||65|73|3|3|C0242606|Oxidative Stress|comd|comd|||oxidative stress||||861|22|37
+
+SE|00000000|RESULTS|tx|168|text|It was concluded that, although gentamycin did augment the neuromuscular blockade of atracurium, the effect was minimal.
+SE|00000000|RESULTS|tx|168|entity|C0017436|Gentamicins|antb,carb|||gentamycin||||1000|33|42
+SE|00000000|RESULTS|tx|168|entity|C0700323|Observation of Neuromuscular Block|dsyn|||neuromuscular blockade||||1000|60|81
+SE|00000000|RESULTS|tx|168|entity|C0004234|Atracurium|orch,phsu|||atracurium||||1000|86|95
+SE|00000000|RESULTS|tx|168|entity|C1280500|Effect|qlco|||effect||||1000|102|107
+SE|00000000|RESULTS|tx|168|entity|C0547040|Minimal|qlco|||minimal||||1000|113|119
+SE|00000000|RESULTS|tx|168|relation|1|1|C0017436|Gentamicins|antb,carb|antb|||gentamycin||||1000|33|42|VERB|AUGMENTS||48|54|4|1|C0700323|Observation of Neuromuscular Block|dsyn|dsyn|||neuromuscular blockade||||1000|60|81
+
